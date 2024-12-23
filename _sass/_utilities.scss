@@ -60,6 +60,17 @@ body:hover .visually-hidden button {
   box-shadow: 0 0 2px 2px rgba(0,0,0,.6);
 }
 
+/* Import the Lora font (if you haven't already somewhere else) */
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+
+/* Force the entire site to inherit Lora */
+body,
+button,
+input,
+select,
+textarea {
+  font-family: 'Lora', serif !important;
+}
 
 /*
    Skip links

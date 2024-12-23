@@ -24,13 +24,13 @@ div.highlighter-rouge, figure.highlight {
     text-transform: none;
     speak: none;
   }
+.highlight {
+  margin: 0;
+  font-family: 'Lora', serif !important;
+  font-size: $type-size-7;
+  line-height: 1.8;
+}
 
-  .highlight {
-    margin: 0;
-    font-family: $monospace;
-    font-size: $type-size-7;
-    line-height: 1.8;
-  }
 }
 
 .highlight table td { padding: 5px; }

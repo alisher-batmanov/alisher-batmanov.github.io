@@ -7,6 +7,7 @@
    ========================================================================== */
 
 .sidebar {
+  /* Original transforms, spacing, and transitions */
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
 
@@ -23,55 +24,48 @@
       opacity: 1;
     }
   }
-  
-  /* Force the entire sidebar to use the Lora font */
-.sidebar {
-  font-family: 'Lora', serif;
-
-  /* If you want headings specifically to also use Lora, override them here: */
-  h2, h3, h4, h5, h6 {
-    font-family: 'Lora', serif;
-  }
-
-  p, li {
-    font-family: 'Lora', serif;
-    // If you'd like to bump up paragraph or list font sizes, do so here:
-    // font-size: $type-size-5;
-  }
-}
-
-/* Increase the font size of the author's name under the avatar */
-.sidebar .author__name {
-  font-family: 'Lora', serif;   
-  /* You can pick a larger size. For instance, if $type-size-5 
-     is ~16px, you might switch to $type-size-4 or set a custom size: */
-  font-size: $type-size-4; // or e.g. 1.25em, 20px, etc.
-}
-
 
   @include breakpoint($x-large) {
     padding-right: 0;
   }
 
+  /* 1) Force the entire sidebar to use the Lora font */
+  font-family: 'Lora', serif;
+
+  /* 2) Headings inside the sidebar also use Lora */
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: $sans-serif-narrow;
+    font-family: 'Lora', serif;
   }
 
-  h3, h4 {
-    font-size: $type-size-5;
-  }
-
+  /* 3) Paragraphs and lists in the sidebar use Lora */
   p, li {
-    font-family: $sans-serif;
-    font-size: $type-size-6;
+    font-family: 'Lora', serif;
+    font-size: $type-size-6; // Adjust if you want bigger/smaller text
     line-height: 1.5;
   }
 
+  /* 4) Images fill width */
   img {
     width: 100%;
   }
+
+  /* 5) Increase the font size of the author's name */
+  .author__name {
+    margin: 0;
+    font-family: 'Lora', serif;   
+    font-size: $type-size-4; // e.g., ~20px or 1.25em
+
+    @include breakpoint($large) {
+      margin-top: 10px;
+      margin-bottom: 10px;
+    }
+  }
 }
+
+/*
+   RIGHT SIDEBAR
+   ========================================================================== */
 
 .sidebar__right {
   margin-bottom: 1em;
@@ -90,7 +84,7 @@
 }
 
 /*
-   Author profile and links
+   AUTHOR PROFILE AND LINKS
    ========================================================================== */
 
 .author__avatar {
@@ -132,19 +126,6 @@
   }
 }
 
-.author__name {
-  margin: 0;
-
-  @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
-  }
-}
-.sidebar .author__name {
-  font-family: $sans-serif;
-  font-size: $type-size-5;
-}
-
 .author__bio {
   margin: 0;
 
@@ -158,9 +139,10 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  font-family: $sans-serif;
+  /* If you also want these links in Lora, add: */
+  font-family: 'Lora', serif;
+
   z-index: 10;
-  position: relative;
   cursor: pointer;
 
   li:last-child {
