@@ -54,7 +54,8 @@
   .author__name {
     margin: 0;
     font-family: 'Lora', serif;   
-    font-size: $type-size-5; // e.g., ~20px or 1.25em
+    font-size: 1.125em;           // Slightly bigger than ~16px (type-size-5), but smaller than 20px (type-size-4)
+    text-align: center;           // Center the text
 
     @include breakpoint($large) {
       margin-top: 10px;
