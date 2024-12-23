@@ -123,22 +123,30 @@
 }
 
 .author__content {
-  display: table-cell;
-  vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
-  line-height: 1;
+  // 1) Remove table-cell so it can be centered
+  // display: table-cell;
+  // vertical-align: top;
+
+  // 2) Replace it with block + auto margins or center text:
+  display: block;         // or flex, but block is simpler here
+  margin: 0 auto;         // horizontally centers as long as width is fixed or auto
+  text-align: center;     // ensures text is centered within this container
+
+  // 3) Adjust padding if you want less left/right space
+  padding-left: 0;        // or some smaller value like 5px
+  padding-right: 0;       // or some smaller value like 5px
+
+  line-height: 1;         // keep if you like that spacing
 
   @include breakpoint($large) {
-    display: block;
     width: 100%;
-    padding-left: 0;
-    padding-right: 0;
+    // margin-top and margin-bottom are optional if you want extra vertical spacing
   }
 }
 
 .author__bio {
-  margin: 0;
+  text-align: center;
+  margin: 0 auto;  // If needed for additional centering
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -176,6 +184,8 @@
 }
 
 .author__urls {
+  text-align: center;
+  margin: 0 auto;  // If needed for additional centering
   display: none;
   position: absolute;
   right: 0;
