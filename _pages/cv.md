@@ -1,6 +1,7 @@
 ---
 layout: archive
-title: ""
+title: "CV"
+nav_order: 3
 permalink: /cv/
 author_profile: true
 redirect_from:

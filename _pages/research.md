@@ -30,7 +30,8 @@ In my research I use lab and field experiments to explore topics that include
 
 ## Working Papers
 
-- **"Mass Reproducibility and Replicability: A New Hope" (2024)**  <small>with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.</small>
+- **"Mass Reproducibility and Replicability: A New Hope" (2024)** 
+<br> <small>(with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.)</small>
 
 
 <!-- 
