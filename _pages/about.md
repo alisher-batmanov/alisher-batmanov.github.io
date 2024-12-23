@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year Economics PhD candidate at [University of California San Diego](https://economics.ucsd.edu).
+I am a fourth-year Economics Ph.D. candidate at [University of California San Diego](https://economics.ucsd.edu). Prior to UC San Diego, I earned an M.A. in Economics at Central European University.
 
-Prior to UC San Diego I did Master's in Economics at Central European University.
+My primary fields are experimental economics and behavioral economics. I am particularly interested in experimentally studying how people learn from each other's decisions. I also work on topics related to students’ beliefs about mental health.
 
-
-My research interests are in experimental and behavioral economics with a focus on learning and mental models. I also work on topics related to students' beliefs about mental health.
-
-You can find the pronunciation of my first name [here](https://www.howtopronounce.com/alisher#google_vignette).
+<!-- You can find the pronunciation of my first name [here](https://www.howtopronounce.com/alisher#google_vignette). -->
 
 Contact 
 ------
