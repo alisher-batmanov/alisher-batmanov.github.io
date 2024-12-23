@@ -23,6 +23,30 @@
       opacity: 1;
     }
   }
+  
+  /* Force the entire sidebar to use the Lora font */
+.sidebar {
+  font-family: 'Lora', serif;
+
+  /* If you want headings specifically to also use Lora, override them here: */
+  h2, h3, h4, h5, h6 {
+    font-family: 'Lora', serif;
+  }
+
+  p, li {
+    font-family: 'Lora', serif;
+    // If you'd like to bump up paragraph or list font sizes, do so here:
+    // font-size: $type-size-5;
+  }
+}
+
+/* Increase the font size of the author's name under the avatar */
+.sidebar .author__name {
+  font-family: 'Lora', serif;   
+  /* You can pick a larger size. For instance, if $type-size-5 
+     is ~16px, you might switch to $type-size-4 or set a custom size: */
+  font-size: $type-size-4; // or e.g. 1.25em, 20px, etc.
+}
 
 
   @include breakpoint($x-large) {
