@@ -89,14 +89,20 @@
    ========================================================================== */
 
 .author__avatar {
-  display: table-cell;
+  /* 1) CHANGE: remove or comment out the old line:
+     display: table-cell; 
+     and REPLACE it with the following:
+  */
+  display: block;        // allows margin: 0 auto; centering
+  margin: 0 auto;        // horizontally center the avatar container
   vertical-align: top;
   width: 36px;
-  // set width only, for non-square avatars
-  // height: 36px;
+  // height: 36px; (commented out by default)
 
   @include breakpoint($large) {
-    display: block;
+    /* 2) REMOVE or comment out the old line "display: block;" if it's redundant
+       since we already have display: block for all screen sizes 
+    */
     width: auto;
     height: auto;
   }
@@ -109,6 +115,10 @@
       padding: 5px;
       border: 1px solid $border-color;
     }
+
+    /* 3) ADD these two lines so the image itself is also block-level and centered */
+    display: block;
+    margin: 0 auto;
   }
 }
 
