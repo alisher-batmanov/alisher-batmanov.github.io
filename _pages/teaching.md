@@ -13,12 +13,13 @@ author_profile: true
 ## Undergraduate Course Instructor
 
 - <span style="color:#001f3d"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Summer 2024 ([Evaluations](https://drive.google.com/file/d/1jTTdraeTxzaEmDzAUwtd2Wk6ZQ-fMIl0/view?usp=share_link))</strong></span>  
+Student learning - 4.24, Course structure - 4.36, Class environment - 4.64  
 "The professor did a wonderful job engaging the students in a way that made the information stick. I appreciate his teaching style and the things I learned; The rate the material was taught at was easy to follow in context of the quick pace for summer session; Made sure he was readily available, especially in the discord channel that was made for the class; I especially liked how interactive lectures were; He was really welcoming and interested in the lives of his students. He asked me about my work and why I was taking the class. He also went above and beyond by answering questions on discord that my team and I had. He was always prompt and informative."
 
 
 ## Teaching Assistant
 
-- <span style="color:#001f3d"><strong>ECON 220B: Econometric Analysis of Cross-sectional Data (PhD core) - Winter 2023 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
+- <span style="color:#001f3d"><strong>ECON 220B: Econometric Analysis of Cross-sectional Data (PhD core) - Winter 2023 ([Evaluations](https://drive.google.com/file/d/1W9ghTAdWt5m5OivkdIutZMZZaIOOASX5/view?usp=share_link))</strong></span>  
   <span id="econ220b-comments">
     "Alisher is my role model TA. It is an understatement to say that he goes out of his way for his students"
     <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ220b-comments', 'By far, Alisher was the most prepared and conscientious TA I have had at UCSD. He clearly demonstrated concern for the students and I wish him the best; Phenomenal TA. He went above and beyond writing out notes for discussions, soliciting feedback to improve throughout, giving detailed explanations when grading, and holding additional review sessions for each exam. He deserves all the awards. Please make him the metrics Qual TA; Great person and TA')">
@@ -63,14 +64,16 @@ author_profile: true
     "Alisher is a great TA. Very helpful; Excellent teacher; He has been truly accessible and useful"
   </span>
 
+- <span style="color:#001f3d"><strong>ECON 173: Financial Markets - Winter 2024 ([Evaluations](https://drive.google.com/file/d/1jzfMt7Hl_qLuJuuEFQVxyqOhzM_oYlPM/view?usp=share_link))</strong></span>  
+  "He gave me a lot of help during office hours and di about coding. Thanks for his efforts and help."
+
+
 <script>
   function expand(id, additionalComments) {
     const container = document.getElementById(id);
-    // Only expand once
     if (!container.dataset.expanded) {
       let base = container.innerHTML.split('<span')[0].trim();
-      // Insert a line break before the expanded text
-      container.innerHTML = base + '<br>' + additionalComments;
+      container.innerHTML = base + ' ' + additionalComments;
       container.dataset.expanded = "true";
     }
   }
