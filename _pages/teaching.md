@@ -16,7 +16,6 @@ author_profile: true
 "The professor did a wonderful job engaging the students in a way that made the information stick. I appreciate his teaching style and the things I learned; The rate the material was taught at was easy to follow in context of the quick pace for summer session; Made sure he was readily available, especially in the discord channel that was made for the class; I especially liked how interactive lectures were; He was really welcoming and interested in the lives of his students. He asked me about my work and why I was taking the class. He also went above and beyond by answering questions on discord that my team and I had. He was always prompt and informative."
 
 
-
 ## Teaching Assistant
 
 - <span style="color:#001f3d"><strong>ECON 220B: Econometric Analysis of Cross-sectional Data (PhD core) - Winter 2023 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
@@ -65,14 +64,13 @@ author_profile: true
   </span>
 
 <script>
-  function expand(id, additionalComments) {
-    const container = document.getElementById(id);
-    if (!container.dataset.expanded) {
-      // Grab everything before the next <span (i.e. the (Expand) link)
-      let base = container.innerHTML.split('<span')[0].trim();
-      // Insert a line break, then the rest of the comments
-      container.innerHTML = base + '<br>' + additionalComments;
-      container.dataset.expanded = "true";
-    }
+function expand(id, additionalComments) {
+  const container = document.getElementById(id);
+  if (!container.dataset.expanded) {
+    let base = container.innerHTML.split('<span')[0].trim();
+    // Insert <br /> to ensure a line break, then append the new text
+    container.innerHTML = base + '<br />' + additionalComments;
+    container.dataset.expanded = 'true';
   }
+}
 </script>
