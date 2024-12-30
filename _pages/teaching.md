@@ -15,13 +15,12 @@ author_profile: true
 - <span style="color:#001f3d"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Summer 2024 ([Evaluations](https://drive.google.com/file/d/1jTTdraeTxzaEmDzAUwtd2Wk6ZQ-fMIl0/view?usp=share_link))</strong></span>  
   (Student learning - 4.24, Course structure - 4.36, Class environment - 4.64)  
   
-  <span id="econ220b-comments">
+  <span id="econ120b-comments">
     "The professor did a wonderful job engaging the students in a way that made the information stick. I appreciate his teaching style and the things I learned; He was really welcoming and interested in the lives of his students. He asked me about my work and why I was taking the class. He also went above and beyond by answering questions on discord that my team and I had. He was always prompt and informative."
-    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ220b-comments', 'The rate the material was taught at was easy to follow in context of the quick pace for summer session; Made sure he was readily available, especially in the discord channel that was made for the class; I especially liked how interactive lectures were')">
+    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ120b-comments', 'The rate the material was taught at was easy to follow in context of the quick pace for summer session; Made sure he was readily available, especially in the discord channel that was made for the class; I especially liked how interactive lectures were')">
       <strong>(Expand)</strong>
     </span>
   </span>
-  
   
   
 ## Teaching Assistant
@@ -36,7 +35,7 @@ author_profile: true
 
 - <span style="color:#001f3d"><strong>ECON 109: Game Theory - Winter 2024, Fall 2023, Summer 2023 ([Evaluations](https://drive.google.com/file/d/1tEylXqEdjgLQCyMhhUfXdZOTjCFfIiJi/view?usp=share_link))</strong></span>  
   <span id="econ109-comments">
-    "He is one of the most well prepared TAs I've had for any of my lectures and the material covered in discussion sections are really helpful. The discussion sections were incredibly helpful and honestly helped me become more interested in the material - Alisher\'s thought process/approaches to the problems were really interesting and insightful throughout the quarter; I usually don\'t submit evaluations for TAs because I hardly interact with them, but I genuinely understood the material thoroughly because of Alisher\'s help. His discussions were extremely informative and he made time for those who couldn\'t make it to his original office hours. Would absolutely recommend him to other students."
+    "He is one of the most well prepared TAs I've had for any of my lectures and the material covered in discussion sections are really helpful. The discussion sections were incredibly helpful and honestly helped me become more interested in the material - Alisher's thought process/approaches to the problems were really interesting and insightful throughout the quarter; I usually don't submit evaluations for TAs because I hardly interact with them, but I genuinely understood the material thoroughly because of Alisher's help. His discussions were extremely informative and he made time for those who couldn't make it to his original office hours. Would absolutely recommend him to other students."
     <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ109-comments', 'TA Alisher Batmanov demonstrates genuine care for students, quickly responding to any messages on the class discord. He makes discussion sections engaging, both by explaining material and homework, but also by making tangible games and activities for students during discussion. He goes the extra mile to provide clear grading guidelines rather than relying solely on Gradescope\'s feedback. Overall, it has been an absolute pleasure to have a class with TA Alisher.')">
       <strong>(Expand)</strong>
     </span>
@@ -44,8 +43,8 @@ author_profile: true
 
 - <span style="color:#001f3d"><strong>ECON 100B: Microeconomics B (Producer Theory and GE) - Spring 2024, Summer 2023 ([Evaluations](https://drive.google.com/file/d/1ihdn5jUmT1lMFpDEzvxz67eGl_Zs3qtn/view?usp=share_link))</strong></span>  
   <span id="econ100b-comments">
-    "Mr Batmanov is one of the best TAs I've had in my life. Very clear explanation of the material; Extremely helpful review sessions that helped me succeed in the class; Fantastic recorded review sessions. Great examples, and made himself constantly available for questions. Amazing TA; Straight to the point and precise. Would go through the material at a nice pace while also being open to questions. Couldn\'t recommend more."
-    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ100b-comments', 'One of the best TA's I have had at this school; Really good TA, covered the right material, always had answers to relevant questions, and taught well; AMAZING TA!')">
+    "Mr Batmanov is one of the best TAs I've had in my life. Very clear explanation of the material; Extremely helpful review sessions that helped me succeed in the class; Fantastic recorded review sessions. Great examples, and made himself constantly available for questions. Amazing TA; Straight to the point and precise. Would go through the material at a nice pace while also being open to questions. Couldn't recommend more."
+    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ100b-comments', 'One of the best TA\'s I have had at this school; Really good TA, covered the right material, always had answers to relevant questions, and taught well; AMAZING TA!')">
       <strong>(Expand)</strong>
     </span>
   </span>
@@ -72,6 +71,7 @@ author_profile: true
 <script>
   function expand(id, additionalComments) {
     const container = document.getElementById(id);
+    // Only expand once
     if (!container.dataset.expanded) {
       let base = container.innerHTML.split('<span')[0].trim();
       container.innerHTML = base + ' ' + additionalComments;
