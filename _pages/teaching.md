@@ -57,16 +57,16 @@ author_profile: true
 <script>
   function expandCondense(id, additionalComments) {
     const container = document.getElementById(id);
-    const expandButton = container.querySelector('span[onclick]');
-    
-    if (expandButton.textContent.includes("(Expand)")) {
-      // Expand: Add additional comments and replace (Expand) with (Condense)
-      const firstComment = container.innerHTML.split('<span')[0]; // Keep the first comment only
-      container.innerHTML = `${firstComment} ${additionalComments} <span style="cursor: pointer; text-decoration: underline;" onclick="expandCondense('${id}', '${additionalComments}')"><strong>(Condense)</strong></span>`;
+    if (container.dataset.state === "expanded") {
+      // Condense: Revert to original state
+      container.innerHTML = container.dataset.original;
+      container.dataset.state = "condensed";
     } else {
-      // Condense: Revert to original content with (Expand)
-      const firstComment = container.innerHTML.split(' ')[0]; // Get the first comment
-      container.innerHTML = `${firstComment} <span style="cursor: pointer; text-decoration: underline;" onclick="expandCondense('${id}', '${additionalComments}')"><strong>(Expand)</strong></span>`;
+      // Expand: Show additional comments
+      const originalContent = container.innerHTML;
+      container.dataset.original = originalContent;
+      container.innerHTML = `${originalContent.split('<span')[0]} ${additionalComments} <span style="cursor: pointer; text-decoration: underline;" onclick="expandCondense('${id}', '${additionalComments}')"><strong>(Condense)</strong></span>`;
+      container.dataset.state = "expanded";
     }
   }
 </script>
