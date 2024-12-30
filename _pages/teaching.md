@@ -40,7 +40,7 @@ author_profile: true
       <strong>(Expand)</strong>
     </span>
   </span>
-
+  
 - <span style="color:#001f3d"><strong>ECON 100B: Microeconomics B (Producer Theory and GE) - Spring 2024, Summer 2023 ([Evaluations](https://drive.google.com/file/d/1ihdn5jUmT1lMFpDEzvxz67eGl_Zs3qtn/view?usp=share_link))</strong></span>  
   <span id="econ100b-comments">
     "Mr Batmanov is one of the best TAs I've had in my life. Very clear explanation of the material; Extremely helpful review sessions that helped me succeed in the class; Fantastic recorded review sessions. Great examples, and made himself constantly available for questions. Amazing TA; Straight to the point and precise. Would go through the material at a nice pace while also being open to questions. Couldn't recommend more."
@@ -48,15 +48,15 @@ author_profile: true
       <strong>(Expand)</strong>
     </span>
   </span>
+  
+- <span style="color:#001f3d"><strong>ECON 1: Principles of Microeconomics - Summer 2024, Fall 2022 ([Evaluations](https://drive.google.com/file/d/1g3d4d-cI6b7BABnUUJTuZwe0vO9v7H76/view?usp=share_link))</strong></span>  
+  <span id="econ1-comments">
+    "Alisher was a fantastic TA for this course and helped make up for the many failures of the professor. Works graded by him were consistently done quickly and accurately; Alisher led quiz and midterm review sessions very well by being able to go through the topics and give an overview of each. By attending section I felt more prepared to take the quiz/midterm; Great teacher."
+  </span>
 
 - <span style="color:#001f3d"><strong>ECON 120A: Econometrics A (Probability Theory and Mathematical Statistics) - Summer 2022 ([Evaluations](https://drive.google.com/file/d/1p6mcBaXxStlwqbDf4Jgwjd4ZYuBFZEvx/view?usp=sharing))</strong></span>  
   <span id="econ120a-comments">
     "Alisher has been one of the best TAs ever and has been extremely helpful in a very difficult course; Alisher was great! Hope to have him again in future ECON 120 classes."
-  </span>
-
-- <span style="color:#001f3d"><strong>ECON 1: Principles of Microeconomics - Summer 2024, Fall 2022 ([Evaluations](https://drive.google.com/file/d/1g3d4d-cI6b7BABnUUJTuZwe0vO9v7H76/view?usp=share_link))</strong></span>  
-  <span id="econ1-comments">
-    "Alisher was a fantastic TA for this course and helped make up for the many failures of the professor. Works graded by him were consistently done quickly and accurately; Alisher led quiz and midterm review sessions very well by being able to go through the topics and give an overview of each. By attending section I felt more prepared to take the quiz/midterm; Great teacher."
   </span>
 
 - <span style="color:#001f3d"><strong>ECON 142: Behavioral Economics - Spring 2023 ([Evaluations](https://drive.google.com/file/d/1KDGEKMPXRtsh2VKUKlE29VuroVbGDZYQ/view?usp=share_link))</strong></span>  
