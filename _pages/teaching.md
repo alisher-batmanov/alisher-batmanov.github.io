@@ -22,31 +22,31 @@ author_profile: true
 - <span style="color:#001f3d"><strong>ECON 220B: Econometric Analysis of Cross-sectional Data (PhD core) - Winter 2023 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
   <span id="econ220b-comments">
     *"Alisher is my role model TA. It is an understatement to say that he goes out of his way for his students"* 
-    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ220b-comments', 'By far, Alisher was the most prepared and conscientious TA I have had at UCSD. He clearly demonstrated concern for the students and I wish him the best; Phenomenal TA. He went above and beyond writing out notes for discussions, soliciting feedback to improve throughout, giving detailed explanations when grading, and holding additional review sessions for each exam. He deserves all the awards. Please make him the metrics Qual TA; Great person and TA')"><strong>(Expand)</strong></span>
+    <span style="cursor: pointer; text-decoration: underline;" onclick="expandCondense('econ220b-comments', 'By far, Alisher was the most prepared and conscientious TA I have had at UCSD. He clearly demonstrated concern for the students and I wish him the best; Phenomenal TA. He went above and beyond writing out notes for discussions, soliciting feedback to improve throughout, giving detailed explanations when grading, and holding additional review sessions for each exam. He deserves all the awards. Please make him the metrics Qual TA; Great person and TA')"><strong>(Expand)</strong></span>
   </span>
 
 - <span style="color:#001f3d"><strong>ECON 109: Game Theory - Winter 2024, Fall 2023, Summer 2023 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
   <span id="econ109-comments">
     *"He is one of the most well prepared TAs I've had for any of my lectures and the material covered in discussion sections are really helpful. Also the help he gives out by making the most out of discord to give in person feedback compared to piazza is really helpful"* 
-    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ109-comments', 'The discussion sections were incredibly helpful and honestly helped me become more interested in the material - Alisher\'s thought process/approaches to the problems were really interesting and insightful throughout the quarter; TA Alisher Batmanov demonstrates genuine care for students, quickly responding to any messages on the class discord. He makes discussion sections engaging, both by explaining material and homework, but also by making tangible games and activities for students during discussion. He goes the extra mile to provide clear grading guidelines rather than relying solely on Gradescope\'s feedback. Overall, it has been an absolute pleasure to have a class with TA Alisher; I usually don\'t submit evaluations for TAs because I hardly interact with them, but I genuinely understood the material thoroughly because of Alisher\'s help. His discussions were extremely informative and he made time for those who couldn\'t make it to his original office hours. Would absolutely recommend him to other students')"><strong>(Expand)</strong></span>
+    <span style="cursor: pointer; text-decoration: underline;" onclick="expandCondense('econ109-comments', 'The discussion sections were incredibly helpful and honestly helped me become more interested in the material - Alisher\'s thought process/approaches to the problems were really interesting and insightful throughout the quarter; TA Alisher Batmanov demonstrates genuine care for students, quickly responding to any messages on the class discord. He makes discussion sections engaging, both by explaining material and homework, but also by making tangible games and activities for students during discussion. He goes the extra mile to provide clear grading guidelines rather than relying solely on Gradescope\'s feedback. Overall, it has been an absolute pleasure to have a class with TA Alisher; I usually don\'t submit evaluations for TAs because I hardly interact with them, but I genuinely understood the material thoroughly because of Alisher\'s help. His discussions were extremely informative and he made time for those who couldn\'t make it to his original office hours. Would absolutely recommend him to other students')"><strong>(Expand)</strong></span>
   </span>
 
 - <span style="color:#001f3d"><strong>ECON 100B: Microeconomics B (Producer Theory and GE) - Spring 2024, Summer 2023 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
   <span id="econ100b-comments">
     *"Mr Batmanov is one of the best TAs I've had in my life. Very clear explanation of the material"* 
-    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ100b-comments', 'Extremely helpful review sessions that helped me succeed in the class; Fantastic recorded review sessions. Great examples, and made himself constantly available for questions. Amazing TA; Straight to the point and precise. Would go through the material at a nice pace while also being open to questions. Couldn\'t recommend more')"><strong>(Expand)</strong></span>
+    <span style="cursor: pointer; text-decoration: underline;" onclick="expandCondense('econ100b-comments', 'Extremely helpful review sessions that helped me succeed in the class; Fantastic recorded review sessions. Great examples, and made himself constantly available for questions. Amazing TA; Straight to the point and precise. Would go through the material at a nice pace while also being open to questions. Couldn\'t recommend more')"><strong>(Expand)</strong></span>
   </span>
 
 - <span style="color:#001f3d"><strong>ECON 120A: Econometrics A (Probability Theory and Mathematical Statistics) - Summer 2022 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
   <span id="econ120a-comments">
     *"Alisher has been one of the best TAs ever and has been extremely helpful in a very difficult course"* 
-    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ120a-comments', 'Alisher was great! Hope to have him again in future ECON 120 classes')"><strong>(Expand)</strong></span>
+    <span style="cursor: pointer; text-decoration: underline;" onclick="expandCondense('econ120a-comments', 'Alisher was great! Hope to have him again in future ECON 120 classes')"><strong>(Expand)</strong></span>
   </span>
 
 - <span style="color:#001f3d"><strong>ECON 1: Principles of Microeconomics - Summer 2024, Fall 2022 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
   <span id="econ1-comments">
     *"Alisher was a fantastic TA for this course and helped make up for the many failures of the professor. Works graded by him were consistently done quickly and accurately"* 
-    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ1-comments', 'Alisher led quiz and midterm review sessions very well by being able to go through the topics and give an overview of each. By attending section I felt more prepared to take the quiz/midterm; Great teacher')"><strong>(Expand)</strong></span>
+    <span style="cursor: pointer; text-decoration: underline;" onclick="expandCondense('econ1-comments', 'Alisher led quiz and midterm review sessions very well by being able to go through the topics and give an overview of each. By attending section I felt more prepared to take the quiz/midterm; Great teacher')"><strong>(Expand)</strong></span>
   </span>
 
 - <span style="color:#001f3d"><strong>ECON 142: Behavioral Economics - Spring 2023 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
@@ -55,44 +55,20 @@ author_profile: true
   </span>
 
 <script>
-  function expand(id, comments) {
+  function expandCondense(id, additionalComments) {
     const container = document.getElementById(id);
-    const original = container.innerHTML;
-    container.innerHTML = `${original.slice(0, original.indexOf('(Expand)'))} ${comments} <span style="cursor: pointer; text-decoration: underline;" onclick="condense('${id}', \`${original}\`)"><strong>(Condense)</strong></span>`;
-  }
-
-  function condense(id, original) {
-    document.getElementById(id).innerHTML = original;
+    const expandButton = container.querySelector('span[onclick]');
+    
+    if (expandButton.textContent.includes("(Expand)")) {
+      // Expand: Add additional comments and replace (Expand) with (Condense)
+      const firstComment = container.innerHTML.split('<span')[0]; // Keep the first comment only
+      container.innerHTML = `${firstComment} ${additionalComments} <span style="cursor: pointer; text-decoration: underline;" onclick="expandCondense('${id}', '${additionalComments}')"><strong>(Condense)</strong></span>`;
+    } else {
+      // Condense: Revert to original content with (Expand)
+      const firstComment = container.innerHTML.split(' ')[0]; // Get the first comment
+      container.innerHTML = `${firstComment} <span style="cursor: pointer; text-decoration: underline;" onclick="expandCondense('${id}', '${additionalComments}')"><strong>(Expand)</strong></span>`;
+    }
   }
 </script>
-
-
-<!-- 
-## Teaching Assistant
-
-- <span style="color:#001f3d"><strong>ECON 220B: Econometric Analysis of Cross-sectional Data (PhD core) - Winter 2023 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
-  *"Alisher is my role model TA. It is an understatement to say that he goes out of his way for his students"* <span style="cursor: pointer; text-decoration: underline;" onclick="this.nextElementSibling.style.display='block'; this.style.display='none';"><strong>(Expand)</strong></span>
-  <span style="display: none;">*"By far, Alisher was the most prepared and conscientious TA I have had at UCSD. He clearly demonstrated concern for the students and I wish him the best"; "Phenomenal TA. He went above and beyond writing out notes for discussions, soliciting feedback to improve throughout, giving detailed explanations when grading, and holding additional review sessions for each exam. He deserves all the awards. Please make him the metrics Qual TA"; "Great person and TA"*</span>
-
-- <span style="color:#001f3d"><strong>ECON 109: Game Theory - Winter 2024, Fall 2023, Summer 2023 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
-  *"He is one of the most well prepared TAs I've had for any of my lectures and the material covered in discussion sections are really helpful. Also the help he gives out by making the most out of discord to give in person feedback compared to piazza is really helpful"* <span style="cursor: pointer; text-decoration: underline;" onclick="this.nextElementSibling.style.display='block'; this.style.display='none';"><strong>(Expand)</strong></span>
-  <span style="display: none;">*"The discussion sections were incredibly helpful and honestly helped me become more interested in the material - Alisher's thought process/approaches to the problems were really interesting and insightful throughout the quarter"; "TA Alisher Batmanov demonstrates genuine care for students, quickly responding to any messages on the class discord. He makes discussion sections engaging, both by explaining material and homework, but also by making tangible games and activities for students during discussion. He goes the extra mile to provide clear grading guidelines rather than relying solely on Gradescope's feedback. Overall, it has been an absolute pleasure to have a class with TA Alisher"; "I usually don't submit evaluations for TAs because I hardly interact with them, but I genuinely understood the material thoroughly because of Alisher's help. His discussions were extremely informative and he made time for those who couldn't make it to his original office hours. Would absolutely recommend him to other students"*</span>
-
-- <span style="color:#001f3d"><strong>ECON 100B: Microeconomics B (Producer Theory and GE) - Spring 2024, Summer 2023 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
-  *"Mr Batmanov is one of the best TAs I've had in my life. Very clear explanation of the material"* <span style="cursor: pointer; text-decoration: underline;" onclick="this.nextElementSibling.style.display='block'; this.style.display='none';"><strong>(Expand)</strong></span>
-  <span style="display: none;">*"Extremely helpful review sessions that helped me succeed in the class"; "Fantastic recorded review sessions. Great examples, and made himself constantly available for questions. Amazing TA"; "Straight to the point and precise. Would go through the material at a nice pace while also being open to questions. Couldn't recommend more"*</span>
-
-- <span style="color:#001f3d"><strong>ECON 120A: Econometrics A (Probability Theory and Mathematical Statistics) - Summer 2022 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
-  *"Alisher has been one of the best TAs ever and has been extremely helpful in a very difficult course"* <span style="cursor: pointer; text-decoration: underline;" onclick="this.nextElementSibling.style.display='block'; this.style.display='none';"><strong>(Expand)</strong></span>
-  <span style="display: none;">*"Alisher was great! Hope to have him again in future ECON 120 classes"*</span>
-
-- <span style="color:#001f3d"><strong>ECON 1: Principles of Microeconomics - Summer 2024, Fall 2022 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
-  *"Alisher was a fantastic TA for this course and helped make up for the many failures of the professor. Works graded by him were consistently done quickly and accurately"* <span style="cursor: pointer; text-decoration: underline;" onclick="this.nextElementSibling.style.display='block'; this.style.display='none';"><strong>(Expand)</strong></span>
-  <span style="display: none;">*"Alisher led quiz and midterm review sessions very well by being able to go through the topics and give an overview of each. By attending section I felt more prepared to take the quiz/midterm"; "Great teacher"*</span>
-
-- <span style="color:#001f3d"><strong>ECON 142: Behavioral Economics - Spring 2023 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))</strong></span>  
-  *"Alisher is a great TA. Very helpful"; "Excellent teacher"; "He has been truly accessible and useful"*
-  
- -->
   
   
