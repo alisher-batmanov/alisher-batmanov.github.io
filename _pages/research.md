@@ -8,16 +8,6 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- 
-In my research I use lab and field experiments to explore topics that include
-
-- misspecified social learning
-- discrimination and inaccurate beliefs
-- rationalization and motivated reasoning
-- student mental health stigma
-- peer group support for tutors
- -->
- 
 
 
 ## Work in Progress
