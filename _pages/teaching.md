@@ -8,12 +8,14 @@ author_profile: true
 
 {% include base_path %}
 
-The courses I have been a Teaching Assistant in at UC San Diego:
+**Undergraduate Course Instructor**
 
-* Econometrics B (PhD 1st year core)
-* Behavioral Economics (Econ 142)
-* Game Theory (Econ 109)
-* Intermediate Microeconomics (100B)
+*University of California San Diego*
 
-Overall, 96% of students would recommend.
+- **ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Summer 2024 ([Evaluations](https://drive.google.com/file/d/1u6iKia2HtoPHY9QorecfwbNRmjwa9Zx2/view?usp=share_link))**
+
+*The professor did a wonderful job engaging the students in a way that made the information stick. I appreciate his teaching style and the things I learned.*
+
+*The rate the material was taught at was easy to follow in context of the quick pace for summer session.*
+
 
