@@ -12,6 +12,8 @@ I am a fourth-year Economics Ph.D. candidate at [University of California San Di
 
 My primary fields are experimental economics and behavioral economics. I am particularly interested in experimentally studying how people learn from each other's decisions. I also work on topics related to students’ beliefs about mental health.
 
+[📄 Curriculum Vitae (PDF)](/files/CV_Alisher_2025_03.pdf)
+
 <!-- You can find the pronunciation of my first name [here](https://www.howtopronounce.com/alisher#google_vignette). -->
 
 Contact 
