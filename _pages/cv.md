@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-[📄 Download my CV (PDF)](/files/cv.pdf)
+[📄 Download my CV (PDF)](/files/CV_Alisher_2025_02.pdf)
 
 {% include base_path %}
 
