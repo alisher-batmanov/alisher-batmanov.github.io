@@ -8,7 +8,12 @@ redirect_from:
   - /resume
 ---
 
+
+[📄 Download my CV (PDF)](/files/cv.pdf)
+
 {% include base_path %}
+
+<!-- 
 
 Education
 ======
@@ -49,14 +54,12 @@ Awards and Fellowships
 * Peter Hangartner Prize and Fellowship (EUR 5,200), Central European University, 2021
 * Outstanding Student in Economics, Nazarbayev University, 2019
   
-<!-- 
 Research experience
 ======
 * Summer Graduate Research with Emanuel Vespa, UC San Diego, 2023
 * Summer Graduate Research with Isabel Trevino, UC San Diego, 2022
 * Research Assistant for Marc Kaufmann, Central European University, 2020
 * Research Assistant for Giulio Seccia, Nazarbayev University, 2018
- -->
 
 Presentations and Workshops
 ======
@@ -78,3 +81,4 @@ Personal
 ======
 United States F-1 Visa, Kazakhstan citizenship
 
+ -->
