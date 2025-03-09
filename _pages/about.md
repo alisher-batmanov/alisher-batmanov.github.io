@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth-year Economics Ph.D. candidate at [University of California San Diego](https://economics.ucsd.edu). Prior to UC San Diego, I earned an M.A. in Economics at Central European University.
 
-My primary fields are experimental economics and behavioral economics. I am particularly interested in experimentally studying how people learn from each other's decisions. I also work on topics related to students’ beliefs about mental health.
+My primary fields are experimental economics and behavioral economics. In particular, I use laboratory experiments to study how people learn by observing others’ choices. I also work on topics related to student mental health by running studies in the field. I am fortunate to be co-advised by [Emanuel Vespa](https://sites.google.com/site/emanuelvespa/) and [Isabel Trevino](https://econweb.ucsd.edu/~itrevino/).
 
 [📄 Curriculum Vitae (PDF)](/files/CV_Alisher_2025_03.pdf)
 
@@ -22,8 +22,3 @@ Contact
 University of California San Diego\
 Atkinson Hall, 6100-19\
 9500 Gilman Dr, La Jolla, CA 92093
-
-
-
-
-
