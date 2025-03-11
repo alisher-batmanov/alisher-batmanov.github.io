@@ -13,14 +13,15 @@ author_profile: true
 ## Course Instructor
 
 - <span style="color:#001f3d"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Summer 2024 ([Evaluations](https://drive.google.com/file/d/1jTTdraeTxzaEmDzAUwtd2Wk6ZQ-fMIl0/view?usp=share_link))</strong></span>  
-  (Student learning - 4.24, Course structure - 4.36, Class environment - 4.64)  
+  (Student learning - 4.24/5, Course structure - 4.36/5, Class environment - 4.64/5)  
   
   <span id="econ120b-comments">
-    "The professor did a wonderful job engaging the students in a way that made the information stick. I appreciate his teaching style and the things I learned; He was really welcoming and interested in the lives of his students. He asked me about my work and why I was taking the class. He also went above and beyond by answering questions on discord that my team and I had. He was always prompt and informative."
-    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ120b-comments', 'The rate the material was taught at was easy to follow in context of the quick pace for summer session; Made sure he was readily available, especially in the discord channel that was made for the class; I especially liked how interactive lectures were.')">
+    <p>"The professor did a wonderful job engaging the students in a way that made the information stick. I appreciate his teaching style and the things I learned; He was really welcoming and interested in the lives of his students. He asked me about my work and why I was taking the class. He also went above and beyond by answering questions on discord that my team and I had. He was always prompt and informative."</p>
+    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ120b-comments', '<br><p>The rate the material was taught at was easy to follow in context of the quick pace for summer session; Made sure he was readily available, especially in the discord channel that was made for the class; I especially liked how interactive lectures were.</p>')">
       <strong>(Expand)</strong>
     </span>
   </span>
+
   
   
 ## Teaching Assistant
