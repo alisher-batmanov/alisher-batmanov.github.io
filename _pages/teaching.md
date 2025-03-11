@@ -17,10 +17,9 @@ author_profile: true
   
   <span id="econ120b-comments">
     <p>"The professor did a wonderful job engaging the students in a way that made the information stick. I appreciate his teaching style and the things I learned; He was really welcoming and interested in the lives of his students. He asked me about my work and why I was taking the class. He also went above and beyond by answering questions on discord that my team and I had. He was always prompt and informative."</p>
-    <span style="cursor: pointer; text-decoration: underline;" onclick="expand('econ120b-comments', '<br><p>The rate the material was taught at was easy to follow in context of the quick pace for summer session; Made sure he was readily available, especially in the discord channel that was made for the class; I especially liked how interactive lectures were.</p>')">
-      <strong>(Expand)</strong>
-    </span>
+    <p>"The rate the material was taught at was easy to follow in context of the quick pace for summer session; Made sure he was readily available, especially in the discord channel that was made for the class; I especially liked how interactive lectures were."</p>
   </span>
+
 
   
   
