@@ -69,6 +69,12 @@ author_profile: true
   <span style="display:block;">
   "Amazing TA; Straight to the point and precise. Would go through the material at a nice pace while also being open to questions. Couldn’t recommend more. One of the best TAs I have had at this school; Really good TA, covered the right material, always had answers to relevant questions, and taught well; AMAZING TA!"
   </span>
+  
+- <span style="color:#001f3d"><strong>MGT 160: Experiments in Firms - Fall 2024, Winter 2025, Spring 2025 ([Evaluations](https://drive.google.com/file/d/1VtZensog0ZcTLFDj1BYbfjJxzLf-28Km/view?usp=share_link))</strong></span>
+
+  <span style="display:block;">
+  "Really helpful and answers to questions very quickly with full professionalism; Gave very detailed and constructive feedback, always provided reminders and tips in discord that were very helpful!; TA encouraged me to feel that I could succeed in the course, Was incredibly encouraging!!; The best TA I've ever had! Incredibly patient and understanding, wish all my TA's were like him; had a great experience with Alisher and definitely recommend him to other students as well!"
+  </span>
 
 - <span style="color:#001f3d"><strong>ECON 1: Principles of Microeconomics - Summer 2024, Fall 2022 ([Evaluations](https://drive.google.com/file/d/1g3d4d-cI6b7BABnUUJTuZwe0vO9v7H76/view?usp=share_link))</strong></span>
 
