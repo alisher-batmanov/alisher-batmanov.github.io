@@ -20,7 +20,7 @@ author_profile: true
 <div style="margin-top: 1.5em;"></div>
 
 
-- <span style="color:#001f3d"><strong><a href="https://drive.google.com/file/d/1nhe0NjGmeltEWH6q7FpxWDnYZH3t9J1D/view?usp=share_link" target="_blank" style="color:#001f3d; text-decoration: none;">“Beliefs and Demand for Mental Health Services Among University Students”</a></strong></span>  
+- <span style="color:#001f3d"><strong><a href="https://drive.google.com/file/d/1nhe0NjGmeltEWH6q7FpxWDnYZH3t9J1D/view?usp=share_link" target="_blank" style="color:#001f3d; text-decoration: none;">“Beliefs and Demand for Mental Health Services Among University Students”</a></strong></span> <span id="mental-health-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('mental-health-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>
   <div>(with Ida Grigoryeva, Bruno Calderon, Roberto González and Alejandro Guardiola Ramires)</div>
   <div><em>R&amp;R at Journal of Development Economics</em></div>
   <div id="mental-health-abstract" style="display: none; margin-top: 0.4em;">
