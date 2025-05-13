@@ -47,6 +47,20 @@ author_profile: true
   (with Bridget Galaty)  
   
   
+## Upcoming Travel
+
+- <span style="color:#333333"><strong>May 27-30, 2025 -- Behavioral Economics Annual Meeting (BEAM), UC Berkeley</strong></span>  
+<!-- - <span style="color:#333333"><strong>June 20-21, 2025 -- Summer Institute in Theory-Based Experiments (CTESS), Caltech</strong></span>   -->
+
+- <span style="color:#333333"><strong>July 30 - Aug 1, 2025 -- AEA CSQIEP Mentoring Conference, Chicago</strong></span>  
+<!-- - <span style="color:#333333"><strong>Aug 18-21, 2025 -- SITE, Stanford</strong></span>   -->
+
+- <span style="color:#333333"><strong>Sep 13-17, 2025 -- The Chicago School in Experimental Economics (CSEE), UChicago</strong></span>  
+<!-- - <span style="color:#333333"><strong>Sep 18-19, 2025 -- Advances with Field Experiments (AFE) Conference, UChicago</strong></span>   -->
+
+
+
+
   
 <!-- 
 ## Work in Progress
