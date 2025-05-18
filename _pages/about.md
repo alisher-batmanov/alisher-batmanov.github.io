@@ -17,17 +17,16 @@ My primary fields are experimental economics and behavioral economics. In partic
 
 <!-- You can find the pronunciation of my first name [here](https://www.howtopronounce.com/alisher#google_vignette). -->
 
-## Upcoming Travel
+Upcoming Travel
 ------
-- <span style="color:#333333"><strong>May 27-30, 2025 -- Behavioral Economics Annual Meeting (BEAM), UC Berkeley</strong></span>  
-<!-- - <span style="color:#333333"><strong>June 20-21, 2025 -- Summer Institute in Theory-Based Experiments (CTESS), Caltech</strong></span>   -->
+- May 27–30, 2025 — Behavioral Economics Annual Meeting ([BEAM](https://blogs.cornell.edu/beam/beam2025/)), UC Berkeley  
+- July 30 – August 1, 2025 — AEA [CSQIEP](https://www.aeaweb.org/about-aea/committees/csqiep/mentor-conference) Mentoring Conference, Chicago  
+- September 13–17, 2025 — The Chicago School in Experimental Economics ([CSEE](https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-2025/)), The University of Chicago  
+- September 18–19, 2025 — Advances with Field Experiments Conference ([AFE](https://economics.uchicago.edu/advances-with-field-experiments-conference)), The University of Chicago  
 
-- <span style="color:#333333"><strong>July 30 - Aug 1, 2025 -- AEA CSQIEP Mentoring Conference, Chicago</strong></span>  
+
 <!-- - <span style="color:#333333"><strong>Aug 18-21, 2025 -- SITE, Stanford</strong></span>   -->
-
-- <span style="color:#333333"><strong>Sep 13-17, 2025 -- The Chicago School in Experimental Economics (CSEE), The University of Chicago</strong></span>  
-
-- <span style="color:#333333"><strong>Sep 18-19, 2025 -- Advances with Field Experiments (AFE) Conference, The University of Chicago</strong></span>  
+<!-- - <span style="color:#333333"><strong>June 20-21, 2025 -- Summer Institute in Theory-Based Experiments (CTESS), Caltech</strong></span>   -->
 
 
 Contact 
