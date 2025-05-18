@@ -1,14 +1,12 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching at The University of California, San Diego"
 nav_order: 2
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
-*University of California, San Diego*
-
 
 ## Course Instructor
 
