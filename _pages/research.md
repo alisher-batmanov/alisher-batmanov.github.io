@@ -55,8 +55,9 @@ author_profile: true
 - <span style="color:#333333"><strong>July 30 - Aug 1, 2025 -- AEA CSQIEP Mentoring Conference, Chicago</strong></span>  
 <!-- - <span style="color:#333333"><strong>Aug 18-21, 2025 -- SITE, Stanford</strong></span>   -->
 
-- <span style="color:#333333"><strong>Sep 13-17, 2025 -- The Chicago School in Experimental Economics (CSEE), UChicago</strong></span>  
-<!-- - <span style="color:#333333"><strong>Sep 18-19, 2025 -- Advances with Field Experiments (AFE) Conference, UChicago</strong></span>   -->
+- <span style="color:#333333"><strong>Sep 13-17, 2025 -- The Chicago School in Experimental Economics (CSEE), The University of Chicago</strong></span>  
+
+- <span style="color:#333333"><strong>Sep 18-19, 2025 -- Advances with Field Experiments (AFE) Conference, The University of Chicago</strong></span>  
 
 
 
