@@ -47,6 +47,7 @@ author_profile: true
   (with Bridget Galaty)  
   
   
+<!-- 
 ## Upcoming Travel
 
 - <span style="color:#333333"><strong>May 27-30, 2025 -- Behavioral Economics Annual Meeting (BEAM), UC Berkeley</strong></span>  
@@ -58,6 +59,7 @@ author_profile: true
 - <span style="color:#333333"><strong>Sep 13-17, 2025 -- The Chicago School in Experimental Economics (CSEE), The University of Chicago</strong></span>  
 
 - <span style="color:#333333"><strong>Sep 18-19, 2025 -- Advances with Field Experiments (AFE) Conference, The University of Chicago</strong></span>  
+ -->
 
 
 
