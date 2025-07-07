@@ -24,7 +24,7 @@ My primary fields are experimental economics and behavioral economics. In partic
 Upcoming Travel
 ------
 May 27–30, 2025 — Behavioral Economics Annual Meeting (<a href="https://blogs.cornell.edu/beam/beam2025/" target="_blank">BEAM</a>), UC Berkeley  
-July 30 – Aug 1, 2025 — AEA <a href="https://www.aeaweb.org/about-aea/committees/csqiep/mentor-conference" target="_blank">CSQIEP</a> Mentoring Conference, Chicago  
+July 30 – Aug 1, 2025 — American Economic Association Mentoring Conference, Chicago  
 Sep 13–17, 2025 — The Chicago School in Experimental Economics (<a href="https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-2025/" target="_blank">CSEE</a>), UChicago  
 Sep 18–19, 2025 — Advances with Field Experiments Conference (<a href="https://economics.uchicago.edu/advances-with-field-experiments-conference" target="_blank">AFE</a>), UChicago  
 
