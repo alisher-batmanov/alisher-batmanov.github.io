@@ -43,8 +43,8 @@ author_profile: true
 
 ## Work in Progress
 
-- <span style="color:#333333"><strong>“Learning and Contingent Thinking: An Experiment”</strong></span> <span id="lct-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('lct-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>  
-  <div style="margin-top: 0.2em;"><em>(with Jeongbin Kim and Emanuel Vespa)</em></div>
+- <span style="color:#001f3d"><strong>“Learning and Contingent Thinking: An Experiment”</strong></span> <span id="lct-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('lct-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>  
+  <div style="margin-top: 0.2em;">(with Jeongbin Kim and Emanuel Vespa)</div>
   <div id="lct-abstract" style="display: none; margin-top: 0.4em;">
     <strong>Abstract:</strong> We study how individuals learn to make optimal decisions when doing so requires conditioning on payoff-relevant contingencies, as prescribed by theory. Using a laboratory experiment, we contrast learning across two environments: one in which irrelevant contingencies are excluded by design, and another in which they occur with positive probability but never affect outcomes. At baseline, 4 out of 5 subjects make a suboptimal choice. With experience and feedback, 71% of participants in the zero-probability environment switch to the optimal choice, compared to 49% in the setting where such contingencies remain present, indicating that engagement with payoff-irrelevant situations hinders learning. Participants in the zero-probability treatment are also more likely to report correct beliefs about the task environment and, conditional on holding accurate beliefs, are 15 percentage points more likely to make an optimal choice. These findings suggest that in many environments that necessitate reasoning through contingencies, not engaging with events that are irrelevant to the outcome can significantly ease learning and lead to optimal behavior.
   </div>
@@ -52,7 +52,7 @@ author_profile: true
 <div style="margin-top: 1.5em;"></div>
 
 - <span style="color:#001f3d"><strong>“Experiment on Narratives and Information in Persuasion”</strong></span>  
-  <em>(with Bridget Galaty)</em>
+  <div>(with Bridget Galaty)</div>
   
   
 <!-- 
