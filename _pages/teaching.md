@@ -10,6 +10,21 @@ author_profile: true
 
 ## Course Instructor
 
+- <span style="color:#001f3d"><strong>ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory) - Summer 2025 ([Evaluations](https://drive.google.com/file/d/1oFjdegZzbaSsEkM8VB-jWmBpedt1PqjQ/view?usp=share_link))</strong></span>  
+  (Student learning - 4.6/5, Course structure - 4.6/5, Class environment - 4.65/5)
+  
+  <span style="display:block;">
+  "The presentations with "correct" pace helped me absorb the material easily. This is by far the most crystal clear class I've ever taken. Concepts are explained clearly, without leaving any possible tiny questions unanswered."
+  </span>
+  
+  <span style="display:block;">
+  "Alisher is a great professor who cares about making sure we have the knowledge to succeed in his class. He is a fair teacher and looks out for his students; The professor did an excellent job explaining concepts in detail, and I appreciated that there was always an accompanying example showing how each concept is used to solve problems. This helped me become familiar with the language of the problems and with economics in general." 
+  </span>
+  
+  <span style="display:block;">
+  "The class was pretty small but the professor creates a lot of opportunities for us to get to know our peers and I truly appreciate it. I have gained a few valuable friendships from the class that I didn't expect out of it. The class is always welcoming and I appreciate that the professor takes his time to answer any question that comes up in detail. He also manages time pretty well, which is a weird thing to notice but I do. We're never behind the syllabus which gives enough time to study and get to know the material. Overall, I feel like the class was pretty well- structured, and the quizzes/packets take a little bit pressure off the tests and that help us study along the way, not cramping last minute. So I'd say, this is one of the more structured and well-thought out classes that I've attended on campus. Thank you for everything, professor!"
+  </span>
+  
 - <span style="color:#001f3d"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Summer 2024 ([Evaluations](https://drive.google.com/file/d/1jTTdraeTxzaEmDzAUwtd2Wk6ZQ-fMIl0/view?usp=share_link))</strong></span>  
   (Student learning - 4.24/5, Course structure - 4.36/5, Class environment - 4.64/5)
   
@@ -80,23 +95,29 @@ author_profile: true
   "Alisher was a fantastic TA for this course; works graded by him were consistently done quickly and accurately; Alisher led quiz and midterm review sessions very well by being able to go through the topics and give an overview of each; by attending section I felt more prepared to take the quiz/midterm."
   </span>
 
+<!-- 
 - <span style="color:#001f3d"><strong>ECON 120A: Econometrics A (Probability Theory and Mathematical Statistics) - Summer 2022 ([Evaluations](https://drive.google.com/file/d/1p6mcBaXxStlwqbDf4Jgwjd4ZYuBFZEvx/view?usp=sharing))</strong></span>
 
   <span style="display:block;">
   "Alisher has been one of the best TAs ever and has been extremely helpful in a very difficult course; Alisher was great! Hope to have him again in future ECON 120 classes."
   </span>
+ -->
 
+<!-- 
 - <span style="color:#001f3d"><strong>ECON 142: Behavioral Economics - Spring 2023 ([Evaluations](https://drive.google.com/file/d/1KDGEKMPXRtsh2VKUKlE29VuroVbGDZYQ/view?usp=share_link))</strong></span>
 
   <span style="display:block;">
   "Alisher is a great TA. Very helpful; Excellent teacher; He has been truly accessible and useful."
   </span>
+ -->
 
+<!-- 
 - <span style="color:#001f3d"><strong>ECON 173: Financial Markets - Winter 2024 ([Evaluations](https://drive.google.com/file/d/1jzfMt7Hl_qLuJuuEFQVxyqOhzM_oYlPM/view?usp=share_link))</strong></span>
 
   <span style="display:block;">
   "He gave me a lot of help during office hours and discussion about coding. Thanks for his efforts and help."
   </span>
+ -->
 
 
 
