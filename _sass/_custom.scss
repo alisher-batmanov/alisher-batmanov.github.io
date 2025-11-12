@@ -52,7 +52,23 @@ figcaption a {
   background-image: none !important;
 }
 
-/* ====== Global background color (medium pink) ====== */
+/* ====== Global background color (light blush pink) ====== */
 html, body {
-  background-color: #ffe0e6 !important; /* darker pink tone */
+  background-color: #fff2f4 !important; /* softer, lighter pink */
+}
+
+/* Extend pink to the top navigation and header bar */
+.masthead,
+.site-header,
+.site-nav,
+.page__header,
+.page__footer {
+  background-color: #fff2f4 !important; /* same pink */
+  border-color: #f8dce0 !important; /* subtle matching border line */
+}
+
+/* Optional: make the thin line under nav blend softly */
+.masthead::after,
+.site-header::after {
+  border-bottom-color: #f8dce0 !important;
 }
