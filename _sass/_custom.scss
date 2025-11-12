@@ -52,11 +52,7 @@ figcaption a {
   background-image: none !important;
 }
 
-/* ====== Global background color ====== */
-body {
-  background-color: #fff5f7 !important; /* soft pink tint */
-}
-
-html {
-  background-color: #fff5f7 !important;
+/* ====== Global background color (medium pink) ====== */
+html, body {
+  background-color: #ffe0e6 !important; /* darker pink tone */
 }
