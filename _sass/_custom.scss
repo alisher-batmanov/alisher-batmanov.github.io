@@ -1,37 +1,53 @@
-/* ----- Link overrides: no underline + hover color ----- */
+/* ==== Kill all link underlines + add hover color ==== */
 a,
-.page__content a,
-.archive a,
-.nav__list a,
-.site-title,
-.masthead a {
-  color: #001f3d !important;
-  text-decoration: none !important;
-  border-bottom: none !important;
-  box-shadow: none !important;
-  transition: color 0.2s ease-in-out;
-}
-
+a:link,
 a:visited,
-.page__content a:visited {
-  color: #001f3d !important;
+.page__content a,
+.page__content a:link,
+.page__content a:visited,
+.archive__item-title a,
+.archive__item-excerpt a,
+.author__urls a,
+.masthead a,
+.nav__list a,
+.site-nav a,
+.site-title a,
+.page__footer a,
+.page__title a {
+  color: #001f3d !important;           /* your blue */
+  text-decoration: none !important;     /* no underline */
+  border-bottom: 0 !important;          /* theme sometimes uses borders */
+  box-shadow: none !important;          /* theme often uses box-shadow underline */
+  background-image: none !important;    /* some versions use gradient underlines */
+  background-size: 0 !important;
+  background-position: 0 0 !important;
+  transition: color 0.2s ease-in-out;
 }
 
 a:hover,
 a:focus,
 .page__content a:hover,
 .page__content a:focus,
-.archive a:hover,
-.masthead a:hover {
-  color: #003366 !important;
+.archive__item-title a:hover,
+.archive__item-excerpt a:hover,
+.author__urls a:hover,
+.masthead a:hover,
+.nav__list a:hover,
+.site-nav a:hover,
+.site-title a:hover,
+.page__footer a:hover,
+.page__title a:hover {
+  color: #003366 !important;            /* darker on hover */
   text-decoration: none !important;
-  border-bottom: none !important;
+  border-bottom: 0 !important;
   box-shadow: none !important;
+  background-image: none !important;
 }
 
-/* captions sometimes re-add underlines */
+/* captions sometimes re-apply underlines */
 figcaption a {
   text-decoration: none !important;
-  border-bottom: none !important;
+  border-bottom: 0 !important;
   box-shadow: none !important;
+  background-image: none !important;
 }
