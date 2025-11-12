@@ -20,7 +20,7 @@ I am fortunate to be co-advised by <a href="https://sites.google.com/site/emanue
 I also serve as the manager of the <a href="https://econlab.ucsd.edu/" target="_blank">UC San Diego Economics Laboratory</a>.
 <!-- In particular, I use laboratory experiments to study how people learn by observing others’ choices. I also work on topics related to student mental health by running studies in the field.  -->
 
-<a href="/files/CV_Alisher_2025_05.pdf" target="_blank">Curriculum Vitae</a>
+Here is my <a href="/files/CV_Alisher_2025_05.pdf" target="_blank">CV</a>.
 
 
 <!-- You can find the pronunciation of my first name [here](https://www.howtopronounce.com/alisher#google_vignette). -->
