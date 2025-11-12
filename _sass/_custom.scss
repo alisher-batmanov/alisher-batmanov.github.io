@@ -72,3 +72,26 @@ html, body {
 .site-header::after {
   border-bottom-color: #f8dce0 !important;
 }
+
+/* --- Make the top ribbon the same pink and kill the white separator --- */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav,
+.greedy-nav .visible-links {
+  background-color: #fff2f4 !important;   /* same light pink */
+  box-shadow: none !important;            /* remove thin white drop shadow */
+  border-bottom: 1px solid #f8dce0 !important; /* soft divider */
+}
+
+/* --- Remove the white “pill” behind the active tab and site title --- */
+.greedy-nav .visible-links li a,
+.greedy-nav .visible-links li a:hover,
+.greedy-nav .visible-links li a:focus,
+.greedy-nav .visible-links li a.active,
+.greedy-nav .visible-links li.current-menu-item > a,
+.greedy-nav .site-title,
+.greedy-nav .site-title:hover,
+.greedy-nav .site-title:focus {
+  background: transparent !important;
+  box-shadow: none !important;
+}
