@@ -313,3 +313,24 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* ===== Custom link styling: no underline, color change on hover ===== */
+a {
+  color: #001f3d;            /* keep your current blue */
+  text-decoration: none;     /* remove underline */
+  border-bottom: none;       /* kill themes that fake underlines with borders */
+  box-shadow: none;          /* and those that use box-shadow underlines */
+  transition: color 0.2s ease-in-out;
+}
+
+a:visited {
+  color: #001f3d;            /* same color for visited links */
+}
+
+a:hover,
+a:focus {
+  color: #003366;            /* darker blue on hover/focus */
+  text-decoration: none;
+  border-bottom: none;
+  box-shadow: none;
+}
