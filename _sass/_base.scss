@@ -334,3 +334,15 @@ a:focus {
   border-bottom: none;
   box-shadow: none;
 }
+
+/* === Remove the two pink lines around "Welcome!" title on About page === */
+.page__title {
+  border-top: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+}
+
+/* Also hide any decorative lines or rules right after the title */
+.page__content hr:first-of-type {
+  display: none !important;
+}
