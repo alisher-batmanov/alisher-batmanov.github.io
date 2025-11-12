@@ -95,3 +95,17 @@ html, body {
   background: transparent !important;
   box-shadow: none !important;
 }
+
+/* --- Remove the top masthead border line --- */
+.masthead,
+.masthead__inner-wrap,
+.greedy-nav {
+  border-bottom: none !important;   /* removes the top pink line */
+  box-shadow: none !important;
+}
+
+/* --- Keep the divider line under the content area consistent --- */
+.page__inner-wrap,
+.page__content {
+  border-top: 1px solid #f8dce0 !important;  /* soft pink divider */
+}
