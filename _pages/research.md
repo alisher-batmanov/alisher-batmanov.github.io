@@ -8,18 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-
-
-## Working Papers
-
-- <span style="color:#001f3d"><strong>“Mental Models, Social Learning and Statistical Discrimination: A Laboratory Study”</strong></span> <span id="mental-models-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('mental-models-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>  
-  <div id="mental-models-abstract" style="display: none; margin-top: 0.4em;">
-    <strong>Abstract:</strong> In economic decision-making, individuals often rely on subjective representation of the environment to process information and make inferences. Using a laboratory experiment, I investigate how such mental models transform when people are exposed to the evaluations of others, particularly in scenarios where one or more parties may adopt an incorrect or misspecified model. Participants face a hiring task where their goal is to choose a worker with higher ability by integrating a noisy education signal with prior group information. The design of treatment conditions varies subjects' exposure to choices by another participant, using one group to present evaluations closely aligned with the theoretical Bayesian benchmark and another to expose subjects to evaluations consistent with signal neglect. I find that exposure to optimal behavior improves decision quality, with treated subjects making up to 22 percentage points more optimal choices. However, many participants appear to imitate others' decisions without internalizing the correct decision rule, leading to mislearning once the primitives of the environment change. Using a diagnostic treatment, I find that helping subjects recognize the optimality of others' choices only partially improves their decisions. Conversely, exposure to suboptimal choices has a weaker and statistically insignificant negative effect, with lower confidence in one’s choices strongly associated with following others’ suboptimal actions. These findings highlight the dual role of social learning: while it can enhance decision-making, it also fosters mechanical imitation that fails to generalize beyond the observed context.
-  </div>
-  Presented at: ESA North American Meeting (Columbus, 2024), Behavioral & Experimental Economics Student Conference (Caltech, 2024), Los Angeles Experiments Conference Poster (Caltech, 2024)
-<!--   See others’ optimal choices: / learn by imitating, but / not when environment changes  -->
-<div style="margin-top: 1.5em;"></div>
-
+## Publications
 
 - <span style="color:#001f3d"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192345#" target="_blank" style="color:#001f3d; text-decoration: none;">“Beliefs, Information Sharing, and Mental Health Care Use Among University Students”</a></strong></span> <span id="mental-health-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('mental-health-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>
   <div>(with Ida Grigoryeva, Bruno Calderon, Roberto González and Alejandro Guardiola Ramires)</div>
@@ -31,6 +20,16 @@ author_profile: true
 <!--   Students don’t go to therapy, why? / Unlikely inaccurate beliefs: / info treatment decreases demand  -->
 <div style="margin-top: 1.5em;"></div>
 
+
+## Working Papers
+
+- <span style="color:#001f3d"><strong>“Mental Models, Social Learning and Statistical Discrimination: A Laboratory Study”</strong></span> <span id="mental-models-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('mental-models-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>  
+  <div id="mental-models-abstract" style="display: none; margin-top: 0.4em;">
+    <strong>Abstract:</strong> In economic decision-making, individuals often rely on subjective representation of the environment to process information and make inferences. Using a laboratory experiment, I investigate how such mental models transform when people are exposed to the evaluations of others, particularly in scenarios where one or more parties may adopt an incorrect or misspecified model. Participants face a hiring task where their goal is to choose a worker with higher ability by integrating a noisy education signal with prior group information. The design of treatment conditions varies subjects' exposure to choices by another participant, using one group to present evaluations closely aligned with the theoretical Bayesian benchmark and another to expose subjects to evaluations consistent with signal neglect. I find that exposure to optimal behavior improves decision quality, with treated subjects making up to 22 percentage points more optimal choices. However, many participants appear to imitate others' decisions without internalizing the correct decision rule, leading to mislearning once the primitives of the environment change. Using a diagnostic treatment, I find that helping subjects recognize the optimality of others' choices only partially improves their decisions. Conversely, exposure to suboptimal choices has a weaker and statistically insignificant negative effect, with lower confidence in one’s choices strongly associated with following others’ suboptimal actions. These findings highlight the dual role of social learning: while it can enhance decision-making, it also fosters mechanical imitation that fails to generalize beyond the observed context.
+  </div>
+  Presented at: ESA North American Meeting (Columbus, 2024), Behavioral & Experimental Economics Student Conference (Caltech, 2024), Los Angeles Experiments Conference Poster (Caltech, 2024)
+<!--   See others’ optimal choices: / learn by imitating, but / not when environment changes  -->
+<div style="margin-top: 1.5em;"></div>
 
 - <span style="color:#001f3d"><strong><a href="https://docs.iza.org/dp16912.pdf" target="_blank" style="color:#001f3d; text-decoration: none;">“Mass Reproducibility and Replicability: A New Hope"</a></strong></span>  <span id="replicability-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('replicability-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>
   <div>(with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.)</div>
