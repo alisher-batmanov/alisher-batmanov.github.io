@@ -12,6 +12,21 @@ author_profile: true
 ## Course Instructor
 {% include base_path %}
 
+- <span style="color:#001f3d"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Fall 2025 ([Evaluations](https://drive.google.com/file/d/13mf7NVAd9TFh4iAV1TMm2HcQEwWdf3e6/view?usp=sharing))</strong></span>  
+  (Student learning - 4.54/5, Course structure - 4.51/5, Class environment - 4.76/5)
+  
+  <span style="display:block;">
+  "Professor's Batmanov friendly demeanor and welcomeness created a open environment where students felt comfortable participating and asking questions; I think that the course setup was great, and I liked how the tests were more challenging as I felt like I learned more from the course that way without getting punished on my overall grade for the course; Best professor I ever had. He runs multiple office hours for me cause I was struggling a little bit; Love this professor!Thoroughly enjoyed the course. You can tell Professor Batmanov tried his best to make the material approachable and cared for his students."
+  </span>
+  
+  <span style="display:block;">
+  "One aspect of Econ 120B that particularly helped me engage with the material was the emphasis on interpreting regression results and understanding how statistical assumptions affect real-world conclusions. Even though the exams were challenging for me, working through the weekly problem sets and seeing how OLS assumptions break down in different scenarios helped me understand the logic behind econometric thinking instead of just memorizing formulas; Taught a difficult subject in a simple manner and helped use good real world examples that helped me learn how the content can apply outside of the classroom; The class is very small and it's highly interactive and you get to follow along pretty easily."
+  </span>
+  
+  <span style="display:block;">
+  "I think this course itself is very challenging so before we talk about anything this aspect should be factored in. There's not a lot of lecturer can do to reduce the difficulty of Econ 120B while maintaining its integrity. The prof still does a very decent job explaining the concepts and does spend enough time reinforcing them so if you attend the class and review the notes afterwards you won't have too much trouble following while at the same time he's not wasting time repeating concepts over and over again. The class size definitely help and at least for me and couple other students it's very interactive. I appreciate the bonus quizzes, it feels good knowing you're improving your score but they're also a great way of checking your understanding. A stressful midterm is also helpful when prepping for the final, at least you know what you got wrong and can improve yourself. The end score is going to end up very similar compared to an uncurved 'easy' test so it does seem like a better way to learn. One thing I will mention which helped me A LOT is the group homework. I feel like I'm the special case here where my other two teammates were really struggling and I chose to review the course topics with them during my spare times, it really improved my understanding once I was put into the lecturer's perspective."
+  </span>
+  
 - <span style="color:#001f3d"><strong>ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory) - Summer 2025 ([Evaluations](https://drive.google.com/file/d/1oFjdegZzbaSsEkM8VB-jWmBpedt1PqjQ/view?usp=share_link))</strong></span>  
   (Student learning - 4.6/5, Course structure - 4.6/5, Class environment - 4.65/5)
   
