@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title:
 nav_order: 1
 permalink: /research/
 author_profile: true
@@ -23,7 +23,7 @@ author_profile: true
 
 ## Working Papers
 
-- <span style="color:#001f3d"><strong><a href="https://drive.google.com/file/d/1U1GQyDtdYzSrKIqXc6UGJsc87y2o3gP8/view?usp=sharing" target="_blank" style="color:#001f3d; text-decoration: none;">“Mental Models, Social Learning and Statistical Discrimination: A Laboratory Study”</strong></span> <span id="mental-models-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('mental-models-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>  
+- <span style="color:#001f3d"><strong><a href="https://drive.google.com/file/d/1U1GQyDtdYzSrKIqXc6UGJsc87y2o3gP8/view?usp=sharing" target="_blank" style="color:#001f3d; text-decoration: none;">“Mental Models, Social Learning and Statistical Discrimination: A Laboratory Study”</a></strong></span> <span id="mental-models-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('mental-models-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>  
   <div id="mental-models-abstract" style="display: none; margin-top: 0.4em;">
 	 <strong>Abstract:</strong> Behavioral biases in decision-making are widespread and often persist even in the presence of feedback that is diagnostic of optimal behavior. Using a laboratory experiment, I examine whether exposure to others’ decisions can correct initial misconceptions and facilitate learning in a worker hiring task where deviations from the theoretical benchmark arise from neglecting an informative signal. I show that exposure to optimal behavior substantially improves decision quality, while exposure to suboptimal choices has a weak negative effect. The analysis reveals substantial heterogeneity in learning beyond exposure: roughly one-third of subjects mechanically replicate observed choices and revert to suboptimal behavior once exposure ends, another third maintain improved performance only when the task environment remains unchanged, and the remaining third exhibit deeper learning that transfers to a related task with altered primitives. These findings highlight the dual role of social learning: while it can enhance decision-making, it can also generate imitation that fails to generalize beyond the observed context. 
   </div>
