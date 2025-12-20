@@ -1,14 +1,16 @@
 ---
 layout: archive
-title: "Teaching at The University of California, San Diego"
+title:
 nav_order: 2
 permalink: /teaching/
 author_profile: true
 ---
 
-{% include base_path %}
+<div style="margin-top: -1.5em;"></div>
+# Teaching at UC San Diego
 
 ## Course Instructor
+{% include base_path %}
 
 - <span style="color:#001f3d"><strong>ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory) - Summer 2025 ([Evaluations](https://drive.google.com/file/d/1oFjdegZzbaSsEkM8VB-jWmBpedt1PqjQ/view?usp=share_link))</strong></span>  
   (Student learning - 4.6/5, Course structure - 4.6/5, Class environment - 4.65/5)

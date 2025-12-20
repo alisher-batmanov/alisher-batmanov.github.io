@@ -6,6 +6,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<div style="margin-top: -1.5em;"></div>
+# Research
 {% include base_path %}
 
 ## Publications

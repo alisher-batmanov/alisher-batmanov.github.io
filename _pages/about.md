@@ -8,7 +8,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <div style="margin-top: 1.5em;"></div> -->
+
+<div style="margin-top: -1.5em;"></div>
 # Welcome to my page!
 
 I am a fifth-year Ph.D. candidate in Economics at the University of California San Diego.<br> 

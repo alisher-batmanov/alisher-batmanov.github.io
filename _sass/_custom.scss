@@ -54,7 +54,7 @@ figcaption a {
 
 /* ====== Global background color (light blush pink) ====== */
 html, body {
-  background-color: #fff2f4 !important; /* softer, lighter pink */
+  background-color: #fff8f9 !important; /* softer, lighter pink */
 }
 
 /* Extend pink to the top navigation and header bar */
@@ -63,7 +63,7 @@ html, body {
 .site-nav,
 .page__header,
 .page__footer {
-  background-color: #fff2f4 !important; /* same pink */
+  background-color: #fff8f9 !important; /* same pink */
   border-color: #f8dce0 !important; /* subtle matching border line */
 }
 
@@ -78,7 +78,7 @@ html, body {
 .masthead__inner-wrap,
 .greedy-nav,
 .greedy-nav .visible-links {
-  background-color: #fff2f4 !important;   /* same light pink */
+  background-color: #fff8f9 !important;   /* same light pink */
   box-shadow: none !important;            /* remove thin white drop shadow */
   border-bottom: 1px solid #f8dce0 !important; /* soft divider */
 }
