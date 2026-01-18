@@ -20,7 +20,7 @@ My primary fields are experimental economics and behavioral economics.<br>
 I am fortunate to be advised by <a href="https://sites.google.com/site/emanuelvespa/" target="_blank">Emanuel Vespa</a> and <a href="https://econweb.ucsd.edu/~itrevino/" target="_blank">Isabel Trevino</a>.<br>
 <!-- In particular, I use laboratory experiments to study how people learn by observing others’ choices. I also work on topics related to student mental health by running studies in the field.  -->
 
-Here is my <a href="/files/CV_Alisher_2025_12_.pdf" target="_blank">CV</a>.
+Here is my <a href="/files/CV_Alisher_2025_12.pdf" target="_blank">CV</a>.
 
 
 <!-- You can find the pronunciation of my first name [here](https://www.howtopronounce.com/alisher#google_vignette). -->
