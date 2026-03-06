@@ -29,7 +29,7 @@ Here is my <a href="/files/CV_Alisher_2025_12.pdf" target="_blank">CV</a>.
 
 Conference Travel
 ------
-May 27–30, 2025 — Behavioral Economics Annual Meeting (<a href="https://blogs.cornell.edu/beam/beam2025/" target="_blank">BEAM</a>), UC Berkeley (participant) 
+May 27–30, 2025 — Behavioral Economics Annual Meeting (<a href="https://blogs.cornell.edu/beam/beam2025/" target="_blank">BEAM</a>), UC Berkeley (participant)  
 July 30 – Aug 1, 2025 — American Economic Association Mentoring Conference, Chicago  
 Sep 13–17, 2025 — The Chicago School in Experimental Economics (<a href="https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-2025/" target="_blank">CSEE</a>), UChicago  
 Sep 18–19, 2025 — Advances with Field Experiments Conference (<a href="https://economics.uchicago.edu/advances-with-field-experiments-conference" target="_blank">AFE</a>), UChicago  
@@ -48,7 +48,7 @@ https://www.nhh.no/en/calendar/fair/2026/conferences/spring-school-2026/
 
 Contact Info
 ------
-[abatmanov@ucsd.edu](mailto:abatmanov@ucsd.edu)\
+Email: [abatmanov@ucsd.edu](mailto:abatmanov@ucsd.edu)\
 University of California San Diego\
-Brian C. Malk Hall, E461\
+Brian C. Malk Hall, Office 461\
 9500 Gilman Dr, San Diego, CA 92093
