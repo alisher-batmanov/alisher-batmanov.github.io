@@ -16,9 +16,9 @@ author_profile: true
   <div>(with Ida Grigoryeva, Bruno Calderon, Roberto González and Alejandro Guardiola Ramires)</div>
   <div><em><strong>Forthcoming in Journal of Development Economics</strong></em></div>
   <div id="mental-health-abstract" style="display: none; margin-top: 0.4em;">
-     <strong>Abstract:</strong> This paper investigates the role of beliefs and stigma in shaping students’ use of professional mental health services at a large private university in Mexico, where supply-side barriers are minimal and services are readily accessible. In an online experiment with 680 students, we estimate a large treatment gap with nearly 50% of students in distress not receiving professional mental health support despite a high level of awareness and perceived effectiveness. We document stigmatized beliefs and misconceptions correlated with the treatment gap. For example, three-quarters of students incorrectly believe that those in distress perform worse academically, and many underestimate how common therapy use is among their peers. To correct inaccurate beliefs, we implement an information intervention and find that it increases students’ willingness to share on-campus mental health resources with peers and encourages them to recommend these resources when advising a friend in distress. However, we also find that it lowers their willingness to pay for external services, suggesting a potential substitution effect from private therapy to free on-campus resources.
+     <strong>Abstract:</strong> This paper investigates the role of beliefs and stigma in shaping students’ use of professional mental health services at a large private university in Mexico, where supply-side barriers are minimal and services are readily accessible. In a survey experiment with 680 students, we find that nearly 50% of students in distress do not receive professional mental health support despite a high level of awareness and perceived effectiveness, constituting a substantial treatment gap. We document stigmatized beliefs and misconceptions correlated with the treatment gap. As three-quarters of students incorrectly believe that those in distress perform worse academically and that the majority of students going to therapy are in severe distress, we implement an information intervention to correct these beliefs. We find that it increases students’ sharing of on-campus mental health resources with peers and encourages them to recommend these resources when advising a friend in distress. Interestingly, we find that it lowers respondents’ willingness to pay for private therapy at the end of the intervention. Yet, this effect does not translate into a long-run reduction in self-reported therapy use six months after the experiment, with prior therapy users showing increased off-campus take-up.
   </div>
-  Presented at: Advances with Field Experiments Conference (UChicago, 2025), NHH Field Experiments Conference (Bergen, 2024)*, Behavioral & Experimental Economics Student Conference (Caltech, 2023)
+  Presented at: Advances with Field Experiments Conference (UChicago 2025), NHH Field Experiments Conference (Bergen 2024)*, Behavioral & Experimental Economics Student Conference (Caltech 2023)
 <!--   Students don’t go to therapy, why? / Unlikely inaccurate beliefs: / info treatment decreases demand  -->
 <div style="margin-top: 1.5em;"></div>
 
@@ -37,7 +37,7 @@ author_profile: true
   <div id="mental-models-abstract" style="display: none; margin-top: 0.4em;">
 	 <strong>Abstract:</strong> Behavioral biases in decision-making are widespread and often persist even in the presence of feedback that is diagnostic of optimal behavior. Using a laboratory experiment, I examine whether exposure to others’ decisions can correct initial misconceptions and facilitate learning in a worker hiring task where deviations from the theoretical benchmark arise from neglecting an informative signal. I show that exposure to optimal behavior substantially improves decision quality, while exposure to suboptimal choices has a weak negative effect. The analysis reveals substantial heterogeneity in learning beyond exposure: roughly one-third of subjects mechanically replicate observed choices and revert to suboptimal behavior once exposure ends, another third maintain improved performance only when the task environment remains unchanged, and the remaining third exhibit deeper learning that transfers to a related task with altered primitives. These findings highlight the dual role of social learning: while it can enhance decision-making, it can also generate imitation that fails to generalize beyond the observed context. 
   </div>
-  Presented at: ESA North American Meeting (Columbus, 2024), Behavioral & Experimental Economics Student Conference (Caltech, 2024), Los Angeles Experiments Conference Poster (Caltech, 2024)
+  Presented at: Southwest Economic Theory Conference (Loyola Marymount University 2026), Spring School in Behavioral Economics (Rady UCSD 2026), ESA North American Meeting (Columbus 2024), Behavioral & Experimental Economics Student Conference (Caltech 2024), Los Angeles Experiments Conference Poster (Caltech 2024)
 <!--   See others’ optimal choices: / learn by imitating, but / not when environment changes  -->
 <div style="margin-top: 1.5em;"></div>
 
@@ -49,13 +49,15 @@ author_profile: true
   <div id="lct-abstract" style="display: none; margin-top: 0.4em;">
     <strong>Abstract:</strong> We study how individuals learn to make optimal decisions when doing so requires conditioning on payoff-relevant contingencies, as prescribed by theory. Using a laboratory experiment, we contrast learning across two environments: one in which irrelevant contingencies are excluded by design, and another in which they occur with positive probability but never affect outcomes. At baseline, 4 out of 5 subjects make a suboptimal choice. With experience and feedback, 71% of participants in the zero-probability environment switch to the optimal choice, compared to 49% in the setting where such contingencies remain present, indicating that engagement with payoff-irrelevant situations hinders learning. Participants in the zero-probability treatment are also more likely to report correct beliefs about the task environment and, conditional on holding accurate beliefs, are 15 percentage points more likely to make an optimal choice. These findings suggest that in many environments that necessitate reasoning through contingencies, not engaging with events that are irrelevant to the outcome can significantly ease learning and lead to optimal behavior.
   </div>
-  Presented at: ESA North American Meeting (Tucson, 2025), Behavioral & Experimental Economics Student Conference (UC Santa Barbara, 2025)
+  Presented at: ESA North American Meeting (Tucson 2025), Behavioral & Experimental Economics Student Conference (UC Santa Barbara 2025)
 <div style="margin-top: 1.5em;"></div>
 
 - <span style="color:#001f3d"><strong>“Experiment on Narratives and Information in Persuasion”</strong></span>  
   <div>(with Bridget Galaty)</div>
-  Presented at: Behavioral & Experimental Economics Student Conference (UC Santa Barbara, 2025)*
+  Presented at: Behavioral & Experimental Economics Student Conference (UC Santa Barbara 2025)*
 <div style="margin-top: 1.5em;"></div>
+
+- <span style="color:#001f3d"><strong>“Descriptive Simplicity in Matching Strategyproof Mechanisms”</strong></span>  
   
 \* – presentation by co-author
 
