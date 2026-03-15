@@ -29,7 +29,7 @@ redirect_from:
 
 <script>
 (function() {
-  const phrases = ["Hello, there!", "Hello, friend!", "Hello, stranger!"];
+  const phrases = ["Welcome to my website!", "Thanks for visiting!", "Take a look around!"];
   const typedEl = document.getElementById("typed-text");
   const typeSpeed = 90;
   const deleteSpeed = 50;
