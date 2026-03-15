@@ -15,7 +15,7 @@ Got a project idea, opportunity, or just want to chat? I'd love to hear from you
 
 ## Send me a message
 
-<form action="https://formspree.io/f/xplaceholder" method="POST" style="max-width: 600px;">
+<form action="https://formspree.io/f/xvzwbabr" method="POST" style="max-width: 600px;">
 
   <label for="name" style="display: block; margin-bottom: 0.3em; font-weight: bold;">Name</label>
   <input type="text" name="name" id="name" placeholder="your name" required
