@@ -121,3 +121,8 @@ html, body {
 .home .page__title::after {
   display: none !important;
 }
+
+/* --- Hide the "Follow" toggle button on mobile --- */
+.author__urls-wrapper button {
+  display: none !important;
+}
