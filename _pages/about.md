@@ -37,7 +37,6 @@ Oct 10-12, 2025 — Economic Science Association (<a href="http://w3.econlab.ari
 Oct 24, 2025 — Los Angeles Experiments (<a href="https://www.anderson.ucla.edu/faculty-research/behavioral-decision-making/los-angeles-experiments-lax-workshop#tab-agenda/" target="_blank">LAX</a>) Workshop, UCLA Anderson<br>
 Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara<br>
 
-Mar 9-12, 2026 — Spring School in Behavioral Economics, Rady UC San Diego <br>
 Mar 19-21, 2026 - Southwest Economic Theory Conference, Loyola Marymount University <br>
 
 <!-- 
