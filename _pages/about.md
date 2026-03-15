@@ -10,7 +10,59 @@ redirect_from:
 ---
 
 <div style="margin-top: -1.5em;"></div>
-# Welcome to my page!
+
+<h1 id="typing-heading"><span id="typed-text"></span><span id="cursor" style="border-right: 2px solid #000; animation: blink 0.7s steps(1) infinite;">&nbsp;</span></h1>
+
+<style>
+@keyframes blink {
+  0%, 100% { border-color: #000; }
+  50% { border-color: transparent; }
+}
+#typing-heading {
+  min-height: 1.2em;
+}
+#cursor {
+  margin-left: 1px;
+  font-weight: normal;
+}
+</style>
+
+<script>
+(function() {
+  const phrases = ["Hello, there!", "Hello, friend!", "Hello, stranger!"];
+  const typedEl = document.getElementById("typed-text");
+  const typeSpeed = 90;
+  const deleteSpeed = 50;
+  const pauseAfterType = 1800;
+  const pauseAfterDelete = 400;
+  let phraseIndex = 0;
+  let charIndex = 0;
+
+  function typeChar() {
+    const current = phrases[phraseIndex];
+    if (charIndex < current.length) {
+      typedEl.textContent += current.charAt(charIndex);
+      charIndex++;
+      setTimeout(typeChar, typeSpeed);
+    } else {
+      setTimeout(deleteChar, pauseAfterType);
+    }
+  }
+
+  function deleteChar() {
+    if (charIndex > 0) {
+      typedEl.textContent = phrases[phraseIndex].substring(0, charIndex - 1);
+      charIndex--;
+      setTimeout(deleteChar, deleteSpeed);
+    } else {
+      phraseIndex = (phraseIndex + 1) % phrases.length;
+      setTimeout(typeChar, pauseAfterDelete);
+    }
+  }
+
+  typeChar();
+})();
+</script>
 
 I am a fifth-year Ph.D. candidate in Economics at the University of California San Diego.<br> 
 I also serve as the manager of the <a href="https://econlab.ucsd.edu/" target="_blank">UC San Diego Economics Laboratory (EconLab)</a>.
