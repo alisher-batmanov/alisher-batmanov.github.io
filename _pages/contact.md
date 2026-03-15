@@ -7,13 +7,11 @@ author_profile: true
 ---
 
 <div style="margin-top: -1.5em;"></div>
-# Contact
+# Send me a message
 
 Got a project idea, opportunity, or just want to chat? I'd love to hear from you.
 
 <div style="margin-top: 2em;"></div>
-
-## Send me a message
 
 <form action="https://formspree.io/f/xvzwbabr" method="POST" style="max-width: 600px;">
 
