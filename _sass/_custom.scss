@@ -14,7 +14,7 @@ a:visited,
 .site-title a,
 .page__footer a,
 .page__title a {
-  color: #001f3d !important;           /* your blue */
+  color: #000000 !important;           /* black – matches body text */
   text-decoration: none !important;     /* no underline */
   border-bottom: 0 !important;          /* theme sometimes uses borders */
   box-shadow: none !important;          /* theme often uses box-shadow underline */
@@ -37,7 +37,7 @@ a:focus,
 .site-title a:hover,
 .page__footer a:hover,
 .page__title a:hover {
-  color: #003366 !important;            /* darker on hover */
+  color: #B32121 !important;            /* dark red on hover */
   text-decoration: none !important;
   border-bottom: 0 !important;
   box-shadow: none !important;
