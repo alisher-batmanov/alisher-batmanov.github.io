@@ -24,7 +24,7 @@ author_profile: true
 ## Course Instructor
 {% include base_path %}
 
-- <span style="color:#001f3d"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Fall 2025</strong></span>
+- <span style="color:#000"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Fall 2025</strong></span>
   <div>Student learning - 4.54/5, Course structure - 4.51/5, Class environment - 4.76/5</div>
   <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-120b-f25'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="/files/120B_Batmanov_FA25_Syllabus.pdf" target="_blank">Syllabus</a>, <a href="https://drive.google.com/file/d/13mf7NVAd9TFh4iAV1TMm2HcQEwWdf3e6/view?usp=sharing" target="_blank">Full Report</a>)</div>
   <div id="eval-120b-f25" style="display: none; margin-top: 0.4em;">
@@ -39,7 +39,7 @@ author_profile: true
   </span>
   </div>
 
-- <span style="color:#001f3d"><strong>ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory) - Summer 2025</strong></span>
+- <span style="color:#000"><strong>ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory) - Summer 2025</strong></span>
   <div>Student learning - 4.6/5, Course structure - 4.6/5, Class environment - 4.65/5</div>
   <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-100a'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="/files/100A_Syllabus_Batmanov_SU25.pdf" target="_blank">Syllabus</a>, <a href="https://drive.google.com/file/d/1oFjdegZzbaSsEkM8VB-jWmBpedt1PqjQ/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-100a" style="display: none; margin-top: 0.4em;">
@@ -54,7 +54,7 @@ author_profile: true
   </span>
   </div>
 
-- <span style="color:#001f3d"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Summer 2024</strong></span>
+- <span style="color:#000"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Summer 2024</strong></span>
   <div>Student learning - 4.24/5, Course structure - 4.36/5, Class environment - 4.64/5</div>
   <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-120b-s24'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="/files/Econ120B_Batmanov_SU24_Syllabus.pdf" target="_blank">Syllabus</a>, <a href="https://drive.google.com/file/d/1jTTdraeTxzaEmDzAUwtd2Wk6ZQ-fMIl0/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-120b-s24" style="display: none; margin-top: 0.4em;">
@@ -72,7 +72,7 @@ author_profile: true
 
 ## Teaching Assistant
 
-- <span style="color:#001f3d"><strong>ECON 220B: Econometric Analysis of Cross-sectional Data (PhD core) - Winter 2023</strong></span>
+- <span style="color:#000"><strong>ECON 220B: Econometric Analysis of Cross-sectional Data (PhD core) - Winter 2023</strong></span>
   <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-220b'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1W9ghTAdWt5m5OivkdIutZMZZaIOOASX5/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-220b" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
@@ -86,7 +86,7 @@ author_profile: true
   </span>
   </div>
 
-- <span style="color:#001f3d"><strong>ECON 109: Game Theory - Winter 2024, Fall 2023, Summer 2023</strong></span>
+- <span style="color:#000"><strong>ECON 109: Game Theory - Winter 2024, Fall 2023, Summer 2023</strong></span>
   <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-109'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1tEylXqEdjgLQCyMhhUfXdZOTjCFfIiJi/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-109" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
@@ -103,7 +103,7 @@ author_profile: true
   </span>
   </div>
 
-- <span style="color:#001f3d"><strong>ECON 100B: Microeconomics B (Producer Theory and GE) - Spring 2024, Summer 2023</strong></span>
+- <span style="color:#000"><strong>ECON 100B: Microeconomics B (Producer Theory and GE) - Spring 2024, Summer 2023</strong></span>
   <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-100b'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1ihdn5jUmT1lMFpDEzvxz67eGl_Zs3qtn/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-100b" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
@@ -117,7 +117,7 @@ author_profile: true
   </span>
   </div>
 
-- <span style="color:#001f3d"><strong>MGT 160: Experiments in Firms - Fall 2024, Winter 2025, Spring 2025</strong></span>
+- <span style="color:#000"><strong>MGT 160: Experiments in Firms - Fall 2024, Winter 2025, Spring 2025</strong></span>
   <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-mgt160'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1VtZensog0ZcTLFDj1BYbfjJxzLf-28Km/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-mgt160" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
@@ -128,7 +128,7 @@ author_profile: true
   </span>
   </div>
 
-- <span style="color:#001f3d"><strong>ECON 1: Principles of Microeconomics - Summer 2024, Fall 2022</strong></span>
+- <span style="color:#000"><strong>ECON 1: Principles of Microeconomics - Summer 2024, Fall 2022</strong></span>
   <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-econ1'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1g3d4d-cI6b7BABnUUJTuZwe0vO9v7H76/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-econ1" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
@@ -140,7 +140,7 @@ author_profile: true
   </div>
 
 <!--
-- <span style="color:#001f3d"><strong>ECON 120A: Econometrics A (Probability Theory and Mathematical Statistics) - Summer 2022 ([Evaluations](https://drive.google.com/file/d/1p6mcBaXxStlwqbDf4Jgwjd4ZYuBFZEvx/view?usp=sharing))</strong></span>
+- <span style="color:#000"><strong>ECON 120A: Econometrics A (Probability Theory and Mathematical Statistics) - Summer 2022 ([Evaluations](https://drive.google.com/file/d/1p6mcBaXxStlwqbDf4Jgwjd4ZYuBFZEvx/view?usp=sharing))</strong></span>
 
   <span style="display:block;">
   "Alisher has been one of the best TAs ever and has been extremely helpful in a very difficult course; Alisher was great! Hope to have him again in future ECON 120 classes."
@@ -148,7 +148,7 @@ author_profile: true
  -->
 
 <!--
-- <span style="color:#001f3d"><strong>ECON 142: Behavioral Economics - Spring 2023 ([Evaluations](https://drive.google.com/file/d/1KDGEKMPXRtsh2VKUKlE29VuroVbGDZYQ/view?usp=share_link))</strong></span>
+- <span style="color:#000"><strong>ECON 142: Behavioral Economics - Spring 2023 ([Evaluations](https://drive.google.com/file/d/1KDGEKMPXRtsh2VKUKlE29VuroVbGDZYQ/view?usp=share_link))</strong></span>
 
   <span style="display:block;">
   "Alisher is a great TA. Very helpful; Excellent teacher; He has been truly accessible and useful."
@@ -156,7 +156,7 @@ author_profile: true
  -->
 
 <!--
-- <span style="color:#001f3d"><strong>ECON 173: Financial Markets - Winter 2024 ([Evaluations](https://drive.google.com/file/d/1jzfMt7Hl_qLuJuuEFQVxyqOhzM_oYlPM/view?usp=share_link))</strong></span>
+- <span style="color:#000"><strong>ECON 173: Financial Markets - Winter 2024 ([Evaluations](https://drive.google.com/file/d/1jzfMt7Hl_qLuJuuEFQVxyqOhzM_oYlPM/view?usp=share_link))</strong></span>
 
   <span style="display:block;">
   "He gave me a lot of help during office hours and discussion about coding. Thanks for his efforts and help."
