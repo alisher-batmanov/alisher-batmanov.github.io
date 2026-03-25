@@ -28,7 +28,7 @@ author_profile: true
   <div id="mental-models-abstract" style="margin-top: 0.4em;">
 	 <strong>Abstract:</strong> Behavioral biases in decision-making are widespread and often persist even in the presence of feedback that is diagnostic of optimal behavior. Using a laboratory experiment, I examine whether exposure to others' decisions can correct initial misconceptions and facilitate learning in a worker hiring task where deviations from the theoretical benchmark arise from neglecting an informative signal. I show that exposure to optimal behavior substantially improves decision quality, while exposure to suboptimal choices has a weak negative effect. The analysis reveals substantial heterogeneity in learning beyond exposure: roughly one-third of subjects mechanically replicate observed choices and revert to suboptimal behavior once exposure ends, another third maintain improved performance only when the task environment remains unchanged, and the remaining third exhibit deeper learning that transfers to a related task with altered primitives. These findings highlight the dual role of social learning: while it can enhance decision-making, it can also generate imitation that fails to generalize beyond the observed context.
   </div>
-  Presented at: Southwest Economic Theory Conference (Loyola Marymount University 2026), ESA North American Meeting (Columbus 2024), Behavioral & Experimental Economics Student Conference (Caltech 2024), Los Angeles Experiments Conference Poster (Caltech 2024)
+  Presented at: Southwest Economic Theory Conference (Loyola Marymount University 2026), American Economic Association Mentoring Conference (Chicago 2025), ESA North American Meeting (Columbus 2024), Behavioral & Experimental Economics Student Conference (Caltech 2024), Los Angeles Experiments Conference Poster (Caltech 2024)
 <!--   See others' optimal choices: / learn by imitating, but / not when environment changes  -->
 <div style="margin-top: 1.5em;"></div>
 
@@ -48,16 +48,16 @@ author_profile: true
 
 ## Work in Progress
 
-- <span style="color:#001f3d"><strong>"Learning to Ignore Irrelevant Contingencies: An Experiment"</strong></span> (with Jeongbin Kim and Emanuel Vespa) (<span class="abstract-toggle" onclick="var el=document.getElementById('lct-abstract'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Abstract</span>)
-  <div><em>Data collection completed</em></div>
+- <span style="color:#001f3d"><strong>"Learning to Ignore Irrelevant Contingencies: An Experiment"</strong></span> (with Jeongbin Kim and Emanuel Vespa)
+  <div><em>Data collection completed</em> (<span class="abstract-toggle" onclick="var el=document.getElementById('lct-abstract'); el.style.display = el.style.display==='none' ? 'block' : 'none';"><strong>Abstract</strong></span>)</div>
   <div id="lct-abstract" style="display: none; margin-top: 0.4em;">
     <strong>Abstract:</strong> We study how individuals learn to make optimal decisions when doing so requires conditioning on payoff-relevant contingencies, as prescribed by theory. Using a laboratory experiment, we contrast learning across two environments: one in which irrelevant contingencies are excluded by design, and another in which they occur with positive probability but never affect outcomes. At baseline, 4 out of 5 subjects make a suboptimal choice. With experience and feedback, 71% of participants in the zero-probability environment switch to the optimal choice, compared to 49% in the setting where such contingencies remain present, indicating that engagement with payoff-irrelevant situations hinders learning. Participants in the zero-probability treatment are also more likely to report correct beliefs about the task environment and, conditional on holding accurate beliefs, are 15 percentage points more likely to make an optimal choice. These findings suggest that in many environments that necessitate reasoning through contingencies, not engaging with events that are irrelevant to the outcome can significantly ease learning and lead to optimal behavior.
   </div>
   Presented at: ESA North American Meeting (Tucson 2025), Behavioral & Experimental Economics Student Conference (UC Santa Barbara 2025)
 <div style="margin-top: 1.5em;"></div>
 
-- <span style="color:#001f3d"><strong>"Experiment on Narratives and Information in Persuasion"</strong></span> (with Bridget Galaty) (<span class="abstract-toggle" onclick="var el=document.getElementById('narratives-abstract'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Abstract</span>)
-  <div><em>Pilot completed</em></div>
+- <span style="color:#001f3d"><strong>"Experiment on Narratives and Information in Persuasion"</strong></span> (with Bridget Galaty)
+  <div><em>Pilot completed</em> (<span class="abstract-toggle" onclick="var el=document.getElementById('narratives-abstract'); el.style.display = el.style.display==='none' ? 'block' : 'none';"><strong>Abstract</strong></span>)</div>
   <div id="narratives-abstract" style="display: none; margin-top: 0.4em;">
     <strong>Abstract:</strong> We study how informational advantage (cheap talk) and narrative persuasion interact in the same experimental setting. In an inference task, receivers observe a dataset and make predictions after receiving a message from a sender who may have additional information and who communicates either through a simple recommendation or an elaborate narrative explanation. By varying the sender's information and communication mode, we isolate the effects of new information versus new interpretation. This allows us to test predictions from models of strategic information transmission and competing narratives, and to assess when persuasion works through informational advantage versus framing.
   </div>
