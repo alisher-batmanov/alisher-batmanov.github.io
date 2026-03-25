@@ -26,7 +26,7 @@ author_profile: true
 
 - <span style="color:#001f3d"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Fall 2025</strong></span>
   <div>Student learning - 4.54/5, Course structure - 4.51/5, Class environment - 4.76/5</div>
-  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-120b-f25'); el.style.display = el.style.display==='none' ? 'block' : 'none';"><strong>Evaluations Preview</strong></span>, <a href="https://drive.google.com/file/d/13mf7NVAd9TFh4iAV1TMm2HcQEwWdf3e6/view?usp=sharing" target="_blank"><strong>Full Report</strong></a>)</div>
+  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-120b-f25'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="/files/120B_Batmanov_FA25_Syllabus.pdf" target="_blank">Syllabus</a>, <a href="https://drive.google.com/file/d/13mf7NVAd9TFh4iAV1TMm2HcQEwWdf3e6/view?usp=sharing" target="_blank">Full Report</a>)</div>
   <div id="eval-120b-f25" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
   "Professor's Batmanov friendly demeanor and welcomeness created a open environment where students felt comfortable participating and asking questions; I think that the course setup was great, and I liked how the tests were more challenging as I felt like I learned more from the course that way without getting punished on my overall grade for the course; Best professor I ever had. He runs multiple office hours for me cause I was struggling a little bit; Love this professor! Thoroughly enjoyed the course. You can tell Professor Batmanov tried his best to make the material approachable and cared for his students."
@@ -41,7 +41,7 @@ author_profile: true
 
 - <span style="color:#001f3d"><strong>ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory) - Summer 2025</strong></span>
   <div>Student learning - 4.6/5, Course structure - 4.6/5, Class environment - 4.65/5</div>
-  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-100a'); el.style.display = el.style.display==='none' ? 'block' : 'none';"><strong>Evaluations Preview</strong></span>, <a href="https://drive.google.com/file/d/1oFjdegZzbaSsEkM8VB-jWmBpedt1PqjQ/view?usp=share_link" target="_blank"><strong>Full Report</strong></a>)</div>
+  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-100a'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="/files/100A_Syllabus_Batmanov_SU25.pdf" target="_blank">Syllabus</a>, <a href="https://drive.google.com/file/d/1oFjdegZzbaSsEkM8VB-jWmBpedt1PqjQ/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-100a" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
   "The presentations with "correct" pace helped me absorb the material easily. This is by far the most crystal clear class I've ever taken. Concepts are explained clearly, without leaving any possible tiny questions unanswered."
@@ -56,7 +56,7 @@ author_profile: true
 
 - <span style="color:#001f3d"><strong>ECON 120B: Econometrics B (Linear Regression and Causal Inference) - Summer 2024</strong></span>
   <div>Student learning - 4.24/5, Course structure - 4.36/5, Class environment - 4.64/5</div>
-  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-120b-s24'); el.style.display = el.style.display==='none' ? 'block' : 'none';"><strong>Evaluations Preview</strong></span>, <a href="https://drive.google.com/file/d/1jTTdraeTxzaEmDzAUwtd2Wk6ZQ-fMIl0/view?usp=share_link" target="_blank"><strong>Full Report</strong></a>)</div>
+  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-120b-s24'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="/files/Econ120B_Batmanov_SU24_Syllabus.pdf" target="_blank">Syllabus</a>, <a href="https://drive.google.com/file/d/1jTTdraeTxzaEmDzAUwtd2Wk6ZQ-fMIl0/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-120b-s24" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
   "The professor did a wonderful job engaging the students in a way that made the information stick. I appreciate his teaching style and the things I learned; He was really welcoming and interested in the lives of his students. He asked me about my work and why I was taking the class. He also went above and beyond by answering questions on discord that my team and I had. He was always prompt and informative."
@@ -73,7 +73,7 @@ author_profile: true
 ## Teaching Assistant
 
 - <span style="color:#001f3d"><strong>ECON 220B: Econometric Analysis of Cross-sectional Data (PhD core) - Winter 2023</strong></span>
-  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-220b'); el.style.display = el.style.display==='none' ? 'block' : 'none';"><strong>Evaluations Preview</strong></span>, <a href="https://drive.google.com/file/d/1W9ghTAdWt5m5OivkdIutZMZZaIOOASX5/view?usp=share_link" target="_blank"><strong>Full Report</strong></a>)</div>
+  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-220b'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1W9ghTAdWt5m5OivkdIutZMZZaIOOASX5/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-220b" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
   "Alisher was by far the best TA we had this quarter, and he is the best TA we have had for metrics. This is a sentiment I know many of my peers share, as it has been a common topic of conversation throughout the quarter. I could not have asked for a better metrics TA and I wish Alisher was TAing for 220C as well, and I hope that he will lead our qual review sessions. Alisher was extremely prepared for discussion, especially considering this was his first time TAing this class."
@@ -87,7 +87,7 @@ author_profile: true
   </div>
 
 - <span style="color:#001f3d"><strong>ECON 109: Game Theory - Winter 2024, Fall 2023, Summer 2023</strong></span>
-  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-109'); el.style.display = el.style.display==='none' ? 'block' : 'none';"><strong>Evaluations Preview</strong></span>, <a href="https://drive.google.com/file/d/1tEylXqEdjgLQCyMhhUfXdZOTjCFfIiJi/view?usp=share_link" target="_blank"><strong>Full Report</strong></a>)</div>
+  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-109'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1tEylXqEdjgLQCyMhhUfXdZOTjCFfIiJi/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-109" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
   "He is one of the most well prepared TAs I've had for any of my lectures and the material covered in discussion sections are really helpful. The discussion sections were incredibly helpful and honestly helped me become more interested in the material - Alisher's thought process/approaches to the problems were really interesting and insightful throughout the quarter"
@@ -104,7 +104,7 @@ author_profile: true
   </div>
 
 - <span style="color:#001f3d"><strong>ECON 100B: Microeconomics B (Producer Theory and GE) - Spring 2024, Summer 2023</strong></span>
-  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-100b'); el.style.display = el.style.display==='none' ? 'block' : 'none';"><strong>Evaluations Preview</strong></span>, <a href="https://drive.google.com/file/d/1ihdn5jUmT1lMFpDEzvxz67eGl_Zs3qtn/view?usp=share_link" target="_blank"><strong>Full Report</strong></a>)</div>
+  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-100b'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1ihdn5jUmT1lMFpDEzvxz67eGl_Zs3qtn/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-100b" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
   "Mr Batmanov is one of the best TAs I've had in my life. Very clear explanation of the material; Extremely helpful review sessions that helped me succeed in the class; Fantastic recorded review sessions. Great examples, and made himself constantly available for questions."
@@ -118,7 +118,7 @@ author_profile: true
   </div>
 
 - <span style="color:#001f3d"><strong>MGT 160: Experiments in Firms - Fall 2024, Winter 2025, Spring 2025</strong></span>
-  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-mgt160'); el.style.display = el.style.display==='none' ? 'block' : 'none';"><strong>Evaluations Preview</strong></span>, <a href="https://drive.google.com/file/d/1VtZensog0ZcTLFDj1BYbfjJxzLf-28Km/view?usp=share_link" target="_blank"><strong>Full Report</strong></a>)</div>
+  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-mgt160'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1VtZensog0ZcTLFDj1BYbfjJxzLf-28Km/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-mgt160" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
   "Really helpful and answers to questions very quickly with full professionalism; Gave very detailed and constructive feedback, always provided reminders and tips in discord that were very helpful!; TA encouraged me to feel that I could succeed in the course, Was incredibly encouraging!!; The best TA I've ever had! Incredibly patient and understanding, wish all my TA's were like him; had a great experience with Alisher and definitely recommend him to other students as well!"
@@ -129,7 +129,7 @@ author_profile: true
   </div>
 
 - <span style="color:#001f3d"><strong>ECON 1: Principles of Microeconomics - Summer 2024, Fall 2022</strong></span>
-  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-econ1'); el.style.display = el.style.display==='none' ? 'block' : 'none';"><strong>Evaluations Preview</strong></span>, <a href="https://drive.google.com/file/d/1g3d4d-cI6b7BABnUUJTuZwe0vO9v7H76/view?usp=share_link" target="_blank"><strong>Full Report</strong></a>)</div>
+  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-econ1'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1g3d4d-cI6b7BABnUUJTuZwe0vO9v7H76/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-econ1" style="display: none; margin-top: 0.4em;">
   <span style="display:block;">
   "Alisher was a fantastic TA for this course; works graded by him were consistently done quickly and accurately; Alisher led quiz and midterm review sessions very well by being able to go through the topics and give an overview of each; by attending section I felt more prepared to take the quiz/midterm."

@@ -6,6 +6,18 @@ permalink: /research/
 author_profile: true
 ---
 
+<style>
+.abstract-toggle {
+  cursor: pointer;
+  text-decoration: none !important;
+  transition: color 0.2s ease-in-out;
+  color: #000 !important;
+}
+.abstract-toggle:hover {
+  color: #B32121 !important;
+}
+</style>
+
 <div style="margin-top: -1.5em;"></div>
 # Research
 {% include base_path %}
@@ -36,8 +48,7 @@ author_profile: true
 
 ## Work in Progress
 
-- <span style="color:#001f3d"><strong>"Learning to Ignore Irrelevant Contingencies: An Experiment"</strong></span> <span id="lct-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('lct-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>
-  <div style="margin-top: 0.2em;">(with Jeongbin Kim and Emanuel Vespa)</div>
+- <span style="color:#001f3d"><strong>"Learning to Ignore Irrelevant Contingencies: An Experiment"</strong></span> (with Jeongbin Kim and Emanuel Vespa) (<span class="abstract-toggle" onclick="var el=document.getElementById('lct-abstract'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Abstract</span>)
   <div><em>Data collection completed</em></div>
   <div id="lct-abstract" style="display: none; margin-top: 0.4em;">
     <strong>Abstract:</strong> We study how individuals learn to make optimal decisions when doing so requires conditioning on payoff-relevant contingencies, as prescribed by theory. Using a laboratory experiment, we contrast learning across two environments: one in which irrelevant contingencies are excluded by design, and another in which they occur with positive probability but never affect outcomes. At baseline, 4 out of 5 subjects make a suboptimal choice. With experience and feedback, 71% of participants in the zero-probability environment switch to the optimal choice, compared to 49% in the setting where such contingencies remain present, indicating that engagement with payoff-irrelevant situations hinders learning. Participants in the zero-probability treatment are also more likely to report correct beliefs about the task environment and, conditional on holding accurate beliefs, are 15 percentage points more likely to make an optimal choice. These findings suggest that in many environments that necessitate reasoning through contingencies, not engaging with events that are irrelevant to the outcome can significantly ease learning and lead to optimal behavior.
@@ -45,8 +56,7 @@ author_profile: true
   Presented at: ESA North American Meeting (Tucson 2025), Behavioral & Experimental Economics Student Conference (UC Santa Barbara 2025)
 <div style="margin-top: 1.5em;"></div>
 
-- <span style="color:#001f3d"><strong>"Experiment on Narratives and Information in Persuasion"</strong></span> <span id="narratives-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('narratives-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>
-  <div>(with Bridget Galaty)</div>
+- <span style="color:#001f3d"><strong>"Experiment on Narratives and Information in Persuasion"</strong></span> (with Bridget Galaty) (<span class="abstract-toggle" onclick="var el=document.getElementById('narratives-abstract'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Abstract</span>)
   <div><em>Pilot completed</em></div>
   <div id="narratives-abstract" style="display: none; margin-top: 0.4em;">
     <strong>Abstract:</strong> We study how informational advantage (cheap talk) and narrative persuasion interact in the same experimental setting. In an inference task, receivers observe a dataset and make predictions after receiving a message from a sender who may have additional information and who communicates either through a simple recommendation or an elaborate narrative explanation. By varying the sender's information and communication mode, we isolate the effects of new information versus new interpretation. This allows us to test predictions from models of strategic information transmission and competing narratives, and to assess when persuasion works through informational advantage versus framing.
@@ -54,16 +64,14 @@ author_profile: true
   Presented at: Behavioral & Experimental Economics Student Conference (UC Santa Barbara 2025)*
 <div style="margin-top: 1.5em;"></div>
 
-- <span style="color:#001f3d"><strong>"Strategyproof Matching Mechanisms"</strong></span>
+- <span style="color:#001f3d"><strong>"Descriptive Simplicity in Strategyproof Matching Mechanisms"</strong></span>
   <div><em>Designing experiment</em></div>
 <div style="margin-top: 1.5em;"></div>
-
-\* – presentation by co-author
 
 
 ## Other Published Papers
 
-- <span style="color:#001f3d"><strong><a href="https://docs.iza.org/dp16912.pdf" target="_blank" style="color:#001f3d; text-decoration: none;">"Mass Reproducibility and Replicability: A New Hope"</a></strong></span>  <span id="replicability-toggle" style="cursor: pointer; text-decoration: underline;" onclick="document.getElementById('replicability-abstract').style.display='block'; this.style.display='none';"><strong>(Abstract)</strong></span>
+- <span style="color:#001f3d"><strong><a href="https://docs.iza.org/dp16912.pdf" target="_blank" style="color:#001f3d; text-decoration: none;">"Mass Reproducibility and Replicability: A New Hope"</a></strong></span> (<span class="abstract-toggle" onclick="var el=document.getElementById('replicability-abstract'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Abstract</span>)
   <div>(meta paper with Abel Brodeur, Derek Mikola, Nikolai Cook, et al.)</div>
   <div><em><strong>Nature</strong></em> (Forthcoming)</div>
   <div id="replicability-abstract" style="display: none; margin-top: 0.4em;">
@@ -71,4 +79,4 @@ author_profile: true
   </div>
 <!--   Replicate 110 papers: / computational reproducibility 85% and / robustness reproducibility 70%  -->
 
-
+\* – presentation by co-author
