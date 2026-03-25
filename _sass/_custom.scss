@@ -127,6 +127,29 @@ html, body {
   display: none !important;
 }
 
+/* --- Wider sidebar + bigger profile picture via flexbox override --- */
+@media (min-width: 64em) {
+  #main {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    gap: 2em !important;
+  }
+  #main > .sidebar {
+    float: none !important;           /* kill Susy float */
+    width: 250px !important;          /* fixed sidebar width */
+    min-width: 250px !important;
+    flex-shrink: 0 !important;
+    margin-right: 0 !important;       /* kill Susy gutter */
+  }
+  #main > .page {
+    float: none !important;           /* kill Susy float */
+    width: auto !important;
+    flex: 1 1 0% !important;          /* fill remaining space */
+    padding-left: 0 !important;
+    margin-left: 0 !important;
+  }
+}
+
 /* --- Rectangular profile picture instead of circular --- */
 .author__avatar img {
   border-radius: 8px !important;
