@@ -127,6 +127,19 @@ html, body {
   display: none !important;
 }
 
+/* --- Widen the sidebar so the profile picture can be larger --- */
+@media (min-width: 64em) {          /* matches the theme's $large breakpoint */
+  .sidebar {
+    width: 22% !important;          /* was ~16.7% (2/12 grid columns) */
+    float: left !important;
+  }
+  .page {
+    width: calc(100% - 22%) !important;
+    padding-left: 2em !important;
+    float: right !important;
+  }
+}
+
 /* --- Rectangular profile picture instead of circular --- */
 .author__avatar img {
   border-radius: 8px !important;
