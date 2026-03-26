@@ -122,34 +122,6 @@ html, body {
   display: none !important;
 }
 
-/* --- Push the masthead nav to align with the content area --- */
-/* Mirror the exact same flex layout as #main so the nav      */
-/* starts at the same x-position as the page content.         */
-@media (min-width: 64em) {
-  .masthead__inner-wrap {
-    display: flex !important;
-    flex-wrap: nowrap !important;
-    gap: 2em !important;              /* same gap as #main */
-    max-width: 1400px !important;     /* same max-width as #main */
-    margin-left: auto !important;
-    margin-right: auto !important;
-    padding-left: 1em !important;     /* same padding as #main */
-    padding-right: 1em !important;
-  }
-  /* invisible spacer that mirrors the sidebar in #main */
-  .masthead__inner-wrap::before {
-    content: '' !important;
-    display: block !important;
-    width: 250px !important;          /* same as #main > .sidebar width */
-    min-width: 250px !important;
-    flex-shrink: 0 !important;
-  }
-  .masthead__menu {
-    flex: 1 1 0% !important;          /* same as #main > .page */
-    margin-left: 0 !important;
-  }
-}
-
 /* --- Hide the "Follow" toggle button on mobile --- */
 .author__urls-wrapper button {
   display: none !important;
@@ -161,22 +133,62 @@ html, body {
     display: flex !important;
     flex-wrap: nowrap !important;
     gap: 2em !important;
-    max-width: 1400px !important;    /* wider than default 1280px */
+    max-width: 1400px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+  }
+  /* Kill clearfix pseudo-elements so they don't become flex items */
+  #main::before,
+  #main::after {
+    display: none !important;
+    content: none !important;
   }
   #main > .sidebar {
-    float: none !important;           /* kill Susy float */
-    width: 250px !important;          /* slightly wider than original ~175px */
+    float: none !important;
+    width: 250px !important;
     min-width: 250px !important;
     flex-shrink: 0 !important;
-    margin-right: 0 !important;       /* kill Susy gutter */
+    margin-right: 0 !important;
   }
   #main > .page {
-    float: none !important;           /* kill Susy float */
+    float: none !important;
     width: auto !important;
-    flex: 1 1 0% !important;          /* fill remaining space */
+    flex: 1 1 0% !important;
     padding-left: 0 !important;
     margin-left: 0 !important;
-    padding-right: 0 !important;      /* remove wasted right padding */
+    padding-right: 0 !important;
+  }
+
+  /* --- Masthead nav: exact mirror of #main layout --- */
+  .masthead__inner-wrap {
+    display: flex !important;
+    flex-wrap: nowrap !important;
+    gap: 2em !important;
+    max-width: 1400px !important;
+    width: 100% !important;
+    box-sizing: border-box !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+  }
+  /* Kill any clearfix pseudo-elements on masthead too */
+  .masthead__inner-wrap::after {
+    display: none !important;
+    content: none !important;
+  }
+  /* Invisible spacer = same as #main > .sidebar */
+  .masthead__inner-wrap::before {
+    content: '' !important;
+    display: block !important;
+    width: 250px !important;
+    min-width: 250px !important;
+    flex-shrink: 0 !important;
+  }
+  .masthead__menu {
+    flex: 1 1 0% !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 }
 
