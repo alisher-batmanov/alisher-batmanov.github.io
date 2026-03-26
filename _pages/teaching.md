@@ -117,17 +117,6 @@ author_profile: true
   </span>
   </div>
 
-- <span style="color:#000"><strong>MGT 160: Experiments in Firms - Fall 2024, Winter 2025, Spring 2025</strong></span>
-  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-mgt160'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1VtZensog0ZcTLFDj1BYbfjJxzLf-28Km/view?usp=share_link" target="_blank">Full Report</a>)</div>
-  <div id="eval-mgt160" style="display: none; margin-top: 0.4em;">
-  <span style="display:block;">
-  "Really helpful and answers to questions very quickly with full professionalism; Gave very detailed and constructive feedback, always provided reminders and tips in discord that were very helpful!; TA encouraged me to feel that I could succeed in the course, Was incredibly encouraging!!; The best TA I've ever had! Incredibly patient and understanding, wish all my TA's were like him; had a great experience with Alisher and definitely recommend him to other students as well!"
-  </span>
-  <span style="display:block; margin-top: 0.5em;">
-  Instructor evaluation: "If there is the possibility for Alisher to win an Instructional Assistant award, I highly recommend him for it. I have had many teaching assistants at numerous institutions, and he is among the best I have worked with. Alisher went above and beyond as an instructional assistant. Though not required, he set up his own Discord channel for students to be able to reach out to him any time. I was a member of the channel, so I would see students' activity. Alisher always responded promptly and professionally, helping the students out with whatever they needed. This proactive step that he took to make excellent lines of communication between him and the students really made the course much better than it would have otherwise been. Alisher also helped me out so much by showing me the ropes, since he had been an instructional assistant on this course before, but this was my first time teaching it. He had great ideas on how to solve some tough logistical problems with the course. He was a great assistant who listened to what I wanted, but also wasn't afraid to offer his opinion when he thought something could be improved, which I truly appreciated. Without him, the course would have been not only significantly bumpier, but simply not as high quality as it was. I wish he could be my instructional assistant forever!"
-  </span>
-  </div>
-
 - <span style="color:#000"><strong>ECON 1: Principles of Microeconomics - Summer 2024, Fall 2022</strong></span>
   <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-econ1'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1g3d4d-cI6b7BABnUUJTuZwe0vO9v7H76/view?usp=share_link" target="_blank">Full Report</a>)</div>
   <div id="eval-econ1" style="display: none; margin-top: 0.4em;">
@@ -136,6 +125,17 @@ author_profile: true
   </span>
   <span style="display:block; margin-top: 0.5em;">
   Instructor evaluation: "I really loved teaching Econ 1 with Alisher this summer because he was such an outstanding TA. For the first time in my 20 years of teaching at UCSD, Alisher finished grading the midterm and final on the same day the exam was given. He also graded very accurately and provided detailed explanations so that no student asked for a regrade. Particularly for summer session, quick grading of the midterm was incredibly useful so students who wanted to improve their performance could work with Alisher and me to develop a new study strategy for the final. Alisher was on top of everything all summer and was very communicative about his plans for the class. He was unfailingly kind to the students and greatly contributed to making Econ 1 successful this summer. Thank you for everything, Alisher!"
+  </span>
+  </div>
+
+- <span style="color:#000"><strong>MGT 160: Experiments in Firms - Fall 2024, Winter 2025, Spring 2025</strong></span>
+  <div>(<span class="eval-toggle" onclick="var el=document.getElementById('eval-mgt160'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Evaluations Preview</span>, <a href="https://drive.google.com/file/d/1VtZensog0ZcTLFDj1BYbfjJxzLf-28Km/view?usp=share_link" target="_blank">Full Report</a>)</div>
+  <div id="eval-mgt160" style="display: none; margin-top: 0.4em;">
+  <span style="display:block;">
+  "Really helpful and answers to questions very quickly with full professionalism; Gave very detailed and constructive feedback, always provided reminders and tips in discord that were very helpful!; TA encouraged me to feel that I could succeed in the course, Was incredibly encouraging!!; The best TA I've ever had! Incredibly patient and understanding, wish all my TA's were like him; had a great experience with Alisher and definitely recommend him to other students as well!"
+  </span>
+  <span style="display:block; margin-top: 0.5em;">
+  Instructor evaluation: "If there is the possibility for Alisher to win an Instructional Assistant award, I highly recommend him for it. I have had many teaching assistants at numerous institutions, and he is among the best I have worked with. Alisher went above and beyond as an instructional assistant. Though not required, he set up his own Discord channel for students to be able to reach out to him any time. I was a member of the channel, so I would see students' activity. Alisher always responded promptly and professionally, helping the students out with whatever they needed. This proactive step that he took to make excellent lines of communication between him and the students really made the course much better than it would have otherwise been. Alisher also helped me out so much by showing me the ropes, since he had been an instructional assistant on this course before, but this was my first time teaching it. He had great ideas on how to solve some tough logistical problems with the course. He was a great assistant who listened to what I wanted, but also wasn't afraid to offer his opinion when he thought something could be improved, which I truly appreciated. Without him, the course would have been not only significantly bumpier, but simply not as high quality as it was. I wish he could be my instructional assistant forever!"
   </span>
   </div>
 

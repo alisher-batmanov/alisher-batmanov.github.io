@@ -82,7 +82,8 @@ analytics:
 author:
   name             : "Alisher Batmanov"
   avatar           : "Alisher_pic_shores.jpg"
-  bio              : "Economics Ph.D. candidate at UC San Diego"
+  bio              : "Economics Ph.D. candidate"
+  bio2             : "UC San Diego"
   location         : # "San Diego, California"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
