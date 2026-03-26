@@ -123,18 +123,30 @@ html, body {
 }
 
 /* --- Push the masthead nav to align with the content area --- */
+/* Mirror the exact same flex layout as #main so the nav      */
+/* starts at the same x-position as the page content.         */
 @media (min-width: 64em) {
   .masthead__inner-wrap {
     display: flex !important;
-    max-width: 1400px !important;     /* match #main max-width */
+    flex-wrap: nowrap !important;
+    gap: 2em !important;              /* same gap as #main */
+    max-width: 1400px !important;     /* same max-width as #main */
     margin-left: auto !important;
     margin-right: auto !important;
-    padding-left: 1em !important;
+    padding-left: 1em !important;     /* same padding as #main */
     padding-right: 1em !important;
   }
+  /* invisible spacer that mirrors the sidebar in #main */
+  .masthead__inner-wrap::before {
+    content: '' !important;
+    display: block !important;
+    width: 250px !important;          /* same as #main > .sidebar width */
+    min-width: 250px !important;
+    flex-shrink: 0 !important;
+  }
   .masthead__menu {
-    flex: 1 !important;
-    margin-left: calc(250px + 2em) !important; /* invisible spacer = sidebar + gap */
+    flex: 1 1 0% !important;          /* same as #main > .page */
+    margin-left: 0 !important;
   }
 }
 
