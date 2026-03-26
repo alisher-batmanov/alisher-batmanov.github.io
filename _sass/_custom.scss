@@ -133,6 +133,7 @@ html, body {
     display: flex !important;
     flex-wrap: nowrap !important;
     gap: 2em !important;
+    max-width: 1600px !important;    /* wider than default 1280px */
   }
   #main > .sidebar {
     float: none !important;           /* kill Susy float */
