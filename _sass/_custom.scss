@@ -122,6 +122,14 @@ html, body {
   display: none !important;
 }
 
+/* --- Push the masthead nav to align with the content area --- */
+@media (min-width: 64em) {
+  .masthead__inner-wrap,
+  .greedy-nav {
+    padding-left: calc(250px + 2em) !important;  /* sidebar width + gap */
+  }
+}
+
 /* --- Hide the "Follow" toggle button on mobile --- */
 .author__urls-wrapper button {
   display: none !important;
@@ -133,7 +141,7 @@ html, body {
     display: flex !important;
     flex-wrap: nowrap !important;
     gap: 2em !important;
-    max-width: 1600px !important;    /* wider than default 1280px */
+    max-width: 1400px !important;    /* wider than default 1280px */
   }
   #main > .sidebar {
     float: none !important;           /* kill Susy float */
