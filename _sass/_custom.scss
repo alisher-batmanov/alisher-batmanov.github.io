@@ -125,14 +125,16 @@ html, body {
 /* --- Push the masthead nav to align with the content area --- */
 @media (min-width: 64em) {
   .masthead__inner-wrap {
-    max-width: 1400px !important;     /* match #main width */
+    display: flex !important;
+    max-width: 1400px !important;     /* match #main max-width */
     margin-left: auto !important;
     margin-right: auto !important;
     padding-left: 1em !important;
     padding-right: 1em !important;
   }
-  .greedy-nav {
-    margin-left: calc(250px + 4.5em) !important;  /* sidebar width + gap + fine-tune */
+  .masthead__menu {
+    flex: 1 !important;
+    margin-left: calc(250px + 2em) !important; /* invisible spacer = sidebar + gap */
   }
 }
 
