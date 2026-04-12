@@ -24,8 +24,9 @@ author_profile: true
 
 ## Working Papers
 
-- <span style="color:#000"><strong><a href="https://drive.google.com/file/d/1U1GQyDtdYzSrKIqXc6UGJsc87y2o3gP8/view?usp=sharing" target="_blank" style="color:#000; text-decoration: none;">"Mental Models, Social Learning and Statistical Discrimination: A Laboratory Study"</a></strong></span>
-  <div id="mental-models-abstract" style="margin-top: 0.4em;">
+- <span style="color:#000"><strong>"Mental Models, Social Learning and Statistical Discrimination: A Laboratory Study" -- Job Market Paper</strong></span> (<span class="abstract-toggle" onclick="var el=document.getElementById('mental-models-abstract'); el.style.display = el.style.display==='none' ? 'block' : 'none';">Abstract</span>)
+  <div><em>(draft available upon request)</em></div>
+  <div id="mental-models-abstract" style="display: none; margin-top: 0.4em;">
 	 <strong>Abstract:</strong> Behavioral biases in decision-making are widespread and often persist even in the presence of feedback that is diagnostic of optimal behavior. Using a laboratory experiment, I examine whether exposure to others' decisions can correct initial misconceptions and facilitate learning in a worker hiring task where deviations from the theoretical benchmark arise from neglecting an informative signal. I show that exposure to optimal behavior substantially improves decision quality, while exposure to suboptimal choices has a weak negative effect. The analysis reveals substantial heterogeneity in learning beyond exposure: roughly one-third of subjects mechanically replicate observed choices and revert to suboptimal behavior once exposure ends, another third maintain improved performance only when the task environment remains unchanged, and the remaining third exhibit deeper learning that transfers to a related task with altered primitives. These findings highlight the dual role of social learning: while it can enhance decision-making, it can also generate imitation that fails to generalize beyond the observed context.
   </div>
   <strong>Presented at:</strong> Southwest Economic Theory Conference (Loyola Marymount University 2026), American Economic Association Mentoring Conference (Chicago 2025), ESA North American Meeting (Columbus 2024), Behavioral & Experimental Economics Student Conference (Caltech 2024), Los Angeles Experiments Conference Poster (Caltech 2024)
@@ -35,9 +36,9 @@ author_profile: true
 
 ## Published Papers
 
-- <span style="color:#000"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192345#" target="_blank" style="color:#000; text-decoration: none;">"Beliefs, Information Sharing, and Mental Health Care Use Among University Students"</a></strong></span>
+- <span style="color:#000"><strong><a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192345#" target="_blank" style="color:#000; text-decoration: none;">"Beliefs, Information Sharing, and Mental Health Care Use Among University Students"</a></strong></span> (2026)
   <div>(with Ida Grigoryeva, Bruno Calderon, Roberto González and Alejandro Guardiola Ramires)</div>
-  <div><em><strong>Journal of Development Economics</strong></em> (Forthcoming)</div>
+  <div><em><strong>Journal of Development Economics</strong></em></div>
   <div id="mental-health-abstract" style="margin-top: 0.4em;">
      <strong>Abstract:</strong> This paper investigates the role of beliefs and stigma in shaping students' use of professional mental health services at a large private university in Mexico, where supply-side barriers are minimal and services are readily accessible. In a survey experiment with 680 students, we find that nearly 50% of students in distress do not receive professional mental health support despite a high level of awareness and perceived effectiveness, constituting a substantial treatment gap. We document stigmatized beliefs and misconceptions correlated with the treatment gap. As three-quarters of students incorrectly believe that those in distress perform worse academically and that the majority of students going to therapy are in severe distress, we implement an information intervention to correct these beliefs. We find that it increases students' sharing of on-campus mental health resources with peers and encourages them to recommend these resources when advising a friend in distress. Interestingly, we find that it lowers respondents' willingness to pay for private therapy at the end of the intervention. Yet, this effect does not translate into a long-run reduction in self-reported therapy use six months after the experiment, with prior therapy users showing increased off-campus take-up.
   </div>
@@ -71,8 +72,8 @@ author_profile: true
 
 ## Other Published Papers
 
-- <span style="color:#000"><strong><a href="https://docs.iza.org/dp16912.pdf" target="_blank" style="color:#000; text-decoration: none;">"Mass Reproducibility and Replicability: A New Hope"</a></strong></span> (meta paper with Abel Brodeur, et al.)
-  <div><em><strong>Nature</strong></em> (Forthcoming)</div>
+- <span style="color:#000"><strong><a href="https://www.nature.com/articles/s41586-026-10251-x" target="_blank" style="color:#000; text-decoration: none;">"Reproducibility and robustness of economics and political science research"</a></strong></span> (2026) (meta paper with Abel Brodeur, et al.)
+  <div><em><strong>Nature</strong></em></div>
   <div id="replicability-abstract" style="margin-top: 0.4em;">
     <strong>Abstract:</strong> This study pushes our understanding of research reliability by reproducing and replicating claims from 110 papers in leading economic and political science journals. The analysis involves computational reproducibility checks and robustness assessments. It reveals several patterns. First, we uncover a high rate of fully computationally reproducible results (over 85%). Second, excluding minor issues like missing packages or broken pathways, we uncover coding errors for about 25% of studies, with some studies containing multiple errors. Third, we test the robustness of the results to 5,511 re-analyses. We find a robustness reproducibility of about 70%. Robustness reproducibility rates are relatively higher for re-analyses that introduce new data and lower for re-analyses that change the sample or the definition of the dependent variable. Fourth, 52% of re-analysis effect size estimates are smaller than the original published estimates and the average statistical significance of a re-analysis is 77% of the original. Lastly, we rely on six teams of researchers working independently to answer eight additional research questions on the determinants of robustness reproducibility. Most teams find a negative relationship between replicators' experience and reproducibility, while finding no relationship between reproducibility and the provision of intermediate or even raw data combined with the necessary cleaning codes.
   </div>

@@ -86,10 +86,11 @@ July 30 – Aug 1, 2025 — American Economic Association Mentoring Conference, 
 Sep 13–17, 2025 — The Chicago School in Experimental Economics (<a href="https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-2025/" target="_blank">CSEE</a>), UChicago  
 Sep 18–19, 2025 — Advances with Field Experiments Conference (<a href="https://economics.uchicago.edu/advances-with-field-experiments-conference" target="_blank">AFE</a>), UChicago  
 Oct 10-12, 2025 — Economic Science Association (<a href="http://w3.econlab.arizona.edu/esa2025/" target="_blank">ESA</a>) North American Meeting, Tucson AZ<br>
-Oct 24, 2025 — Los Angeles Experiments (<a href="https://www.anderson.ucla.edu/faculty-research/behavioral-decision-making/los-angeles-experiments-lax-workshop#tab-agenda/" target="_blank">LAX</a>) Workshop, UCLA Anderson<br>
+Oct 24, 2025 — Los Angeles Experiments (<a href="https://www.anderson.ucla.edu/faculty-research/behavioral-decision-making/los-angeles-experiments-lax-workshop#tab-agenda/" target="_blank">LAX</a>) Workshop, UCLA Anderson (participant)<br>
 Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara<br>
 
 Mar 19-21, 2026 - Southwest Economic Theory Conference, Loyola Marymount University <br>
+July 14-17, 2026 — Economic Science Association (ESA) World Meeting, Los Angeles CA<br>
 
 <!-- 
 https://www.nhh.no/en/calendar/fair/2026/conferences/spring-school-2026/
