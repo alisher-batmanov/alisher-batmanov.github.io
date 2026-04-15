@@ -90,6 +90,7 @@ Oct 24, 2025 — Los Angeles Experiments (<a href="https://www.anderson.ucla.edu
 Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara<br>
 
 Mar 19-21, 2026 - Southwest Economic Theory Conference, Loyola Marymount University <br>
+June 28 - July 7, 2026 — Russell Sage Foundation (<a href="https://laibson.scholars.harvard.edu/rsfcamp" target="_blank">RSF</a>) Summer Institute in Behavioral Economics, Dedham MA<br>
 July 14-17, 2026 — Economic Science Association (ESA) World Meeting, Los Angeles CA<br>
 
 <!-- 
