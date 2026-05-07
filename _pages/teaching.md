@@ -15,13 +15,13 @@ author_profile: true
   text-transform: uppercase;
   color: #888;
   margin-bottom: 1.2em;
-  margin-top: 2.5em;
+  margin-top: 3.5em;
 }
 .teaching-section-label:first-of-type {
   margin-top: 0;
 }
 .course-block {
-  margin-bottom: 2.2em;
+  margin-bottom: 1.4em;
 }
 .course-title {
   font-size: 1.05em;
