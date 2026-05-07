@@ -74,7 +74,9 @@ My primary fields are experimental economics and behavioral economics.<br>
 I am fortunate to be advised by <a href="https://sites.google.com/site/emanuelvespa/" target="_blank">Emanuel Vespa</a> and <a href="https://econweb.ucsd.edu/~itrevino/" target="_blank">Isabel Trevino</a>.<br>
 <!-- In particular, I use laboratory experiments to study how people learn by observing others’ choices. I also work on topics related to student mental health by running studies in the field.  -->
 
-Here is my <a href="/files/CV_Alisher_2026_03.pdf" target="_blank">CV</a>.
+<div style="margin-top: 0.8em;">
+  <a href="/files/CV_Alisher_2026_03.pdf" target="_blank" style="display:inline-flex; align-items:center; gap:5px; padding:6px 16px; border:1px solid #ccc; border-radius:4px; color:#000 !important; text-decoration:none !important; font-size:0.9em; transition:all 0.2s ease-in-out; background:transparent; font-family:inherit;" onmouseover="this.style.borderColor='#7B0000'; this.style.color='#7B0000';" onmouseout="this.style.borderColor='#ccc'; this.style.color='#000';"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Curriculum Vitae (CV)</a>
+</div>
 
 
 <!-- You can find the pronunciation of my first name [here](https://www.howtopronounce.com/alisher#google_vignette). -->
