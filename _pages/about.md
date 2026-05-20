@@ -83,22 +83,19 @@ I am fortunate to be advised by <a href="https://sites.google.com/site/emanuelve
 
 Conference Travel
 ------
-May 27–30, 2025 — Behavioral Economics Annual Meeting (<a href="https://blogs.cornell.edu/beam/beam2025/" target="_blank">BEAM</a>), UC Berkeley (participant)  
-July 30 – Aug 1, 2025 — American Economic Association Mentoring Conference, Chicago  
-Sep 13–17, 2025 — The Chicago School in Experimental Economics (<a href="https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-2025/" target="_blank">CSEE</a>), UChicago  
-Sep 18–19, 2025 — Advances with Field Experiments Conference (<a href="https://economics.uchicago.edu/advances-with-field-experiments-conference" target="_blank">AFE</a>), UChicago  
-Oct 10-12, 2025 — Economic Science Association (<a href="http://w3.econlab.arizona.edu/esa2025/" target="_blank">ESA</a>) North American Meeting, Tucson AZ<br>
-Oct 24, 2025 — Los Angeles Experiments (<a href="https://www.anderson.ucla.edu/faculty-research/behavioral-decision-making/los-angeles-experiments-lax-workshop#tab-agenda/" target="_blank">LAX</a>) Workshop, UCLA Anderson (participant)<br>
-Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara<br>
-
-Mar 19-21, 2026 - Southwest Economic Theory Conference, Loyola Marymount University <br>
+Aug 6-7, 2026 — Stanford Institute for Theoretical Economics (<a href="https://economics.stanford.edu/events/site-2026/session-6-experimental-economics" target="_blank">SITE</a>) Experimental Economics Conference, Stanford CA<br>
+July 14-17, 2026 — Economic Science Association (<a href="https://sites.google.com/view/esa2026la/home?authuser=0" target="_blank">ESA</a>) World Meeting, Los Angeles CA<br>
 June 28 - July 7, 2026 — Russell Sage Foundation (<a href="https://laibson.scholars.harvard.edu/rsfcamp" target="_blank">RSF</a>) Summer Institute in Behavioral Economics, Dedham MA<br>
-July 14-17, 2026 — Economic Science Association (ESA) World Meeting, Los Angeles CA<br>
+June 18-19, 2026 — Caltech Workshop in Theory-Based Experiments (<a href="https://lindeinstitute.caltech.edu/research/ctess/ctess-events" target="_blank">CTESS</a>), Los Angeles CA<br>
+Mar 19-21, 2026 — Southwest Economic Theory Conference (<a href="https://gregcleo.com/files/swet_2026_program.pdf" target="_blank">SWET</a>), Loyola Marymount University<br>
 
-<!-- 
-https://www.nhh.no/en/calendar/fair/2026/conferences/spring-school-2026/
- -->
-<!-- - <span style="color:#333333"><strong>Aug 18-21, 2025 -- SITE, Stanford</strong></span>   -->
+Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara<br>
+Oct 24, 2025 — Los Angeles Experiments (<a href="https://www.anderson.ucla.edu/faculty-research/behavioral-decision-making/los-angeles-experiments-lax-workshop#tab-agenda/" target="_blank">LAX</a>) Workshop, UCLA Anderson (participant)<br>
+Oct 10-12, 2025 — Economic Science Association (<a href="http://w3.econlab.arizona.edu/esa2025/" target="_blank">ESA</a>) North American Meeting, Tucson AZ<br>
+Sep 18–19, 2025 — Advances with Field Experiments Conference (<a href="https://economics.uchicago.edu/advances-with-field-experiments-conference" target="_blank">AFE</a>), UChicago<br>
+Sep 13–17, 2025 — The Chicago School in Experimental Economics (<a href="https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-2025/" target="_blank">CSEE</a>), UChicago<br>
+July 30 – Aug 1, 2025 — American Economic Association Mentoring Conference, Chicago<br>
+May 27–30, 2025 — Behavioral Economics Annual Meeting (<a href="https://blogs.cornell.edu/beam/beam2025/" target="_blank">BEAM</a>), UC Berkeley (participant)
 
 
 Contact Info

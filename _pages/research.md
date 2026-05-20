@@ -142,7 +142,7 @@ function toggleSection(id, btnId) {
 <div class="research-section-label">Working Papers</div>
 
 <div class="paper-block">
-  <div class="paper-title">"Mental Models, Social Learning and Statistical Discrimination: A Laboratory Study" — Job Market Paper</div>
+  <div class="paper-title">"Fragile Learning From Others" — Job Market Paper</div>
   <div class="paper-status"><em>Draft available upon request</em></div>
   <div class="paper-buttons">
     <span class="paper-btn" id="btn-mm-abs" onclick="toggleSection('mm-abstract','btn-mm-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
@@ -153,6 +153,9 @@ function toggleSection(id, btnId) {
   </div>
   <div class="paper-presentations" id="mm-pres">
     <ul>
+      <li>Stanford Institute for Theoretical Economics (SITE) Experimental Economics Conference (Stanford 2026)</li>
+      <li>Caltech Workshop in Theory-Based Experiments (CTESS) (Los Angeles 2026)</li>
+      <li>Economic Science Association (ESA) World Meeting (Los Angeles 2026)</li>
       <li>Southwest Economic Theory Conference (Loyola Marymount University 2026)</li>
       <li>American Economic Association Mentoring Conference (Chicago 2025)</li>
       <li>ESA North American Meeting (Columbus 2024)</li>
