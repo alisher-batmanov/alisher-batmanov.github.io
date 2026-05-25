@@ -9,11 +9,14 @@ redirect_from:
   - /about.html
 ---
 
-<div style="margin-top: -1.5em;"></div>
+<div class="page-pull-up"></div>
 
-<h1 id="typing-heading"><span id="typed-text"></span><span id="cursor" style="border-right: 2px solid #000; animation: blink 0.7s steps(1) infinite;">&nbsp;</span></h1>
+<h1 id="typing-heading"><span id="typed-text"></span><span id="cursor"></span></h1>
 
 <style>
+.page-pull-up {
+  margin-top: -1.5em;
+}
 @keyframes blink {
   0%, 100% { border-color: #000; }
   50% { border-color: transparent; }
@@ -22,8 +25,19 @@ redirect_from:
   min-height: 1.2em;
 }
 #cursor {
+  border-right: 2px solid #000;
+  animation: blink 0.7s steps(1) infinite;
   margin-left: 1px;
   font-weight: normal;
+  letter-spacing: -0.05em;
+}
+#cursor::after {
+  content: '\200B'; /* zero-width space instead of &nbsp; */
+}
+@media (max-width: 64em) {
+  .page-pull-up {
+    margin-top: 0;
+  }
 }
 </style>
 
