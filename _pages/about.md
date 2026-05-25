@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="page-pull-up"></div>
 
-<h1 id="typing-heading"><span id="typed-text"></span><span id="cursor">&#8203;</span></h1>
+<h1 id="typing-heading"><span id="typed-text"></span></h1>
 
 <style>
 @keyframes blink {
@@ -21,11 +21,14 @@ redirect_from:
 #typing-heading {
   min-height: 1.2em;
 }
-#cursor {
+#typed-text::after {
+  content: '';
   display: inline-block;
   width: 2px;
+  height: 0.85em;
   background: #000;
   margin-left: 2px;
+  vertical-align: text-bottom;
   animation: blink 0.7s steps(1) infinite;
 }
 </style>
