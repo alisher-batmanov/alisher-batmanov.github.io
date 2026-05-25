@@ -153,14 +153,14 @@ function toggleSection(id, btnId) {
   </div>
   <div class="paper-presentations" id="mm-pres">
     <ul>
-      <li>Stanford Institute for Theoretical Economics (SITE) Experimental Economics Conference (Stanford 2026)</li>
-      <li>Caltech Workshop in Theory-Based Experiments (CTESS) (Los Angeles 2026)</li>
+      <li>SITE Experimental Economics Conference (Stanford 2026)</li>
+      <li>CTESS Workshop in Theory-Based Experiments (Caltech 2026)</li>
       <li>Economic Science Association (ESA) World Meeting (Los Angeles 2026)</li>
-      <li>Southwest Economic Theory Conference (Loyola Marymount University 2026)</li>
+      <li>Southwest Economic Theory Conference (Loyola Marymount 2026)</li>
       <li>American Economic Association Mentoring Conference (Chicago 2025)</li>
-      <li>ESA North American Meeting (Columbus 2024)</li>
+      <li>Economic Science Association (ESA) North American Meeting (Columbus 2024)</li>
       <li>Behavioral &amp; Experimental Economics Student Conference (Caltech 2024)</li>
-      <li>Los Angeles Experiments Conference Poster (Caltech 2024)</li>
+      <li>Los Angeles Experiments (LAX) Conference Poster (Caltech 2024)</li>
     </ul>
   </div>
 </div>
@@ -210,7 +210,7 @@ function toggleSection(id, btnId) {
   </div>
   <div class="paper-presentations" id="lct-pres">
     <ul>
-      <li>ESA North American Meeting (Tucson 2025)</li>
+      <li>Economic Science Association (ESA) North American Meeting (Tucson 2025)</li>
       <li>Behavioral &amp; Experimental Economics Student Conference (UC Santa Barbara 2025)</li>
     </ul>
   </div>
