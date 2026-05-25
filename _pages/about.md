@@ -70,14 +70,12 @@ redirect_from:
 })();
 </script>
 
-I am a fifth-year Ph.D. candidate in Economics at the University of California San Diego.<br> 
-I also serve as the manager of the <a href="https://econlab.ucsd.edu/" target="_blank">UC San Diego Economics Laboratory (EconLab)</a>.
+I am a fifth-year Ph.D. candidate in Economics at the University of California San Diego.<br class="desktop-only"> I also serve as the manager of the <a href="https://econlab.ucsd.edu/" target="_blank">UC San Diego Economics Laboratory (EconLab)</a>.
 <!-- Prior to UC San Diego, I earned an M.A. in Economics from Central European University. -->
 
 <strong>I will be on the Economics Job Market 2026-2027.</strong>
 
-My primary fields are experimental economics and behavioral economics.<br> 
-I am fortunate to be advised by <a href="https://sites.google.com/site/emanuelvespa/" target="_blank">Emanuel Vespa</a> and <a href="https://econweb.ucsd.edu/~itrevino/" target="_blank">Isabel Trevino</a>.<br>
+My primary fields are experimental economics and behavioral economics.<br class="desktop-only"> I am fortunate to be advised by <a href="https://sites.google.com/site/emanuelvespa/" target="_blank">Emanuel Vespa</a> and <a href="https://econweb.ucsd.edu/~itrevino/" target="_blank">Isabel Trevino</a>.
 <!-- In particular, I use laboratory experiments to study how people learn by observing others' choices. I also work on topics related to student mental health by running studies in the field.  -->
 
 <div style="margin-top: 0.8em;">
