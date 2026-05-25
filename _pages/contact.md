@@ -6,7 +6,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-<div style="margin-top: -1.5em;"></div>
+<div class="page-pull-up"></div>
 # Send me a message
 
 Got a project idea, opportunity, or just want to chat? I'd love to hear from you.
@@ -31,7 +31,7 @@ Got a project idea, opportunity, or just want to chat? I'd love to hear from you
 
   <button type="submit"
     style="padding: 0.7em 2em; background-color: #000; color: #fff; border: none; border-radius: 6px; font-size: 1em; font-family: inherit; cursor: pointer; transition: background-color 0.2s ease-in-out;"
-    onmouseover="this.style.backgroundColor='#B32121'"
+    onmouseover="this.style.backgroundColor='#7B0000'"
     onmouseout="this.style.backgroundColor='#000'">
     Send Message
   </button>

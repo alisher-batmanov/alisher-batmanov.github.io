@@ -135,7 +135,7 @@ function toggleSection(id, btnId) {
 }
 </script>
 
-<div style="margin-top: -1.5em;"></div>
+<div class="page-pull-up"></div>
 # Research
 {% include base_path %}
 

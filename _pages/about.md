@@ -11,33 +11,22 @@ redirect_from:
 
 <div class="page-pull-up"></div>
 
-<h1 id="typing-heading"><span id="typed-text"></span><span id="cursor"></span></h1>
+<h1 id="typing-heading"><span id="typed-text"></span><span id="cursor">&#8203;</span></h1>
 
 <style>
-.page-pull-up {
-  margin-top: -1.5em;
-}
 @keyframes blink {
-  0%, 100% { border-color: #000; }
-  50% { border-color: transparent; }
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
 }
 #typing-heading {
   min-height: 1.2em;
 }
 #cursor {
-  border-right: 2px solid #000;
+  display: inline-block;
+  width: 2px;
+  background: #000;
+  margin-left: 2px;
   animation: blink 0.7s steps(1) infinite;
-  margin-left: 1px;
-  font-weight: normal;
-  letter-spacing: -0.05em;
-}
-#cursor::after {
-  content: '\200B'; /* zero-width space instead of &nbsp; */
-}
-@media (max-width: 64em) {
-  .page-pull-up {
-    margin-top: 0;
-  }
 }
 </style>
 
@@ -86,7 +75,7 @@ I also serve as the manager of the <a href="https://econlab.ucsd.edu/" target="_
 
 My primary fields are experimental economics and behavioral economics.<br> 
 I am fortunate to be advised by <a href="https://sites.google.com/site/emanuelvespa/" target="_blank">Emanuel Vespa</a> and <a href="https://econweb.ucsd.edu/~itrevino/" target="_blank">Isabel Trevino</a>.<br>
-<!-- In particular, I use laboratory experiments to study how people learn by observing others’ choices. I also work on topics related to student mental health by running studies in the field.  -->
+<!-- In particular, I use laboratory experiments to study how people learn by observing others' choices. I also work on topics related to student mental health by running studies in the field.  -->
 
 <div style="margin-top: 0.8em;">
   <a href="/files/CV_Alisher_2026_03.pdf" target="_blank" style="display:inline-flex; align-items:center; gap:5px; padding:6px 16px; border:1px solid #ccc; border-radius:4px; color:#000 !important; text-decoration:none !important; font-size:0.9em; transition:all 0.2s ease-in-out; background:transparent; font-family:inherit;" onmouseover="this.style.borderColor='#7B0000'; this.style.color='#7B0000';" onmouseout="this.style.borderColor='#ccc'; this.style.color='#000';"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Curriculum Vitae (CV)</a>
@@ -97,19 +86,20 @@ I am fortunate to be advised by <a href="https://sites.google.com/site/emanuelve
 
 Conference Travel
 ------
-Aug 6-7, 2026 — Stanford Institute for Theoretical Economics (<a href="https://economics.stanford.edu/events/site-2026/session-6-experimental-economics" target="_blank">SITE</a>) Experimental Economics Conference, Stanford CA<br>
-July 14-17, 2026 — Economic Science Association (<a href="https://sites.google.com/view/esa2026la/home?authuser=0" target="_blank">ESA</a>) World Meeting, Los Angeles CA<br>
-June 28 - July 7, 2026 — Russell Sage Foundation (<a href="https://laibson.scholars.harvard.edu/rsfcamp" target="_blank">RSF</a>) Summer Institute in Behavioral Economics, Dedham MA<br>
-June 18-19, 2026 — Caltech Workshop in Theory-Based Experiments (<a href="https://lindeinstitute.caltech.edu/research/ctess/ctess-events" target="_blank">CTESS</a>), Los Angeles CA<br>
-Mar 19-21, 2026 — Southwest Economic Theory Conference (<a href="https://gregcleo.com/files/swet_2026_program.pdf" target="_blank">SWET</a>), Loyola Marymount University<br>
-
-Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara<br>
-Oct 24, 2025 — Los Angeles Experiments (<a href="https://www.anderson.ucla.edu/faculty-research/behavioral-decision-making/los-angeles-experiments-lax-workshop#tab-agenda/" target="_blank">LAX</a>) Workshop, UCLA Anderson (participant)<br>
-Oct 10-12, 2025 — Economic Science Association (<a href="http://w3.econlab.arizona.edu/esa2025/" target="_blank">ESA</a>) North American Meeting, Tucson AZ<br>
-Sep 18–19, 2025 — Advances with Field Experiments Conference (<a href="https://economics.uchicago.edu/advances-with-field-experiments-conference" target="_blank">AFE</a>), UChicago<br>
-Sep 13–17, 2025 — The Chicago School in Experimental Economics (<a href="https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-2025/" target="_blank">CSEE</a>), UChicago<br>
-July 30 – Aug 1, 2025 — American Economic Association Mentoring Conference, Chicago<br>
-May 27–30, 2025 — Behavioral Economics Annual Meeting (<a href="https://blogs.cornell.edu/beam/beam2025/" target="_blank">BEAM</a>), UC Berkeley (participant)
+<ul class="conf-list">
+  <li>Aug 6-7, 2026 — Stanford Institute for Theoretical Economics (<a href="https://economics.stanford.edu/events/site-2026/session-6-experimental-economics" target="_blank">SITE</a>) Experimental Economics Conference, Stanford CA</li>
+  <li>July 14-17, 2026 — Economic Science Association (<a href="https://sites.google.com/view/esa2026la/home?authuser=0" target="_blank">ESA</a>) World Meeting, Los Angeles CA</li>
+  <li>June 28 - July 7, 2026 — Russell Sage Foundation (<a href="https://laibson.scholars.harvard.edu/rsfcamp" target="_blank">RSF</a>) Summer Institute in Behavioral Economics, Dedham MA</li>
+  <li>June 18-19, 2026 — Caltech Workshop in Theory-Based Experiments (<a href="https://lindeinstitute.caltech.edu/research/ctess/ctess-events" target="_blank">CTESS</a>), Los Angeles CA</li>
+  <li>Mar 19-21, 2026 — Southwest Economic Theory Conference (<a href="https://gregcleo.com/files/swet_2026_program.pdf" target="_blank">SWET</a>), Loyola Marymount University</li>
+  <li class="conf-year-gap">Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara</li>
+  <li>Oct 24, 2025 — Los Angeles Experiments (<a href="https://www.anderson.ucla.edu/faculty-research/behavioral-decision-making/los-angeles-experiments-lax-workshop#tab-agenda/" target="_blank">LAX</a>) Workshop, UCLA Anderson (participant)</li>
+  <li>Oct 10-12, 2025 — Economic Science Association (<a href="http://w3.econlab.arizona.edu/esa2025/" target="_blank">ESA</a>) North American Meeting, Tucson AZ</li>
+  <li>Sep 18–19, 2025 — Advances with Field Experiments Conference (<a href="https://economics.uchicago.edu/advances-with-field-experiments-conference" target="_blank">AFE</a>), UChicago</li>
+  <li>Sep 13–17, 2025 — The Chicago School in Experimental Economics (<a href="https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-2025/" target="_blank">CSEE</a>), UChicago</li>
+  <li>July 30 – Aug 1, 2025 — American Economic Association Mentoring Conference, Chicago</li>
+  <li>May 27–30, 2025 — Behavioral Economics Annual Meeting (<a href="https://blogs.cornell.edu/beam/beam2025/" target="_blank">BEAM</a>), UC Berkeley (participant)</li>
+</ul>
 
 
 Contact Info

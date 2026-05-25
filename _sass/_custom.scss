@@ -200,3 +200,35 @@ html, body {
   width: 100% !important;
   height: auto !important;
 }
+
+/* --- Page pull-up: tighten heading gap on desktop, normal on mobile --- */
+.page-pull-up {
+  margin-top: -1.5em;
+}
+@media (max-width: 63.999em) {
+  .page-pull-up {
+    margin-top: 0;
+  }
+}
+
+/* --- Conference travel list --- */
+.conf-list {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+.conf-list li {
+  position: relative;
+  padding-left: 1em;
+  margin-bottom: 0.5em;
+  line-height: 1.5;
+}
+.conf-list li::before {
+  content: '\2022';
+  position: absolute;
+  left: 0;
+  color: #7B0000;
+}
+.conf-list .conf-year-gap {
+  margin-top: 1.2em;
+}

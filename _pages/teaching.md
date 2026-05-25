@@ -98,7 +98,7 @@ function toggleSection(id, btnId) {
 }
 </script>
 
-<div style="margin-top: -1.5em;"></div>
+<div class="page-pull-up"></div>
 # Teaching at UC San Diego
 
 <div class="teaching-section-label">Course Instructor</div>
