@@ -121,7 +121,7 @@ function toggleSection(id, btnId) {
 </div>
 
 <div class="course-block">
-  <div class="course-title">ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory) — Summer 2025</div>
+  <div class="course-title">ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory, GE) — Summer 2025</div>
   <div class="course-scores">Student learning — 4.6/5, Course structure — 4.6/5, Class environment — 4.65/5</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-100a-eval" onclick="toggleSection('eval-100a','btn-100a-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
@@ -158,7 +158,7 @@ function toggleSection(id, btnId) {
 <div class="teaching-section-label">Teaching Assistant</div>
 
 <div class="course-block">
-  <div class="course-title">ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory) — Spring 2026</div>
+  <div class="course-title">ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory, GE) — Spring 2026</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-100a-ta-eval" onclick="toggleSection('eval-100a-ta','btn-100a-ta-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="https://drive.google.com/file/d/PLACEHOLDER/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
