@@ -158,6 +158,22 @@ function toggleSection(id, btnId) {
 <div class="teaching-section-label">Teaching Assistant</div>
 
 <div class="course-block">
+  <div class="course-title">ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory) — Spring 2026</div>
+  <div class="course-buttons">
+    <span class="course-btn" id="btn-100a-ta-eval" onclick="toggleSection('eval-100a-ta','btn-100a-ta-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
+    <a class="course-btn" href="https://drive.google.com/file/d/PLACEHOLDER/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
+  </div>
+  <div class="course-evals" id="eval-100a-ta">
+    <ul>
+      <li>"Alisher is the most dedicated TA I've interacted with at UCSD. This is evident not only in his clear communication of the Professor's expectations, but also in the time and effort he put into answering questions on the class Discord. He consistently responded quickly, and it was clear that he genuinely cared about helping students succeed in the course."</li>
+      <li>"When I was struggling through my midterms, I was expressing my concerns and he was really supportive, and helped me dial down some subjects so that I can give the second midterm and the final a good shot; I found the extra practice material he offered extremely helpful along with the study tips he'd give regarding the topics that students have struggled with in the past. He was very encouraging and always offered his help and availability."</li>
+      <li>"Always was willing to help everyone, often held Zooms especially during times of exams and ensured that students understood the content completely; Discord server is incredibly helpful! He provided students with a Discord in which many students participated and gave us an easy platform to ask for questions and provide notes."</li>
+      <li><em>Instructor evaluation:</em> "Alisher was an amazing TA! Very experienced, knowledgeable, and most importantly, cares a lot about the students' learning"</li>
+    </ul>
+  </div>
+</div>
+
+<div class="course-block">
   <div class="course-title">ECON 220B: Econometric Analysis of Cross-sectional Data (PhD core) — Winter 2023</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-220b-eval" onclick="toggleSection('eval-220b','btn-220b-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
