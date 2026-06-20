@@ -75,7 +75,7 @@ I am a fifth-year Ph.D. candidate in Economics at the University of California S
 
 <strong>I will be on the Economics Job Market 2026-2027.</strong>
 
-My primary fields are experimental economics and behavioral economics.<br class="desktop-only"> I am fortunate to be advised by <a href="https://sites.google.com/site/emanuelvespa/" target="_blank">Emanuel Vespa</a> and <a href="https://econweb.ucsd.edu/~itrevino/" target="_blank">Isabel Trevino</a>.
+My primary fields are experimental economics and behavioral economics.<br class="desktop-only"> I am fortunate to be advised by <a href="https://sites.google.com/site/emanuelvespa/" target="_blank">Prof. Emanuel Vespa</a> and <a href="https://econweb.ucsd.edu/~itrevino/" target="_blank">Prof. Isabel Trevino</a>.
 <!-- In particular, I use laboratory experiments to study how people learn by observing others' choices. I also work on topics related to student mental health by running studies in the field.  -->
 
 <div style="margin-top: 0.8em;">
@@ -90,7 +90,7 @@ Conference Travel
 <ul class="conf-list">
   <li>Aug 6-7, 2026 — Stanford Institute for Theoretical Economics (<a href="https://economics.stanford.edu/events/site-2026/session-6-experimental-economics" target="_blank">SITE</a>) Experimental Economics Conference, Stanford CA</li>
   <li>July 14-17, 2026 — Economic Science Association (<a href="https://sites.google.com/view/esa2026la/home?authuser=0" target="_blank">ESA</a>) World Meeting, Los Angeles CA</li>
-  <li>June 28 - July 7, 2026 — Russell Sage Foundation (<a href="https://laibson.scholars.harvard.edu/rsfcamp" target="_blank">RSF</a>) Summer Institute in Behavioral Economics, Dedham MA</li>
+  <li>June 28 - July 7, 2026 — Russell Sage Foundation (<a href="https://laibson.scholars.harvard.edu/rsfcamp" target="_blank">RSF</a>) Summer Institute in Behavioral Economics, Boston MA</li>
   <li>June 18-19, 2026 — Caltech Workshop in Theory-Based Experiments (<a href="https://lindeinstitute.caltech.edu/research/ctess/ctess-events" target="_blank">CTESS</a>), Los Angeles CA</li>
   <li>Mar 19-21, 2026 — Southwest Economic Theory Conference (<a href="https://gregcleo.com/files/swet_2026_program.pdf" target="_blank">SWET</a>), Loyola Marymount University</li>
   <li class="conf-year-gap">Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara</li>
