@@ -159,6 +159,7 @@ function toggleSection(id, btnId) {
 
 <div class="course-block">
   <div class="course-title">ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory, GE) — Spring 2026</div>
+  <div class="course-scores">Overall rating — 4.79/5, Positive responses — 98%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-100a-ta-eval" onclick="toggleSection('eval-100a-ta','btn-100a-ta-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="https://drive.google.com/file/d/1e90pWwHk3jrJzA0VMB8PvKFRzg7SxBoi/view?usp=drive_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
@@ -175,6 +176,7 @@ function toggleSection(id, btnId) {
 
 <div class="course-block">
   <div class="course-title">ECON 220B: Econometric Analysis of Cross-sectional Data (PhD core) — Winter 2023</div>
+  <div class="course-scores">Overall rating — 4.90/5, Positive responses — 98%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-220b-eval" onclick="toggleSection('eval-220b','btn-220b-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="https://drive.google.com/file/d/1W9ghTAdWt5m5OivkdIutZMZZaIOOASX5/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
@@ -190,6 +192,7 @@ function toggleSection(id, btnId) {
 
 <div class="course-block">
   <div class="course-title">ECON 109: Game Theory — Winter 2024, Fall 2023, Summer 2023</div>
+  <div class="course-scores">Overall rating — 4.72/5, Positive responses — 95%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-109-eval" onclick="toggleSection('eval-109','btn-109-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="https://drive.google.com/file/d/1tEylXqEdjgLQCyMhhUfXdZOTjCFfIiJi/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
@@ -206,6 +209,7 @@ function toggleSection(id, btnId) {
 
 <div class="course-block">
   <div class="course-title">ECON 100B: Microeconomics B (Producer Theory and GE) — Spring 2024, Summer 2023</div>
+  <div class="course-scores">Overall rating — 4.63/5, Positive responses — 97%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-100b-eval" onclick="toggleSection('eval-100b','btn-100b-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="https://drive.google.com/file/d/1ihdn5jUmT1lMFpDEzvxz67eGl_Zs3qtn/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
@@ -221,6 +225,7 @@ function toggleSection(id, btnId) {
 
 <div class="course-block">
   <div class="course-title">ECON 1: Principles of Microeconomics — Summer 2024, Fall 2022</div>
+  <div class="course-scores">Overall rating — 4.78/5, Positive responses — 96%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-econ1-eval" onclick="toggleSection('eval-econ1','btn-econ1-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="https://drive.google.com/file/d/1g3d4d-cI6b7BABnUUJTuZwe0vO9v7H76/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
@@ -235,6 +240,7 @@ function toggleSection(id, btnId) {
 
 <div class="course-block">
   <div class="course-title">MGT 160: Experiments in Firms — Fall 2024, Winter 2025, Spring 2025</div>
+  <div class="course-scores">Overall rating — 4.63/5, Positive responses — 95%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-mgt160-eval" onclick="toggleSection('eval-mgt160','btn-mgt160-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="https://drive.google.com/file/d/1VtZensog0ZcTLFDj1BYbfjJxzLf-28Km/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
