@@ -133,7 +133,7 @@ function toggleSection(id, btnId) {
     if (btn) btn.classList.toggle('active');
   }
 }
-document.addEventListener('DOMContentLoaded', function() {
+function openJmpIfNeeded() {
   if (window.location.hash === '#show-jmp') {
     var abs = document.getElementById('mm-abstract');
     var btn = document.getElementById('btn-mm-abs');
@@ -141,7 +141,10 @@ document.addEventListener('DOMContentLoaded', function() {
     if (btn) btn.classList.add('active');
     window.scrollTo(0, 0);
   }
-});
+}
+openJmpIfNeeded();
+window.addEventListener('load', openJmpIfNeeded);
+window.addEventListener('hashchange', openJmpIfNeeded);
 </script>
 
 <div class="page-pull-up"></div>
