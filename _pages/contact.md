@@ -7,7 +7,9 @@ author_profile: true
 ---
 
 <div class="page-pull-up"></div>
-# Send me a message
+# Contact Info
+
+Email: [abatmanov@ucsd.edu](mailto:abatmanov@ucsd.edu)
 
 Got a project idea, opportunity, or just want to chat? I'd love to hear from you.
 
