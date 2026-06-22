@@ -139,8 +139,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var btn = document.getElementById('btn-mm-abs');
     if (abs) abs.classList.add('show');
     if (btn) btn.classList.add('active');
-    var jmp = document.getElementById('jmp');
-    if (jmp) jmp.scrollIntoView({behavior: 'smooth'});
+    window.scrollTo(0, 0);
   }
 });
 </script>
