@@ -134,7 +134,7 @@ function toggleSection(id, btnId) {
   }
 }
 document.addEventListener('DOMContentLoaded', function() {
-  if (window.location.hash === '#jmp') {
+  if (window.location.hash === '#show-jmp') {
     var abs = document.getElementById('mm-abstract');
     var btn = document.getElementById('btn-mm-abs');
     if (abs) abs.classList.add('show');
