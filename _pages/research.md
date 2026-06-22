@@ -133,6 +133,16 @@ function toggleSection(id, btnId) {
     if (btn) btn.classList.toggle('active');
   }
 }
+document.addEventListener('DOMContentLoaded', function() {
+  if (window.location.hash === '#jmp') {
+    var abs = document.getElementById('mm-abstract');
+    var btn = document.getElementById('btn-mm-abs');
+    if (abs) abs.classList.add('show');
+    if (btn) btn.classList.add('active');
+    var jmp = document.getElementById('jmp');
+    if (jmp) jmp.scrollIntoView({behavior: 'smooth'});
+  }
+});
 </script>
 
 <div class="page-pull-up"></div>
@@ -141,7 +151,7 @@ function toggleSection(id, btnId) {
 
 <div class="research-section-label">Working Papers</div>
 
-<div class="paper-block">
+<div class="paper-block" id="jmp">
   <div class="paper-title">"Fragile Learning From Others" — Job Market Paper</div>
   <div class="paper-status"><em>Draft available upon request</em></div>
   <div class="paper-buttons">
