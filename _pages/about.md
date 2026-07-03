@@ -81,7 +81,6 @@ My primary fields are experimental economics and behavioral economics.<br class=
 <div style="margin-top: 0.8em; display: flex; flex-wrap: wrap; gap: 6px;">
   <a href="/files/CV_Alisher_2026_03.pdf" target="_blank" style="display:inline-flex; align-items:center; gap:5px; padding:6px 16px; border:1px solid #ccc; border-radius:4px; color:#000 !important; text-decoration:none !important; font-size:0.9em; transition:all 0.2s ease-in-out; background:transparent; font-family:inherit;" onmouseover="this.style.borderColor='#7B0000'; this.style.color='#7B0000';" onmouseout="this.style.borderColor='#ccc'; this.style.color='#000';"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Curriculum Vitae (CV)</a>
   <a href="/research/#show-jmp" style="display:inline-flex; align-items:center; gap:5px; padding:6px 16px; border:1px solid #ccc; border-radius:4px; color:#000 !important; text-decoration:none !important; font-size:0.9em; transition:all 0.2s ease-in-out; background:transparent; font-family:inherit;" onmouseover="this.style.borderColor='#7B0000'; this.style.color='#7B0000';" onmouseout="this.style.borderColor='#ccc'; this.style.color='#000';"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg> Job Market Paper</a>
-  <span id="copy-email-btn" style="display:inline-flex; align-items:center; gap:5px; padding:6px 16px; border:1px solid #ccc; border-radius:4px; color:#000; text-decoration:none; font-size:0.9em; transition:all 0.2s ease-in-out; background:transparent; font-family:inherit; cursor:pointer;" onmouseover="this.style.borderColor='#7B0000'; this.style.color='#7B0000';" onmouseout="if(!this.dataset.copied){this.style.borderColor='#ccc'; this.style.color='#000';}" onclick="navigator.clipboard.writeText('abatmanov@ucsd.edu').then(function(){var b=document.getElementById('copy-email-btn');b.dataset.copied='true';b.innerHTML='<svg width=&quot;14&quot; height=&quot;14&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;><polyline points=&quot;20 6 9 17 4 12&quot;/></svg> Copied!';b.style.borderColor='#7B0000';b.style.color='#7B0000';setTimeout(function(){b.innerHTML='<svg width=&quot;14&quot; height=&quot;14&quot; viewBox=&quot;0 0 24 24&quot; fill=&quot;none&quot; stroke=&quot;currentColor&quot; stroke-width=&quot;2&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;><rect x=&quot;2&quot; y=&quot;2&quot; width=&quot;20&quot; height=&quot;16&quot; rx=&quot;2&quot;/><polyline points=&quot;22 6 12 13 2 6&quot;/></svg> Copy email address';b.style.borderColor='#ccc';b.style.color='#000';delete b.dataset.copied;},2000);});"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="16" rx="2"/><polyline points="22 6 12 13 2 6"/></svg> Copy email address</span>
 </div>
 
 
@@ -95,7 +94,14 @@ Conference Travel
   <li>June 28 - July 7, 2026 — Russell Sage Foundation (<a href="https://laibson.scholars.harvard.edu/rsfcamp" target="_blank">RSF</a>) Summer Institute in Behavioral Economics, Boston MA</li>
   <li>June 18-19, 2026 — Caltech Workshop in Theory-Based Experiments (<a href="https://lindeinstitute.caltech.edu/research/ctess/ctess-events" target="_blank">CTESS</a>), Los Angeles CA</li>
   <li>Mar 19-21, 2026 — Southwest Economic Theory Conference (<a href="https://gregcleo.com/files/swet_2026_program.pdf" target="_blank">SWET</a>), Loyola Marymount University</li>
-  <li class="conf-year-gap">Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara</li>
+</ul>
+
+<div style="margin-top: 0.8em;">
+  <span id="btn-conf-2025" style="display:inline-flex; align-items:center; gap:5px; padding:5px 12px; border:1px solid #ccc; border-radius:4px; color:#000; text-decoration:none; font-size:0.85em; cursor:pointer; transition:all 0.2s ease-in-out; background:transparent; font-family:inherit;" onclick="var el=document.getElementById('conf-2025');var btn=this;if(el.style.display==='none'){el.style.display='block';btn.style.borderColor='#7B0000';btn.style.color='#7B0000';}else{el.style.display='none';btn.style.borderColor='#ccc';btn.style.color='#000';}">Conferences in 2025</span>
+</div>
+<div id="conf-2025" style="display:none; margin-top: 0.6em;">
+<ul class="conf-list">
+  <li>Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara</li>
   <li>Oct 24, 2025 — Los Angeles Experiments (<a href="https://www.anderson.ucla.edu/faculty-research/behavioral-decision-making/los-angeles-experiments-lax-workshop#tab-agenda/" target="_blank">LAX</a>) Workshop, UCLA Anderson (participant)</li>
   <li>Oct 10-12, 2025 — Economic Science Association (<a href="http://w3.econlab.arizona.edu/esa2025/" target="_blank">ESA</a>) North American Meeting, Tucson AZ</li>
   <li>Sep 18–19, 2025 — Advances with Field Experiments Conference (<a href="https://economics.uchicago.edu/advances-with-field-experiments-conference" target="_blank">AFE</a>), UChicago</li>
@@ -103,6 +109,7 @@ Conference Travel
   <li>July 30 – Aug 1, 2025 — American Economic Association Mentoring Conference, Chicago</li>
   <li>May 27–30, 2025 — Behavioral Economics Annual Meeting (<a href="https://blogs.cornell.edu/beam/beam2025/" target="_blank">BEAM</a>), UC Berkeley (participant)</li>
 </ul>
+</div>
 
 
 Contact Info
