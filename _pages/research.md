@@ -137,8 +137,12 @@ function openJmpIfNeeded() {
   if (window.location.hash === '#show-jmp') {
     var abs = document.getElementById('mm-abstract');
     var btn = document.getElementById('btn-mm-abs');
+    var pres = document.getElementById('mm-pres');
+    var btnPres = document.getElementById('btn-mm-pres');
     if (abs) abs.classList.add('show');
     if (btn) btn.classList.add('active');
+    if (pres) pres.classList.add('show');
+    if (btnPres) btnPres.classList.add('active');
     window.scrollTo(0, 0);
   }
 }
@@ -181,7 +185,7 @@ window.addEventListener('hashchange', openJmpIfNeeded);
 <div class="research-section-label">Published Papers</div>
 
 <div class="paper-block">
-  <div class="paper-title">"Beliefs, Information Sharing, and Mental Health Care Use Among University Students"</div>
+  <div class="paper-title">"Beliefs, Information Sharing, and Mental Health Care Use Among University Students" <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192345#" target="_blank" style="font-size: 0.85em;">[pdf]</a></div>
   <div class="paper-authors">Alisher Batmanov, <a href="https://sites.google.com/view/idagri/home?authuser=0" target="_blank">Ida Grigoryeva</a>, <a href="https://www.bruno-calderon.com" target="_blank">Bruno Calderon</a>, <a href="https://robertoglz.github.io" target="_blank">Roberto Gonz&aacute;lez</a> and <a href="https://research.tec.mx/vivo-tec/display/PID_316616" target="_blank">Alejandro Guardiola Ramires</a></div>
   <div class="paper-journal">Journal of Development Economics (2026)</div>
   <div class="paper-buttons">
@@ -201,8 +205,25 @@ window.addEventListener('hashchange', openJmpIfNeeded);
   </div>
   <div class="paper-resources" id="mh-resources">
     <a class="paper-btn" href="https://www.sciencedirect.com/science/article/pii/S030438782500197X" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Journal article</a>
-    <a class="paper-btn" href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192345#" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> SSRN article</a>
     <a class="paper-btn" href="https://x.com/Alisher_BV/status/2048283104641732832?s=20" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Thread on X</a>
+  </div>
+</div>
+
+
+<div class="paper-block">
+  <div class="paper-title">"Reproducibility and Robustness of Economics and Political Science Research" <a href="https://www.econstor.eu/bitstream/10419/338965/1/I4R-DP287.pdf" target="_blank" style="font-size: 0.85em;">[pdf]</a></div>
+  <div class="paper-authors">Meta paper with <a href="https://sites.google.com/site/abelbrodeur/" target="_blank">Abel Brodeur</a>, et al.</div>
+  <div class="paper-journal">Nature (2026)</div>
+  <div class="paper-buttons">
+    <span class="paper-btn" id="btn-nat-abs" onclick="toggleSection('nat-abstract','btn-nat-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
+    <span class="paper-btn" id="btn-nat-res" onclick="toggleSection('nat-resources','btn-nat-res')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg> Resources</span>
+  </div>
+  <div class="paper-abstract" id="nat-abstract">
+    Science aspires to be cumulative. Reproducibility efforts strengthen science by testing the reliability of published findings, promoting self-correction, and informing policy-making. Computational reproductions, whereby independent researchers reproduce the results of published studies, are an essential diagnostic tool. Such efforts should have greater visibility. However, little social science reproduction and robustness has been conducted at scale. Here we reproduced original analyses and conducted robustness checks of 110 articles that were published in leading economics and political science journals with mandatory data and code sharing policies. We found that more than 85% of published claims were computationally reproducible. In robustness checks, our reanalyses showed that 72% of statistically significant estimates remain significant and in the same direction, and the median reproduced effect size is nearly the same as the originally published effect size (that is, 99% of the published effect size). Additionally, 6 independent research teams examined 12 pre-specified hypotheses about determinants of robustness. Research teams with more experience found lower levels of robustness, and robustness did not correlate with author characteristics or data availability.
+  </div>
+  <div class="paper-resources" id="nat-resources">
+    <a class="paper-btn" href="https://www.nature.com/articles/s41586-026-10251-x" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Journal article</a>
+    <a class="paper-btn" href="https://www.econstor.eu/handle/10419/276253" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Replication paper</a>
   </div>
 </div>
 
@@ -241,6 +262,7 @@ window.addEventListener('hashchange', openJmpIfNeeded);
   </div>
   <div class="paper-presentations" id="narr-pres">
     <ul>
+      <li>Economic Science Association (ESA) World Meeting (Los Angeles 2026)*</li>
       <li>Behavioral &amp; Experimental Economics Student Conference (UC Santa Barbara 2025)*</li>
     </ul>
   </div>
@@ -251,24 +273,5 @@ window.addEventListener('hashchange', openJmpIfNeeded);
   <div class="paper-status"><em>Designing experiment</em></div>
 </div>
 
-
-<div class="research-section-label">Other Published Papers</div>
-
-<div class="paper-block">
-  <div class="paper-title">"Reproducibility and robustness of economics and political science research"</div>
-  <div class="paper-authors">Meta paper with <a href="https://sites.google.com/site/abelbrodeur/" target="_blank">Abel Brodeur</a>, et al.</div>
-  <div class="paper-journal">Nature (2026)</div>
-  <div class="paper-buttons">
-    <span class="paper-btn" id="btn-nat-abs" onclick="toggleSection('nat-abstract','btn-nat-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
-    <span class="paper-btn" id="btn-nat-res" onclick="toggleSection('nat-resources','btn-nat-res')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"/></svg> Resources</span>
-  </div>
-  <div class="paper-abstract" id="nat-abstract">
-    Science aspires to be cumulative. Reproducibility efforts strengthen science by testing the reliability of published findings, promoting self-correction, and informing policy-making. Computational reproductions, whereby independent researchers reproduce the results of published studies, are an essential diagnostic tool. Such efforts should have greater visibility. However, little social science reproduction and robustness has been conducted at scale. Here we reproduced original analyses and conducted robustness checks of 110 articles that were published in leading economics and political science journals with mandatory data and code sharing policies. We found that more than 85% of published claims were computationally reproducible. In robustness checks, our reanalyses showed that 72% of statistically significant estimates remain significant and in the same direction, and the median reproduced effect size is nearly the same as the originally published effect size (that is, 99% of the published effect size). Additionally, 6 independent research teams examined 12 pre-specified hypotheses about determinants of robustness. Research teams with more experience found lower levels of robustness, and robustness did not correlate with author characteristics or data availability.
-  </div>
-  <div class="paper-resources" id="nat-resources">
-    <a class="paper-btn" href="https://www.nature.com/articles/s41586-026-10251-x" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Journal article</a>
-    <a class="paper-btn" href="https://www.econstor.eu/handle/10419/276253" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Replication paper</a>
-  </div>
-</div>
 
 <div style="margin-top: 2em; font-size: 0.9em; color: #888;">* – presentation by co-author</div>

@@ -104,7 +104,7 @@ function toggleSection(id, btnId) {
 <div class="teaching-section-label">Course Instructor</div>
 
 <div class="course-block">
-  <div class="course-title">ECON 120B: Econometrics B (Linear Regression and Causal Inference) — Fall 2025</div>
+  <div class="course-title" style="color: #7B0000;">ECON 120B: Econometrics B (Linear Regression and Causal Inference) — Fall 2025</div>
   <div class="course-scores">Student learning — 4.54/5, Course structure — 4.51/5, Class environment — 4.76/5</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-120bf25-eval" onclick="toggleSection('eval-120b-f25','btn-120bf25-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
@@ -121,7 +121,7 @@ function toggleSection(id, btnId) {
 </div>
 
 <div class="course-block">
-  <div class="course-title">ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory, GE) — Summer 2025</div>
+  <div class="course-title" style="color: #7B0000;">ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory, GE) — Summer 2025</div>
   <div class="course-scores">Student learning — 4.6/5, Course structure — 4.6/5, Class environment — 4.65/5</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-100a-eval" onclick="toggleSection('eval-100a','btn-100a-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
@@ -138,7 +138,7 @@ function toggleSection(id, btnId) {
 </div>
 
 <div class="course-block">
-  <div class="course-title">ECON 120B: Econometrics B (Linear Regression and Causal Inference) — Summer 2024</div>
+  <div class="course-title" style="color: #7B0000;">ECON 120B: Econometrics B (Linear Regression and Causal Inference) — Summer 2024</div>
   <div class="course-scores">Student learning — 4.24/5, Course structure — 4.36/5, Class environment — 4.64/5</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-120bs24-eval" onclick="toggleSection('eval-120b-s24','btn-120bs24-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
