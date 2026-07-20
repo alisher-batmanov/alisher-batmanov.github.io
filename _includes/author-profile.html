@@ -17,7 +17,7 @@
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
     {% if author.bio %}<p class="author__bio" style="margin-bottom: 0;">{{ author.bio }}{% if author.bio2 %}<br>{{ author.bio2 }}{% endif %}</p>{% endif %}
-    {% if author.email %}<p class="author__bio" style="margin-top: 1em; margin-bottom: 0;">Email: <a href="mailto:{{ author.email }}">{{ author.email }}</a></p>{% endif %}
+    {% comment %}Email moved to main page button row{% endcomment %}
   </div>
 
   <div class="author__urls-wrapper">
