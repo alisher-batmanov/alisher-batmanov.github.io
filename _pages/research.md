@@ -271,6 +271,12 @@ window.addEventListener('hashchange', openJmpIfNeeded);
 <div class="paper-block">
   <div class="paper-title">"Descriptive Simplicity in Strategyproof Matching Mechanisms"</div>
   <div class="paper-status"><em>Designing experiment</em></div>
+  <div class="paper-buttons">
+    <span class="paper-btn" id="btn-ds-abs" onclick="toggleSection('ds-abstract','btn-ds-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
+  </div>
+  <div class="paper-abstract" id="ds-abstract">
+    Although strategyproof matching mechanisms such as deferred acceptance (DA) and serial dictatorship (SD) guarantee that straightforward reporting is a dominant strategy, empirical evidence consistently documents widespread deviations from truthful behavior. This raises a fundamental question: are such deviations driven by strategic incentives, or by misunderstanding of the mechanism's informational structure? In this project, I examine whether alternative descriptions of strategyproof mechanisms can reduce cognitive burden and improve straightforward reporting. Rather than altering the underlying mechanism, I focus on how it is explained to participants. Specifically, I study interventions that highlight counterfactual outcomes under alternative rank-order lists, allowing participants to observe for themselves that strategizing cannot improve their payoff. By making the logic of strategyproofness transparent through concrete examples, the intervention aims to improve participants' understanding of dominant-strategy incentives and increase truthful reporting.
+  </div>
 </div>
 
 
