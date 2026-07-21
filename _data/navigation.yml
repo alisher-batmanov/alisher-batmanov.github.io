@@ -7,6 +7,9 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Undergrad Lab"
+    url: /lab/
+
   - title: "Contact"
     url: /contact/
 
