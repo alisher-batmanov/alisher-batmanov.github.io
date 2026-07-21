@@ -12,17 +12,15 @@ author_profile: true
 
 <div style="margin-top: 1.2em; margin-bottom: 1.4em; line-height: 1.7;">
 
-Since Spring 2024, I have supervised an <a href="https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/index.html" target="_blank">Undergraduate&ndash;Graduate Economic Research Lab</a> at UC San Diego. Each quarter, I select a group of undergraduate students from a competitive applicant pool to work with me on my research projects in experimental and behavioral economics. In return, students receive hands-on training in research methods, coding, data analysis, and academic writing.
+Since Spring 2024, I have been one of the graduate supervisors of the <a href="https://economics.ucsd.edu/undergraduate-program/resources/undergraduate-graduate-research-lab/index.html" target="_blank">Undergraduate&ndash;Graduate Economic Research Lab</a> at UC San Diego. Each quarter, I select a group of undergraduate students majoring in economics, math, computer science, or data science from a competitive applicant pool to work with me on my research projects in experimental and behavioral economics. In return, students receive hands-on training in research methods, coding, data analysis, and generation of research ideas.
 
 </div>
 
 <div style="margin-bottom: 1.4em; line-height: 1.7;">
 
-The lab meets weekly and operates in small teams organized by skill track &mdash; Python, Stata, theory, and paper drafting. Students contribute to ongoing research by running experiments, cleaning and analyzing data, conducting literature reviews, and drafting sections of working papers. Many students stay for multiple quarters, building deep expertise over time.
+The lab meets weekly and operates in small teams organized by skill track (usually Python or Stata). Students contribute to ongoing research by helping with coding experimental interfaces, running study sessions, cleaning and analyzing data, and conducting literature reviews. Many students stay for multiple quarters or even years, building deeper expertise over time.
 
 </div>
-
-## By the Numbers
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin: 1.2em 0 1.8em 0;">
   <div style="flex: 1; min-width: 140px; padding: 16px 20px; box-shadow: inset 0 0 0 1px #ddd; border-radius: 6px; text-align: center;">
@@ -30,8 +28,8 @@ The lab meets weekly and operates in small teams organized by skill track &mdash
     <div style="font-size: 0.85em; color: #555; margin-top: 2px;">students mentored</div>
   </div>
   <div style="flex: 1; min-width: 140px; padding: 16px 20px; box-shadow: inset 0 0 0 1px #ddd; border-radius: 6px; text-align: center;">
-    <div style="font-size: 1.8em; font-weight: bold; color: #7B0000;">9</div>
-    <div style="font-size: 0.85em; color: #555; margin-top: 2px;">quarters running</div>
+    <div style="font-size: 1.8em; font-weight: bold; color: #7B0000;">2.5</div>
+    <div style="font-size: 0.85em; color: #555; margin-top: 2px;">years running</div>
   </div>
   <div style="flex: 1; min-width: 140px; padding: 16px 20px; box-shadow: inset 0 0 0 1px #ddd; border-radius: 6px; text-align: center;">
     <div style="font-size: 1.8em; font-weight: bold; color: #7B0000;">15+</div>
@@ -39,7 +37,7 @@ The lab meets weekly and operates in small teams organized by skill track &mdash
   </div>
   <div style="flex: 1; min-width: 140px; padding: 16px 20px; box-shadow: inset 0 0 0 1px #ddd; border-radius: 6px; text-align: center;">
     <div style="font-size: 1.8em; font-weight: bold; color: #7B0000;">10</div>
-    <div style="font-size: 0.85em; color: #555; margin-top: 2px;">currently active</div>
+    <div style="font-size: 0.85em; color: #555; margin-top: 2px;">current students</div>
   </div>
 </div>
 
@@ -56,9 +54,6 @@ A core part of the lab experience is professional development. I work closely wi
 Lab alumni have been admitted to competitive programs including Columbia University (MS in Business Analytics, MS in Financial Economics), University of Southern California, Southern Methodist University, UC Irvine (MSBA), international data science research programs, and actuarial science programs, among others.
 
 </div>
-
-
-## Photos
 
 <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 1em;">
   <div style="flex: 1; min-width: 280px;">
