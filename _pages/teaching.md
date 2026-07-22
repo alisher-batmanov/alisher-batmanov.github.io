@@ -263,14 +263,19 @@ I have been teaching at UC San Diego for four years, serving as both a course in
   </div>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 2.5em;">
-  <div style="flex: 1; min-width: 200px;">
-    <img src="/images/teaching-classroom-1.jpg" alt="Students in a classroom during lecture" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
-  </div>
-  <div style="flex: 1; min-width: 200px;">
+<div style="margin-top: 2.5em;">
+  <div style="margin-bottom: 12px;">
     <img src="/images/teaching-exam-hall.jpg" alt="Students during an exam in a large lecture hall" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
   </div>
-  <div style="flex: 1; min-width: 200px;">
-    <img src="/images/teaching-exam-2.jpg" alt="Students taking an exam" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+  <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+    <div style="flex: 1; min-width: 200px;">
+      <img src="/images/teaching-classroom-1.jpg" alt="Students in a classroom during lecture" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+    </div>
+    <div style="flex: 1; min-width: 200px;">
+      <img src="/images/teaching-classroom-2.jpg" alt="Students working during class" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+    </div>
+    <div style="flex: 1; min-width: 200px;">
+      <img src="/images/teaching-exam-2.jpg" alt="Students taking an exam in Malk Hall" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+    </div>
   </div>
 </div>
