@@ -155,6 +155,10 @@ function toggleSection(id, btnId) {
 </div>
 
 
+<div style="margin: 2em 0 2.5em 0;">
+  <img src="/images/teaching-lecture.jpg" alt="Lecture in progress" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+</div>
+
 <div class="teaching-section-label">Teaching Assistant</div>
 
 <div class="course-block">
@@ -250,5 +254,25 @@ function toggleSection(id, btnId) {
       <li>"Really helpful and answers to questions very quickly with full professionalism; Gave very detailed and constructive feedback, always provided reminders and tips in discord that were very helpful!; TA encouraged me to feel that I could succeed in the course, Was incredibly encouraging!!; The best TA I've ever had! Incredibly patient and understanding, wish all my TA's were like him; had a great experience with Alisher and definitely recommend him to other students as well!"</li>
       <li><em>Instructor evaluation:</em> "If there is the possibility for Alisher to win an Instructional Assistant award, I highly recommend him for it. I have had many teaching assistants at numerous institutions, and he is among the best I have worked with. Alisher went above and beyond as an instructional assistant. Though not required, he set up his own Discord channel for students to be able to reach out to him any time. I was a member of the channel, so I would see students' activity. Alisher always responded promptly and professionally, helping the students out with whatever they needed. This proactive step that he took to make excellent lines of communication between him and the students really made the course much better than it would have otherwise been. Alisher also helped me out so much by showing me the ropes, since he had been an instructional assistant on this course before, but this was my first time teaching it. He had great ideas on how to solve some tough logistical problems with the course. He was a great assistant who listened to what I wanted, but also wasn't afraid to offer his opinion when he thought something could be improved, which I truly appreciated. Without him, the course would have been not only significantly bumpier, but simply not as high quality as it was. I wish he could be my instructional assistant forever!"</li>
     </ul>
+  </div>
+</div>
+
+<div style="margin-top: 2.5em;">
+  <div style="margin-bottom: 12px;">
+    <img src="/images/teaching-exam-hall.jpg" alt="Students during an exam in a large lecture hall" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+  </div>
+  <div style="display: flex; flex-wrap: wrap; gap: 12px;">
+    <div style="flex: 1; min-width: 140px;">
+      <img src="/images/teaching-classroom-1.jpg" alt="Students in a classroom during lecture" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+    </div>
+    <div style="flex: 1; min-width: 140px;">
+      <img src="/images/teaching-exam-1.jpg" alt="Students taking an exam" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+    </div>
+    <div style="flex: 1; min-width: 140px;">
+      <img src="/images/teaching-exam-2.jpg" alt="Students taking an exam in Malk Hall" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+    </div>
+    <div style="flex: 1; min-width: 140px;">
+      <img src="/images/teaching-classroom-2.jpg" alt="Students working during class" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+    </div>
   </div>
 </div>
