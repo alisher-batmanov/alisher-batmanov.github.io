@@ -101,6 +101,12 @@ function toggleSection(id, btnId) {
 <div class="page-pull-up"></div>
 # Teaching at UC San Diego
 
+<div style="margin-bottom: 2em; line-height: 1.7;">
+
+I have been teaching at UC San Diego for four years, serving as both a course instructor and a teaching assistant across the Economics Department and the Rady School of Management. As an instructor, I have independently taught Intermediate Microeconomics and Econometrics; as a TA, I have covered a wide range of courses including PhD-level econometrics, game theory, principles of microeconomics, and an experimental economics course for business majors. Across all of these roles, I have consistently received among the highest student evaluation scores in the department. In every course, I complement traditional office hours and recitations with a dedicated Discord server, giving students a platform to ask questions and collaborate in a space that fits naturally into how they already communicate.
+
+</div>
+
 <div class="teaching-section-label">Course Instructor</div>
 
 <div class="course-block">
@@ -257,22 +263,14 @@ function toggleSection(id, btnId) {
   </div>
 </div>
 
-<div style="margin-top: 2.5em;">
-  <div style="margin-bottom: 12px;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 2.5em;">
+  <div style="flex: 1; min-width: 200px;">
+    <img src="/images/teaching-classroom-1.jpg" alt="Students in a classroom during lecture" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
+  </div>
+  <div style="flex: 1; min-width: 200px;">
     <img src="/images/teaching-exam-hall.jpg" alt="Students during an exam in a large lecture hall" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
   </div>
-  <div style="display: flex; flex-wrap: wrap; gap: 12px;">
-    <div style="flex: 1; min-width: 140px;">
-      <img src="/images/teaching-classroom-1.jpg" alt="Students in a classroom during lecture" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
-    </div>
-    <div style="flex: 1; min-width: 140px;">
-      <img src="/images/teaching-exam-1.jpg" alt="Students taking an exam" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
-    </div>
-    <div style="flex: 1; min-width: 140px;">
-      <img src="/images/teaching-exam-2.jpg" alt="Students taking an exam in Malk Hall" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
-    </div>
-    <div style="flex: 1; min-width: 140px;">
-      <img src="/images/teaching-classroom-2.jpg" alt="Students working during class" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
-    </div>
+  <div style="flex: 1; min-width: 200px;">
+    <img src="/images/teaching-exam-2.jpg" alt="Students taking an exam" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 8px rgba(0,0,0,0.12);">
   </div>
 </div>
