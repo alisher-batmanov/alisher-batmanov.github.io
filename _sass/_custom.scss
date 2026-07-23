@@ -158,6 +158,15 @@ h1.page__title {
   br.desktop-only {
     display: none;
   }
+  /* Stack buttons vertically on mobile */
+  .btn-row-stack-mobile {
+    flex-direction: column !important;
+  }
+  .btn-row-stack-mobile > span,
+  .btn-row-stack-mobile > a {
+    width: 100% !important;
+    justify-content: center !important;
+  }
 }
 
 /* --- Wider sidebar + bigger profile picture via flexbox override --- */
@@ -172,8 +181,8 @@ h1.page__title {
   }
   #main > .sidebar {
     float: none !important;
-    width: 250px !important;
-    min-width: 250px !important;
+    width: 310px !important;
+    min-width: 310px !important;
     flex-shrink: 0 !important;
     margin-right: 0 !important;
   }
@@ -209,8 +218,8 @@ h1.page__title {
   .masthead__inner-wrap::before {
     content: '' !important;
     display: block !important;
-    width: 250px !important;
-    min-width: 250px !important;
+    width: 310px !important;
+    min-width: 310px !important;
     flex-shrink: 0 !important;
   }
   .masthead__menu {
@@ -223,7 +232,7 @@ h1.page__title {
 /* --- Rectangular profile picture instead of circular --- */
 .author__avatar img {
   border-radius: 8px !important;
-  max-width: 330px !important;
+  max-width: 412px !important;
   width: 100% !important;
   height: auto !important;
 }
@@ -231,12 +240,12 @@ h1.page__title {
 /* --- Bigger profile picture on mobile with gap below --- */
 @media (max-width: 63.999em) {
   .author__avatar {
-    max-width: 150px !important;
-    width: 150px !important;
+    max-width: 188px !important;
+    width: 188px !important;
     margin: 0 auto 0.8em auto !important;
   }
   .author__avatar img {
-    max-width: 150px !important;
+    max-width: 188px !important;
   }
 }
 

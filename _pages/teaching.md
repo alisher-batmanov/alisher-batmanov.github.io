@@ -110,7 +110,7 @@ I have been teaching at UC San Diego for four years, serving as both a course in
 <div class="teaching-section-label">Course Instructor</div>
 
 <div class="course-block">
-  <div class="course-title" style="color: #7B0000;">ECON 120B: Econometrics B (Linear Regression and Causal Inference) — Fall 2025</div>
+  <div class="course-title" style="color: #7B0000;">ECON 120B: Intermediate Econometrics (Linear Regression and Causal Inference) — Fall 2025</div>
   <div class="course-scores">Student learning — 4.54/5, Course structure — 4.51/5, Class environment — 4.76/5</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-120bf25-eval" onclick="toggleSection('eval-120b-f25','btn-120bf25-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
@@ -144,7 +144,7 @@ I have been teaching at UC San Diego for four years, serving as both a course in
 </div>
 
 <div class="course-block">
-  <div class="course-title" style="color: #7B0000;">ECON 120B: Econometrics B (Linear Regression and Causal Inference) — Summer 2024</div>
+  <div class="course-title" style="color: #7B0000;">ECON 120B: Intermediate Econometrics (Linear Regression and Causal Inference) — Summer 2024</div>
   <div class="course-scores">Student learning — 4.24/5, Course structure — 4.36/5, Class environment — 4.64/5</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-120bs24-eval" onclick="toggleSection('eval-120b-s24','btn-120bs24-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
@@ -201,7 +201,7 @@ I have been teaching at UC San Diego for four years, serving as both a course in
 </div>
 
 <div class="course-block">
-  <div class="course-title">ECON 109: Game Theory — Winter 2024, Fall 2023, Summer 2023</div>
+  <div class="course-title">ECON 109: Game Theory — Summer 2026, Winter 2024, Fall 2023, Summer 2023</div>
   <div class="course-scores">Overall rating — 4.72/5, Positive responses — 95%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-109-eval" onclick="toggleSection('eval-109','btn-109-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
@@ -218,7 +218,7 @@ I have been teaching at UC San Diego for four years, serving as both a course in
 </div>
 
 <div class="course-block">
-  <div class="course-title">ECON 100B: Microeconomics B (Producer Theory and GE) — Spring 2024, Summer 2023</div>
+  <div class="course-title">ECON 100B: Intermediate Microeconomics (Producer Theory, General Equilibrium) — Spring 2024, Summer 2023</div>
   <div class="course-scores">Overall rating — 4.63/5, Positive responses — 97%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-100b-eval" onclick="toggleSection('eval-100b','btn-100b-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
@@ -249,7 +249,7 @@ I have been teaching at UC San Diego for four years, serving as both a course in
 </div>
 
 <div class="course-block">
-  <div class="course-title">MGT 160: Experiments in Firms — Fall 2024, Winter 2025, Spring 2025</div>
+  <div class="course-title">MGT 160: Experiments in Firms (Designing and Running Experiments) — Fall 2024, Winter 2025, Spring 2025</div>
   <div class="course-scores">Overall rating — 4.63/5, Positive responses — 95%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-mgt160-eval" onclick="toggleSection('eval-mgt160','btn-mgt160-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>

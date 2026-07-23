@@ -7,9 +7,7 @@ author_profile: true
 ---
 
 <div class="page-pull-up"></div>
-# Contact me
-
-Email: <a href="mailto:abatmanov@ucsd.edu">abatmanov@ucsd.edu</a>
+# Contact me: <a href="mailto:abatmanov@ucsd.edu">abatmanov@ucsd.edu</a>
 
 The easiest way to reach me is by email. You can also use the form below and I'll get back to you shortly.
 

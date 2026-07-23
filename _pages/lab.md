@@ -51,7 +51,7 @@ A core part of the lab experience is professional development. I work closely wi
 
 <div style="margin-bottom: 1.4em; line-height: 1.7;">
 
-Lab alumni have been admitted to competitive programs including Columbia University (MS in Business Analytics, MS in Financial Economics), University of Southern California, Southern Methodist University, UC Irvine (MSBA), international data science research programs, and actuarial science programs, among others.
+Students I have written recommendation letters for have been admitted to competitive programs including Columbia University (MS in Business Analytics, MS in Financial Economics), University of Southern California, Southern Methodist University, UC Irvine (MS in Business Analytics), international data science research programs, actuarial science programs, and UC San Diego Design Lab (research internship), among others.
 
 </div>
 
