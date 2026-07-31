@@ -8,7 +8,7 @@
 
 $doc-font-size              : 16;
 
-@import url('https://fonts.googleapis.com/css2?family=Lora:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -30,9 +30,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family: 'Lora', serif;
-$header-font-family: 'Lora', serif;
-$caption-font-family: 'Lora', serif;
+$global-font-family: 'Lato', sans-serif;
+$header-font-family: 'Lato', sans-serif;
+$caption-font-family: 'Lato', sans-serif;
 
 // $global-font-family         : $sans-serif;
 // $header-font-family         : $sans-serif;
