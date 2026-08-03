@@ -161,6 +161,15 @@ My research is primarily in experimental and behavioral economics, with a focus 
 
 </div>
 
+<div onclick="window.open('/files/Alisher_Research_Statement.pdf','_blank');" onmouseover="this.style.boxShadow='inset 0 0 0 1px #7B0000';" onmouseout="this.style.boxShadow='inset 0 0 0 1px #ccc';" style="display: flex; align-items: center; gap: 16px; padding: 14px 20px; box-shadow: inset 0 0 0 1px #ccc; border-radius: 6px; cursor: pointer; margin-bottom: 2.5em; transition: all 0.2s ease-in-out;">
+  <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#7B0000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0;"><path d="M3 3v18h18"/><line x1="7" y1="17" x2="20" y2="6"/><circle cx="8" cy="13" r="1.4" fill="#7B0000" stroke="none"/><circle cx="11" cy="14.5" r="1.4" fill="#7B0000" stroke="none"/><circle cx="13" cy="9" r="1.4" fill="#7B0000" stroke="none"/><circle cx="16.5" cy="10.5" r="1.4" fill="#7B0000" stroke="none"/><circle cx="18.5" cy="5.5" r="1.4" fill="#7B0000" stroke="none"/></svg>
+  <div style="flex: 1;">
+    <div style="font-weight: 700; color: #7B0000;">Research Statement</div>
+    <div style="font-size: 0.88em; color: #555; margin-top: 2px;">Research agenda, job market paper, working papers, and ongoing projects.</div>
+  </div>
+  <div style="font-weight: 700; color: #7B0000; white-space: nowrap; font-size: 0.95em;">View PDF &rarr;</div>
+</div>
+
 <div class="research-section-label">Job Market Paper</div>
 
 <div class="paper-block" id="jmp">
