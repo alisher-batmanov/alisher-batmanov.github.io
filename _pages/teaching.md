@@ -124,7 +124,7 @@ I have been teaching at UC San Diego for four years across the Economics Departm
   <div class="course-buttons">
     <span class="course-btn" id="btn-120bf25-eval" onclick="toggleSection('eval-120b-f25','btn-120bf25-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="/files/120B_Batmanov_FA25_Syllabus.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Course syllabus</a>
-    <a class="course-btn" href="https://drive.google.com/file/d/13mf7NVAd9TFh4iAV1TMm2HcQEwWdf3e6/view?usp=sharing" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
+    <a class="course-btn" href="/files/evals/Alisher_Evals_120B_FA25.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
   </div>
   <div class="course-evals" id="eval-120b-f25">
     <ul>
@@ -141,7 +141,7 @@ I have been teaching at UC San Diego for four years across the Economics Departm
   <div class="course-buttons">
     <span class="course-btn" id="btn-100a-eval" onclick="toggleSection('eval-100a','btn-100a-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="/files/100A_Syllabus_Batmanov_SU25.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Course syllabus</a>
-    <a class="course-btn" href="https://drive.google.com/file/d/1oFjdegZzbaSsEkM8VB-jWmBpedt1PqjQ/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
+    <a class="course-btn" href="/files/evals/Alisher_Evals_100A_SU25.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
   </div>
   <div class="course-evals" id="eval-100a">
     <ul>
@@ -158,7 +158,7 @@ I have been teaching at UC San Diego for four years across the Economics Departm
   <div class="course-buttons">
     <span class="course-btn" id="btn-120bs24-eval" onclick="toggleSection('eval-120b-s24','btn-120bs24-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="/files/Econ120B_Batmanov_SU24_Syllabus.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Course syllabus</a>
-    <a class="course-btn" href="https://drive.google.com/file/d/1jTTdraeTxzaEmDzAUwtd2Wk6ZQ-fMIl0/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
+    <a class="course-btn" href="/files/evals/Alisher_Evals_120B_SU24.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
   </div>
   <div class="course-evals" id="eval-120b-s24">
     <ul>
@@ -181,7 +181,7 @@ I have been teaching at UC San Diego for four years across the Economics Departm
   <div class="course-scores">Overall rating — 4.79/5, Positive responses — 98%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-100a-ta-eval" onclick="toggleSection('eval-100a-ta','btn-100a-ta-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
-    <a class="course-btn" href="https://drive.google.com/file/d/1e90pWwHk3jrJzA0VMB8PvKFRzg7SxBoi/view?usp=drive_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
+    <a class="course-btn" href="/files/evals/Alisher_Evals_100A_TA_SP26.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
   </div>
   <div class="course-evals" id="eval-100a-ta">
     <ul>
@@ -198,7 +198,7 @@ I have been teaching at UC San Diego for four years across the Economics Departm
   <div class="course-scores">Overall rating — 4.90/5, Positive responses — 98%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-220b-eval" onclick="toggleSection('eval-220b','btn-220b-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
-    <a class="course-btn" href="https://drive.google.com/file/d/1W9ghTAdWt5m5OivkdIutZMZZaIOOASX5/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
+    <a class="course-btn" href="/files/evals/Alisher_Evals_220B_WI23.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
   </div>
   <div class="course-evals" id="eval-220b">
     <ul>
@@ -214,7 +214,7 @@ I have been teaching at UC San Diego for four years across the Economics Departm
   <div class="course-scores">Overall rating — 4.72/5, Positive responses — 95%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-109-eval" onclick="toggleSection('eval-109','btn-109-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
-    <a class="course-btn" href="https://drive.google.com/file/d/1tEylXqEdjgLQCyMhhUfXdZOTjCFfIiJi/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
+    <a class="course-btn" href="/files/evals/Alisher_Evals_109.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
   </div>
   <div class="course-evals" id="eval-109">
     <ul>
@@ -231,7 +231,7 @@ I have been teaching at UC San Diego for four years across the Economics Departm
   <div class="course-scores">Overall rating — 4.63/5, Positive responses — 97%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-100b-eval" onclick="toggleSection('eval-100b','btn-100b-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
-    <a class="course-btn" href="https://drive.google.com/file/d/1ihdn5jUmT1lMFpDEzvxz67eGl_Zs3qtn/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
+    <a class="course-btn" href="/files/evals/Alisher_Evals_100B.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
   </div>
   <div class="course-evals" id="eval-100b">
     <ul>
@@ -247,7 +247,7 @@ I have been teaching at UC San Diego for four years across the Economics Departm
   <div class="course-scores">Overall rating — 4.78/5, Positive responses — 96%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-econ1-eval" onclick="toggleSection('eval-econ1','btn-econ1-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
-    <a class="course-btn" href="https://drive.google.com/file/d/1g3d4d-cI6b7BABnUUJTuZwe0vO9v7H76/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
+    <a class="course-btn" href="/files/evals/Alisher_Evals_ECON1.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
   </div>
   <div class="course-evals" id="eval-econ1">
     <ul>
@@ -262,7 +262,7 @@ I have been teaching at UC San Diego for four years across the Economics Departm
   <div class="course-scores">Overall rating — 4.63/5, Positive responses — 95%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-mgt160-eval" onclick="toggleSection('eval-mgt160','btn-mgt160-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
-    <a class="course-btn" href="https://drive.google.com/file/d/1VtZensog0ZcTLFDj1BYbfjJxzLf-28Km/view?usp=share_link" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
+    <a class="course-btn" href="/files/evals/Alisher_Evals_MGT160.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
   </div>
   <div class="course-evals" id="eval-mgt160">
     <ul>

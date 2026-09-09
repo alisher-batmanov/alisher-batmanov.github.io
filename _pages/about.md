@@ -35,34 +35,16 @@ redirect_from:
 
 <script>
 (function() {
-  const phrases = ["Welcome to my website!", "Thanks for visiting!", "Take a look around!"];
+  const phrase = "Welcome to my website!";
   const typedEl = document.getElementById("typed-text");
   const typeSpeed = 90;
-  const deleteSpeed = 50;
-  const pauseAfterType = 1800;
-  const pauseAfterDelete = 400;
-  let phraseIndex = 0;
   let charIndex = 0;
 
   function typeChar() {
-    const current = phrases[phraseIndex];
-    if (charIndex < current.length) {
-      typedEl.textContent += current.charAt(charIndex);
+    if (charIndex < phrase.length) {
+      typedEl.textContent += phrase.charAt(charIndex);
       charIndex++;
       setTimeout(typeChar, typeSpeed);
-    } else {
-      setTimeout(deleteChar, pauseAfterType);
-    }
-  }
-
-  function deleteChar() {
-    if (charIndex > 0) {
-      typedEl.textContent = phrases[phraseIndex].substring(0, charIndex - 1);
-      charIndex--;
-      setTimeout(deleteChar, deleteSpeed);
-    } else {
-      phraseIndex = (phraseIndex + 1) % phrases.length;
-      setTimeout(typeChar, pauseAfterDelete);
     }
   }
 
@@ -72,13 +54,13 @@ redirect_from:
 
 <div style="margin-bottom: 1.2em; line-height: 1.7;">
 
-I am a fifth-year Ph.D. candidate in Economics at the University of California San Diego.<br class="desktop-only"> I also serve as the manager of the <a href="https://econlab.ucsd.edu/" target="_blank">UC San Diego Economics Laboratory (EconLab)</a>.
+I am a sixth-year Ph.D. candidate in Economics at the University of California San Diego.<br class="desktop-only"> I also serve as the manager of the <a href="https://econlab.ucsd.edu/" target="_blank">UC San Diego Economics Laboratory (EconLab)</a>.
 <!-- Prior to UC San Diego, I earned an M.A. in Economics from Central European University. -->
 
 </div>
 
 <div style="margin-bottom: 1.2em; line-height: 1.7;">
-<strong style="color: #7B0000;">I am on the Economics Job Market 2026-2027.</strong>
+<strong style="color: #7B0000;">I am on the 2026-2027 Academic Job Market.</strong>
 </div>
 
 <div class="btn-row-stack-mobile" style="margin-top: 0.8em; margin-bottom: 1em; display: flex; flex-wrap: wrap; gap: 8px;">
@@ -104,6 +86,7 @@ In my research, I use laboratory experiments to study systematic biases in decis
 Conference Travel
 ------
 <ul class="conf-list">
+  <li>Oct 29 - Nov 1, 2026 — <a href="https://sites.google.com/view/northamerican-esa-uva-2026" target="_blank">Economic Science Association (ESA) North American Meeting, Charlottesville VA</a></li>
   <li>Aug 6-7, 2026 — <a href="https://economics.stanford.edu/events/site-2026/session-6-experimental-economics" target="_blank">Stanford Institute for Theoretical Economics (SITE) Experimental Economics Conference, Stanford CA</a></li>
   <li>July 14-17, 2026 — <a href="https://sites.google.com/view/esa2026la/home?authuser=0" target="_blank">Economic Science Association (ESA) World Meeting, Los Angeles CA</a></li>
   <li>June 28 - July 7, 2026 — <a href="https://laibson.scholars.harvard.edu/rsfcamp" target="_blank">Russell Sage Foundation (RSF) Summer Institute in Behavioral Economics, Boston MA</a></li>
