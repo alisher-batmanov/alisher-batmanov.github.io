@@ -14,22 +14,8 @@ redirect_from:
 <h1 id="typing-heading"><span id="typed-text"></span></h1>
 
 <style>
-@keyframes blink {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0; }
-}
 #typing-heading {
   min-height: 1.2em;
-}
-#typed-text::after {
-  content: '';
-  display: inline-block;
-  width: 2px;
-  height: 0.85em;
-  background: #000;
-  margin-left: 2px;
-  vertical-align: text-bottom;
-  animation: blink 0.7s steps(1) infinite;
 }
 </style>
 
@@ -54,7 +40,7 @@ redirect_from:
 
 <div style="margin-bottom: 1.2em; line-height: 1.7;">
 
-I am a sixth-year Ph.D. candidate in Economics at the University of California San Diego.<br class="desktop-only"> I also serve as the manager of the <a href="https://econlab.ucsd.edu/" target="_blank">UC San Diego Economics Laboratory (EconLab)</a>.
+I am a sixth-year Ph.D. candidate in Economics at the University of California San Diego.<br class="desktop-only"> I also serve as a manager of the <a href="https://econlab.ucsd.edu/" target="_blank">UC San Diego Economics Laboratory (EconLab)</a>.
 <!-- Prior to UC San Diego, I earned an M.A. in Economics from Central European University. -->
 
 </div>

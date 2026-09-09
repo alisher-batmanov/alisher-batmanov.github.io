@@ -211,7 +211,7 @@ I have been teaching at UC San Diego for four years across the Economics Departm
 
 <div class="course-block">
   <div class="course-title">ECON 109: Game Theory — Summer 2026, Winter 2024, Fall 2023, Summer 2023</div>
-  <div class="course-scores">Overall rating — 4.72/5, Positive responses — 95%</div>
+  <div class="course-scores">Overall rating — 4.66/5, Positive responses — 94%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-109-eval" onclick="toggleSection('eval-109','btn-109-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="/files/evals/Alisher_Evals_109.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Full evaluation report</a>
