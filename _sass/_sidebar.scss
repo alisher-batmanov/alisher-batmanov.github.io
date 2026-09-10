@@ -29,18 +29,18 @@
     padding-right: 0;
   }
 
-  /* 1) Force the entire sidebar to use the Open Sans font */
-  font-family: 'Open Sans', sans-serif;
+  /* 1) Force the entire sidebar to use the Lora font */
+  font-family: 'Lora', serif;
 
-  /* 2) Headings inside the sidebar also use Open Sans */
+  /* 2) Headings inside the sidebar also use Lora */
   h2, h3, h4, h5, h6 {
     margin-bottom: 0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lora', serif;
   }
 
-  /* 3) Paragraphs and lists in the sidebar use Open Sans */
+  /* 3) Paragraphs and lists in the sidebar use Lora */
   p, li {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Lora', serif;
     font-size: $type-size-6; // Adjust if you want bigger/smaller text
     line-height: 1.5;
   }
@@ -53,7 +53,7 @@
   /* 5) Increase the font size of the author's name */
   .author__name {
     margin: 0;
-    font-family: 'Open Sans', sans-serif;   
+    font-family: 'Lora', serif;   
     font-size: 1.125em;           // Slightly bigger than ~16px (type-size-5), but smaller than 20px (type-size-4)
     text-align: center;           // Center the text
 
@@ -158,8 +158,8 @@
   position: relative;
   display: table-cell;
   vertical-align: middle;
-  /* If you also want these links in Open Sans, add: */
-  font-family: 'Open Sans', sans-serif;
+  /* If you also want these links in Lora, add: */
+  font-family: 'Lora', serif;
 
   z-index: 10;
   cursor: pointer;
