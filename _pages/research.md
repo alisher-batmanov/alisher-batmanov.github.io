@@ -200,7 +200,7 @@ My research is primarily in experimental and behavioral economics, with a focus 
 <div class="research-section-label">Published Papers</div>
 
 <div class="paper-block">
-  <div class="paper-title" style="cursor: pointer;" onclick="window.open('https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5192345#','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Beliefs, Information Sharing, and Mental Health Care Use Among University Students" <span style="font-size: 0.85em;">[PDF]</span></div>
+  <div class="paper-title" style="cursor: pointer;" onclick="window.open('/files/Batmanov_et_al_2026_JDE.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Beliefs, Information Sharing, and Mental Health Care Use Among University Students" <span style="font-size: 0.85em;">[PDF]</span></div>
   <div class="paper-authors">Alisher Batmanov, <a href="https://sites.google.com/view/idagri/home?authuser=0" target="_blank">Ida Grigoryeva</a>, <a href="https://www.bruno-calderon.com" target="_blank">Bruno Calderon</a>, <a href="https://robertoglz.github.io" target="_blank">Roberto Gonz&aacute;lez</a> and <a href="https://research.tec.mx/vivo-tec/display/PID_316616" target="_blank">Alejandro Guardiola Ramires</a></div>
   <div class="paper-journal">Journal of Development Economics (2026)</div>
   <div class="paper-buttons">
