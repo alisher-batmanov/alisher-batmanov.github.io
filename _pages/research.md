@@ -15,7 +15,7 @@ author_profile: true
   text-transform: uppercase;
   color: #888;
   margin-bottom: 1.2em;
-  margin-top: 2.5em;
+  margin-top: 4em;
 }
 .research-section-label:first-of-type {
   margin-top: 0;
@@ -292,6 +292,18 @@ My research is primarily in experimental and behavioral economics, with a focus 
   </div>
   <div class="paper-abstract" id="ds-abstract">
     Although strategyproof matching mechanisms such as deferred acceptance (DA) and serial dictatorship (SD) guarantee that straightforward reporting is a dominant strategy, empirical evidence consistently documents widespread deviations from truthful behavior. This raises a fundamental question: are such deviations driven by strategic incentives, or by misunderstanding of the mechanism's informational structure? In this project, I examine whether alternative descriptions of strategyproof mechanisms can reduce cognitive burden and improve straightforward reporting. Rather than altering the underlying mechanism, I focus on how it is explained to participants. Specifically, I study interventions that highlight counterfactual outcomes under alternative rank-order lists, allowing participants to observe for themselves that strategizing cannot improve their payoff. By making the logic of strategyproofness transparent through concrete examples, the intervention aims to improve participants' understanding of dominant-strategy incentives and increase truthful reporting.
+  </div>
+</div>
+
+<div class="paper-block">
+  <div class="paper-title">"Learning About Therapy From Friends: Conversations and Treatment Take-Up Among Students"</div>
+  <div class="paper-authors">Alisher Batmanov and <a href="https://sites.google.com/view/idagri/home?authuser=0" target="_blank">Ida Grigoryeva</a></div>
+  <div class="paper-status"><em>Designing experiment</em></div>
+  <div class="paper-buttons">
+    <span class="paper-btn" id="btn-tf-abs" onclick="toggleSection('tf-abstract','btn-tf-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
+  </div>
+  <div class="paper-abstract" id="tf-abstract">
+    Many university students in mental distress do not seek professional help, even where counseling is free and widely regarded as effective. Information interventions that correct misperceptions about therapy have been shown to increase conversations about mental health and the sharing of resources among peers, yet their effects on individual help-seeking remain limited. In this project, we ask whether learning from friends' therapy-use experience can shift help-seeking itself. We propose a field experiment at a large university with free on-campus counseling, in which students attend small group sessions with their peers. In treated groups, a structured conversation invites participants to share how they or people close to them came to seek therapy and what the experience was like, while control groups discuss an unrelated campus topic. Our primary outcome is subsequent use of counseling services. To our knowledge, this is the first experiment to test whether learning from the lived experiences of peers moves students from talking about mental health to seeking care.
   </div>
 </div>
 
