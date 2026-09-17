@@ -244,6 +244,27 @@ My research is primarily in experimental and behavioral economics, with a focus 
 </div>
 
 
+<div class="research-section-label">Working Papers</div>
+
+<div class="paper-block">
+  <div class="paper-title" style="cursor: pointer;" onclick="window.open('/files/BG_working_paper.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Information versus Interpretation: Evidence from an Experiment on Persuasion" <span style="font-size: 0.85em;">[PDF]</span></div>
+  <div class="paper-authors">Alisher Batmanov and <a href="https://sites.google.com/view/bridgetgalaty" target="_blank">Bridget Galaty</a></div>
+  <div class="paper-buttons">
+    <span class="paper-btn" id="btn-narr-abs" onclick="toggleSection('narr-abstract','btn-narr-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
+    <span class="paper-btn" id="btn-narr-pres" onclick="toggleSection('narr-pres','btn-narr-pres')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg> Presentations</span>
+  </div>
+  <div class="paper-abstract" id="narr-abstract">
+    We experimentally study the relative persuasive effects of having more information versus having the same information but complementing the message with an explanation in a strategic communication environment. Senders recommend an action, and Receivers make a prediction based on a dataset they observe together with the Sender's recommendation. By varying the Sender's information and message format in a 2-by-2 design, we separate the effect of new information from that of new interpretation. We find that an informational advantage is the dominant channel: messages from better-informed Senders pull Receivers' guesses substantially closer to the recommendation, while adding an explanation to a message yields only a small insignificant effect, with or without an informational advantage. This asymmetry persists at every level of task difficulty. When the preferences of Senders and Receivers are aligned, information remains the stronger channel, though explanations now add marginal persuasive power. Consistent with these responses, when Receivers choose which type of message to receive, a majority prefer one from a better-informed Sender over one with an explanation, and the Receivers who prefer the explanation are the least responsive to information.
+  </div>
+  <div class="paper-presentations" id="narr-pres">
+    <ul>
+      <li>Economic Science Association (ESA) World Meeting (Los Angeles 2026)*</li>
+      <li>Behavioral &amp; Experimental Economics Student Conference (UC Santa Barbara 2025)*</li>
+    </ul>
+  </div>
+</div>
+
+
 <div class="research-section-label">Work in Progress</div>
 
 <div class="paper-block">
@@ -261,25 +282,6 @@ My research is primarily in experimental and behavioral economics, with a focus 
     <ul>
       <li>Economic Science Association (ESA) North American Meeting (Tucson 2025)</li>
       <li>Behavioral &amp; Experimental Economics Student Conference (UC Santa Barbara 2025)</li>
-    </ul>
-  </div>
-</div>
-
-<div class="paper-block">
-  <div class="paper-title">"Information vs. Interpretation: Evidence from an Experiment on Persuasion"</div>
-  <div class="paper-authors">Alisher Batmanov and <a href="https://sites.google.com/view/bridgetgalaty" target="_blank">Bridget Galaty</a></div>
-  <div class="paper-status"><em>Draft coming soon!</em></div>
-  <div class="paper-buttons">
-    <span class="paper-btn" id="btn-narr-abs" onclick="toggleSection('narr-abstract','btn-narr-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
-    <span class="paper-btn" id="btn-narr-pres" onclick="toggleSection('narr-pres','btn-narr-pres')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg> Presentations</span>
-  </div>
-  <div class="paper-abstract" id="narr-abstract">
-    In a strategic communication environment, we experimentally study the relative persuasive effects of possessing more information versus possessing the same information but complementing the message with an explanation. Senders recommend an action, and Receivers make a prediction based on a dataset they observe together with the Sender's recommendation. By varying the Sender's information and message format in a 2-by-2 design, we separate the effect of new information from that of new interpretation. We find that an informational advantage is the dominant channel: messages from better-informed Senders pull Receivers' guesses substantially closer to the recommendation, while adding an explanation to a message yields only a small insignificant effect, with or without an informational advantage. This asymmetry persists at every level of task difficulty. When the preferences of Senders and Receivers are aligned, information remains the stronger channel, though explanations now add marginal persuasive power. Consistent with these responses, when Receivers choose which type of message to receive, a majority prefer one from a better-informed Sender over one with an explanation, and the response to message types is concentrated among these Receivers.
-  </div>
-  <div class="paper-presentations" id="narr-pres">
-    <ul>
-      <li>Economic Science Association (ESA) World Meeting (Los Angeles 2026)*</li>
-      <li>Behavioral &amp; Experimental Economics Student Conference (UC Santa Barbara 2025)*</li>
     </ul>
   </div>
 </div>
