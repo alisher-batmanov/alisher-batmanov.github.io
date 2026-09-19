@@ -157,7 +157,7 @@ window.addEventListener('hashchange', openJmpIfNeeded);
 
 <div style="margin-bottom: 2em; line-height: 1.7;">
 
-My research is primarily in <strong>experimental and behavioral economics</strong>, with additional interests in development economics and economic theory. I mainly focus on how people learn to make better decisions, and why the resulting improvements often prove fragile. <strong>In the laboratory</strong>, I design controlled experiments that examine how individuals learn from exposure to others' behavior and from their own experience with the decision environment. <strong>In field settings</strong>, I study how inaccurate beliefs and learning from peers shape university students' decisions to seek mental health care. Below I describe three current strands of my research agenda, which is broadly focused on mistakes in decision-making and how people learn to overcome them through experience, observation, and information.
+My research is primarily in <strong>experimental and behavioral economics</strong>, with additional interests in development economics and economic theory. I mainly focus on how people learn to make better decisions, and why the resulting improvements often prove fragile. <strong>In the laboratory</strong>, I design controlled experiments that examine how individuals learn from exposure to others' behavior and from their own experience with the decision environment. <strong>In field settings</strong>, I study how inaccurate beliefs and learning from peers shape university students' decisions to seek mental health care.
 
 </div>
 
