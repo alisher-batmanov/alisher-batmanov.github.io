@@ -157,10 +157,11 @@ window.addEventListener('hashchange', openJmpIfNeeded);
 
 <div style="margin-bottom: 2em; line-height: 1.7;">
 
-My research is primarily in experimental and behavioral economics, with a focus on studying systematic biases in decision-making and the <strong>factors that impede learning</strong> from feedback diagnostic of optimal behavior. In my primary strand of work, I use laboratory experiments to design controlled environments that isolate specific sources of suboptimal behavior, such as neglect of informative signals, failure to disregard irrelevant contingencies, and susceptibility to how information is framed. I explore how <strong>exposure to others' decisions</strong> can facilitate learning, and how the structure and presentation of tasks can make environments that require contingent reasoning easier to navigate. In addition, I study miscalibrated beliefs and <strong>misperceptions related to mental health stigma</strong> among university students, and how targeted information interventions can correct them in a field setting.
+My research is primarily in <strong>experimental and behavioral economics</strong>, with additional interests in development economics and economic theory. I mainly focus on how people learn to make better decisions, and why the resulting improvements often prove fragile. <strong>In the laboratory</strong>, I design controlled experiments that examine how individuals learn from exposure to others' behavior and from their own experience with the decision environment. <strong>In field settings</strong>, I study how inaccurate beliefs and learning from peers shape university students' decisions to seek mental health care. Below I describe three current strands of my research agenda, which is broadly focused on mistakes in decision-making and how people learn to overcome them through experience, observation, and information.
 
 </div>
 
+<!-- TEMPORARILY HIDDEN: Research Statement button
 <div onclick="window.open('/files/Alisher_Research_Statement.pdf','_blank');" onmouseover="this.style.boxShadow='inset 0 0 0 1px #7B0000';" onmouseout="this.style.boxShadow='inset 0 0 0 1px #ccc';" style="display: flex; align-items: center; gap: 16px; padding: 14px 20px; box-shadow: inset 0 0 0 1px #ccc; border-radius: 6px; cursor: pointer; margin-bottom: 2.5em; transition: all 0.2s ease-in-out;">
   <svg width="30" height="30" viewBox="0 0 24 24" fill="none" stroke="#7B0000" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink: 0;"><line x1="3" y1="2.8" x2="3" y2="21"/><line x1="3" y1="21" x2="21.5" y2="21"/><path d="M1.9 4.3 L3 2.3 L4.1 4.3" fill="none"/><path d="M19.7 19.9 L21.7 21 L19.7 22.1" fill="none"/><line x1="5" y1="18.5" x2="21" y2="6" stroke-width="1.1"/><circle cx="5.6" cy="14.6" r="0.75" fill="#7B0000" stroke="none"/><circle cx="6.6" cy="19.6" r="0.75" fill="#7B0000" stroke="none"/><circle cx="8.2" cy="12.1" r="0.75" fill="#7B0000" stroke="none"/><circle cx="9.6" cy="17.9" r="0.75" fill="#7B0000" stroke="none"/><circle cx="10.4" cy="14.9" r="0.75" fill="#7B0000" stroke="none"/><circle cx="11.4" cy="8.9" r="0.75" fill="#7B0000" stroke="none"/><circle cx="13.1" cy="16.6" r="0.75" fill="#7B0000" stroke="none"/><circle cx="14.2" cy="11.3" r="0.75" fill="#7B0000" stroke="none"/><circle cx="15.4" cy="15.1" r="0.75" fill="#7B0000" stroke="none"/><circle cx="16.4" cy="6.6" r="0.75" fill="#7B0000" stroke="none"/><circle cx="18.4" cy="10.9" r="0.75" fill="#7B0000" stroke="none"/><circle cx="19.3" cy="4.6" r="0.75" fill="#7B0000" stroke="none"/><circle cx="20.5" cy="8.9" r="0.75" fill="#7B0000" stroke="none"/></svg>
   <div style="flex: 1;">
@@ -169,6 +170,7 @@ My research is primarily in experimental and behavioral economics, with a focus 
   </div>
   <div style="font-weight: 700; color: #7B0000; white-space: nowrap; font-size: 0.95em;">View PDF &rarr;</div>
 </div>
+-->
 
 <div class="research-section-label">Job Market Paper</div>
 

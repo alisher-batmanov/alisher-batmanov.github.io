@@ -167,6 +167,11 @@ h1.page__title {
     width: 100% !important;
     justify-content: center !important;
   }
+  /* Center the typing heading and the job-market line on mobile only */
+  #typing-heading,
+  .jm-line {
+    text-align: center !important;
+  }
 }
 
 /* --- Wider sidebar + bigger profile picture via flexbox override --- */
