@@ -24,7 +24,7 @@ The easiest way to reach me is by email. You can also use the form below and I'l
     style="width: 100%; padding: 0.7em; margin-bottom: 1.2em; border: 1.5px solid #ccc; border-radius: 6px; font-size: 1em; font-family: inherit; background: #fff8f9;">
 
   <label for="message" style="display: block; margin-bottom: 0.3em; font-weight: bold;">Message</label>
-  <textarea name="message" id="message" placeholder="what's on your mind?" required rows="6"
+  <textarea name="message" id="message" placeholder="your message" required rows="6"
     style="width: 100%; padding: 0.7em; margin-bottom: 1.5em; border: 1.5px solid #ccc; border-radius: 6px; font-size: 1em; font-family: inherit; resize: vertical; background: #fff8f9;"></textarea>
 
   <input type="hidden" name="_subject" value="New message from your website">

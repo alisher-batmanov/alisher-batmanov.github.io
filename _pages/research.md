@@ -20,6 +20,9 @@ author_profile: true
 .research-section-label:first-of-type {
   margin-top: 0;
 }
+.research-section-label.first-label {
+  margin-top: 0;
+}
 .paper-block {
   margin-bottom: 2.2em;
 }
@@ -155,7 +158,7 @@ window.addEventListener('hashchange', openJmpIfNeeded);
 # Research
 {% include base_path %}
 
-<div style="margin-bottom: 2em; line-height: 1.7;">
+<div style="margin-bottom: 1.5em; line-height: 1.7;">
 
 My research is primarily in <strong>experimental and behavioral economics</strong>, with additional interests in development economics and economic theory. I mainly focus on how people learn to make better decisions, and why the resulting improvements often prove fragile. <strong>In the laboratory</strong>, I design controlled experiments that examine how individuals learn from exposure to others' behavior and from their own experience with the decision environment. <strong>In field settings</strong>, I study how inaccurate beliefs and learning from peers shape university students' decisions to seek mental health care.
 
@@ -172,7 +175,7 @@ My research is primarily in <strong>experimental and behavioral economics</stron
 </div>
 -->
 
-<div class="research-section-label">Job Market Paper</div>
+<div class="research-section-label first-label">Job Market Paper</div>
 
 <div class="paper-block" id="jmp">
   <div class="paper-title" style="cursor: pointer;" onclick="window.open('/files/Alisher_JMP.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Fragile Learning From Others" <span style="font-size: 0.85em;">[PDF]</span></div>
