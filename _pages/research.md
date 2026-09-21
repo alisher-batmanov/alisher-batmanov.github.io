@@ -15,7 +15,7 @@ author_profile: true
   text-transform: uppercase;
   color: #888;
   margin-bottom: 1.2em;
-  margin-top: 4em;
+  margin-top: 2em;   /* = 1.5em of body text, same as the gap after the intro */
 }
 .research-section-label:first-of-type {
   margin-top: 0;
@@ -24,7 +24,10 @@ author_profile: true
   margin-top: 0;
 }
 .paper-block {
-  margin-bottom: 2.2em;
+  margin-bottom: 0;
+}
+.paper-block + .paper-block {
+  margin-top: 2.2em;   /* spacing between papers within a section, unchanged */
 }
 .paper-title {
   font-size: 1.05em;

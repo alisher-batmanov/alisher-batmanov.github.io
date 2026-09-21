@@ -61,11 +61,13 @@ My primary fields are <strong>Experimental Economics</strong> and <strong>Behavi
 
 </div>
 
+<!-- HIDDEN research paragraph
 <div style="margin-bottom: 1.2em; line-height: 1.7;">
 
 In my research, I use laboratory experiments to study systematic biases in decision-making, focusing on how people learn from feedback and from observing others' behavior. Specifically, I examine when behavioral improvements reflect genuine understanding versus superficial imitation, and how the structure of decision environments can foster more effective learning. In the field settings, I also study miscalibrated beliefs related to mental health and how targeted information interventions can correct them.
 
 </div>
+-->
 
 <!-- You can find the pronunciation of my first name [here](https://www.howtopronounce.com/alisher#google_vignette). -->
 
@@ -80,20 +82,6 @@ Conference Travel
   <li>Mar 19-21, 2026 — <a href="https://gregcleo.com/files/swet_2026_program.pdf" target="_blank">Southwest Economic Theory Conference (SWET), Loyola Marymount University</a></li>
 </ul>
 
-<div style="margin-top: 0.8em;">
-  <span id="btn-conf-2025" style="display:inline-flex; align-items:center; gap:5px; padding:5px 12px; border:1px solid #ccc; border-radius:4px; color:#000; text-decoration:none; font-size:0.85em; cursor:pointer; transition:all 0.2s ease-in-out; background:transparent; font-family:inherit;" onclick="var el=document.getElementById('conf-2025');var btn=this;if(el.style.display==='none'){el.style.display='block';btn.style.borderColor='#7B0000';btn.style.color='#7B0000';}else{el.style.display='none';btn.style.borderColor='#ccc';btn.style.color='#000';}">Conferences in 2025</span>
-</div>
-<div id="conf-2025" style="display:none; margin-top: 0.6em;">
-<ul class="conf-list">
-  <li>Nov 7-8, 2025 — Behavioral and Experimental Student Conference, UC Santa Barbara</li>
-  <li>Oct 24, 2025 — <a href="https://www.anderson.ucla.edu/faculty-research/behavioral-decision-making/los-angeles-experiments-lax-workshop#tab-agenda/" target="_blank">Los Angeles Experiments (LAX) Workshop, UCLA Anderson (participant)</a></li>
-  <li>Oct 10-12, 2025 — <a href="http://w3.econlab.arizona.edu/esa2025/" target="_blank">Economic Science Association (ESA) North American Meeting, Tucson AZ</a></li>
-  <li>Sep 18–19, 2025 — <a href="https://economics.uchicago.edu/advances-with-field-experiments-conference" target="_blank">Advances with Field Experiments Conference (AFE), UChicago</a></li>
-  <li>Sep 13–17, 2025 — <a href="https://voices.uchicago.edu/jlist/the-chicago-school-in-experimental-economics-2025/" target="_blank">The Chicago School in Experimental Economics (CSEE), UChicago</a></li>
-  <li>July 30 – Aug 1, 2025 — American Economic Association Mentoring Conference, Chicago</li>
-  <li>May 27–30, 2025 — <a href="https://blogs.cornell.edu/beam/beam2025/" target="_blank">Behavioral Economics Annual Meeting (BEAM), UC Berkeley (participant)</a></li>
-</ul>
-</div>
 
 
 Contact Info

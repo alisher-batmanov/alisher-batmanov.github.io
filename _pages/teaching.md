@@ -103,7 +103,7 @@ function toggleSection(id, btnId) {
 
 <div style="margin-bottom: 2em; line-height: 1.7;">
 
-I have been teaching at UC San Diego for four years across the Economics Department and the Rady School of Management. I have been the <strong>instructor of record 3 times and a teaching assistant (TA) across 10 different courses</strong>, many of them multiple times, ranging from PhD-level econometrics to game theory, behavioral economics, financial markets, and an experimental economics course for business majors. Across all of these roles, I have consistently received among the highest student evaluation scores in the department. In every course, I complement traditional office hours and recitations with a dedicated Discord server, giving students a platform to ask questions and collaborate in a space that fits naturally into how they already communicate.
+I have been teaching at UC San Diego since Summer 2022 across the Economics Department and the Rady School of Management, <strong>three times as the instructor of record and fifteen times as a teaching assistant</strong>, across ten different courses that range from Principles of Microeconomics to the first-year PhD econometrics course. My goal as a teacher is to give students the tools of economic reasoning and data analysis appropriate to each course, whether that means preparing future economists, equipping majors for careers that demand quantitative judgment, or building economic literacy among non-majors.
 
 </div>
 
