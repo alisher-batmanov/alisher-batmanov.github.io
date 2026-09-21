@@ -99,7 +99,7 @@ function toggleSection(id, btnId) {
 </script>
 
 <div class="page-pull-up"></div>
-# Teaching at UC San Diego
+# Teaching
 
 <div style="margin-bottom: 2em; line-height: 1.7;">
 

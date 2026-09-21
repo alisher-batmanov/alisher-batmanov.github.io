@@ -27,7 +27,7 @@ author_profile: true
   margin-bottom: 0;
 }
 .paper-block + .paper-block {
-  margin-top: 2.2em;   /* spacing between papers within a section, unchanged */
+  margin-top: 1.5em;   /* same gap as between sections (label margin-top 2em x 0.75em font = 1.5em) */
 }
 .paper-title {
   font-size: 1.05em;
