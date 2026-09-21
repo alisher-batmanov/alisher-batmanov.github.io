@@ -137,7 +137,7 @@ I have been teaching at UC San Diego since Summer 2022 across the Economics Depa
 
 <div class="course-block">
   <div class="course-title" style="color: #7B0000;">ECON 100A: Intermediate Microeconomics (Consumer and Producer Theory, GE) — Summer 2025</div>
-  <div class="course-scores">Student learning — 4.6/5, Course structure — 4.6/5, Class environment — 4.65/5</div>
+  <div class="course-scores">Student learning — 4.60/5, Course structure — 4.60/5, Class environment — 4.65/5</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-100a-eval" onclick="toggleSection('eval-100a','btn-100a-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>
     <a class="course-btn" href="/files/100A_Syllabus_Batmanov_SU25.pdf" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Course syllabus</a>
@@ -210,7 +210,7 @@ I have been teaching at UC San Diego since Summer 2022 across the Economics Depa
 </div>
 
 <div class="course-block">
-  <div class="course-title">ECON 109: Game Theory — Summer 2026, Winter 2024, Fall 2023, Summer 2023</div>
+  <div class="course-title">ECON 109: Game Theory — Summer 2026, Summer 2025, Winter 2024, Fall 2023, Summer 2023</div>
   <div class="course-scores">Overall rating — 4.66/5, Positive responses — 94%</div>
   <div class="course-buttons">
     <span class="course-btn" id="btn-109-eval" onclick="toggleSection('eval-109','btn-109-eval')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg> Evaluations preview</span>

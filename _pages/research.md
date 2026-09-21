@@ -209,7 +209,7 @@ My research is primarily in <strong>experimental and behavioral economics</stron
 
 <div class="paper-block">
   <div class="paper-title" style="cursor: pointer;" onclick="window.open('/files/Batmanov_et_al_2026_JDE.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Beliefs, Information Sharing, and Mental Health Care Use Among University Students" <span style="font-size: 0.85em;">[PDF]</span></div>
-  <div class="paper-authors">Alisher Batmanov, <a href="https://sites.google.com/view/idagri/home?authuser=0" target="_blank">Ida Grigoryeva</a>, <a href="https://www.bruno-calderon.com" target="_blank">Bruno Calderon</a>, <a href="https://robertoglz.github.io" target="_blank">Roberto Gonz&aacute;lez</a> and <a href="https://research.tec.mx/vivo-tec/display/PID_316616" target="_blank">Alejandro Guardiola Ramires</a></div>
+  <div class="paper-authors">Alisher Batmanov, <a href="https://sites.google.com/view/idagri/home?authuser=0" target="_blank">Idaliya Grigoryeva</a>, <a href="https://www.bruno-calderon.com" target="_blank">Bruno Calderon</a>, <a href="https://robertoglz.github.io" target="_blank">Roberto Gonz&aacute;lez</a> and <a href="https://research.tec.mx/vivo-tec/display/PID_316616" target="_blank">Alejandro Guardiola</a></div>
   <div class="paper-journal">Journal of Development Economics (2026)</div>
   <div class="paper-buttons">
     <span class="paper-btn" id="btn-mh-abs" onclick="toggleSection('mh-abstract','btn-mh-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
@@ -306,8 +306,8 @@ Identifying and discarding irrelevant contingencies is a crucial component of th
 </div>
 
 <div class="paper-block">
-  <div class="paper-title">"Learning About Therapy From Friends: Conversations and Treatment Take-Up Among Students"</div>
-  <div class="paper-authors">Alisher Batmanov and <a href="https://sites.google.com/view/idagri/home?authuser=0" target="_blank">Ida Grigoryeva</a></div>
+  <div class="paper-title">"Learning About Therapy From Friends: Conversations &amp; Treatment Take-Up Among Students"</div>
+  <div class="paper-authors">Alisher Batmanov and <a href="https://sites.google.com/view/idagri/home?authuser=0" target="_blank">Idaliya Grigoryeva</a></div>
   <div class="paper-status"><em>Designing experiment</em></div>
   <div class="paper-buttons">
     <span class="paper-btn" id="btn-tf-abs" onclick="toggleSection('tf-abstract','btn-tf-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
