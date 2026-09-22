@@ -11,32 +11,7 @@ redirect_from:
 
 <div class="page-pull-up"></div>
 
-<h1 id="typing-heading"><span id="typed-text"></span></h1>
-
-<style>
-#typing-heading {
-  min-height: 1.2em;
-}
-</style>
-
-<script>
-(function() {
-  const phrase = "Welcome to my website!";
-  const typedEl = document.getElementById("typed-text");
-  const typeSpeed = 90;
-  let charIndex = 0;
-
-  function typeChar() {
-    if (charIndex < phrase.length) {
-      typedEl.textContent += phrase.charAt(charIndex);
-      charIndex++;
-      setTimeout(typeChar, typeSpeed);
-    }
-  }
-
-  typeChar();
-})();
-</script>
+<h1 id="typing-heading">Welcome!</h1>
 
 <div style="margin-bottom: 1.2em; line-height: 1.7;">
 
@@ -88,5 +63,5 @@ Contact Info
 ------
 Email: [abatmanov@ucsd.edu](mailto:abatmanov@ucsd.edu)\
 University of California San Diego\
-Brian C. Malk Hall, Office 461\
+Brian C. Malk Hall, Office 365\
 9500 Gilman Dr, San Diego, CA 92093
