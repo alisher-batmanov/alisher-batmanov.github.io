@@ -49,12 +49,14 @@ In my research, I use laboratory experiments to study systematic biases in decis
 Conference Travel
 ------
 <ul class="conf-list">
-  <li>Oct 29 - Nov 1, 2026 — <a href="https://sites.google.com/view/northamerican-esa-uva-2026" target="_blank">Economic Science Association (ESA) North American Meeting, Charlottesville VA</a></li>
-  <li>Aug 6-7, 2026 — <a href="https://economics.stanford.edu/events/site-2026/session-6-experimental-economics" target="_blank">Stanford Institute for Theoretical Economics (SITE) Experimental Economics Conference, Stanford CA</a></li>
-  <li>July 14-17, 2026 — <a href="https://sites.google.com/view/esa2026la/home?authuser=0" target="_blank">Economic Science Association (ESA) World Meeting, Los Angeles CA</a></li>
-  <li>June 28 - July 7, 2026 — <a href="https://laibson.scholars.harvard.edu/rsfcamp" target="_blank">Russell Sage Foundation (RSF) Summer Institute in Behavioral Economics, Boston MA</a></li>
-  <li>June 18-19, 2026 — <a href="https://lindeinstitute.caltech.edu/research/ctess/ctess-events" target="_blank">Caltech Workshop in Theory-Based Experiments (CTESS), Los Angeles CA</a></li>
-  <li>Mar 19-21, 2026 — <a href="https://gregcleo.com/files/swet_2026_program.pdf" target="_blank">Southwest Economic Theory Conference (SWET), Loyola Marymount University</a></li>
+  <li>Nov 20-21 — Caltech Behavioral &amp; Experimental Economics Student Conference, Los Angeles CA</li>
+  <li>Nov 1-3 — <a href="https://www.nabe.com/NABE/Events/TEC26/TEC2026.aspx?WebsiteKey=91b9e16d-e6fe-4f31-a4af-02c194225c32&eb56ef1cf1e3=1#eb56ef1cf1e3" target="_blank">National Association for Business Economics (NABE) Tec2026 Conference, San Diego CA</a></li>
+  <li>Oct 29 - Nov 1 — <a href="https://sites.google.com/view/northamerican-esa-uva-2026" target="_blank">Economic Science Association (ESA) North American Meeting, Charlottesville VA</a></li>
+  <li>Aug 6-7 — <a href="https://economics.stanford.edu/events/site-2026/session-6-experimental-economics" target="_blank">Stanford Institute for Theoretical Economics (SITE) Experimental Economics Conference, Stanford CA</a></li>
+  <li>July 14-17 — <a href="https://sites.google.com/view/esa2026la/home?authuser=0" target="_blank">Economic Science Association (ESA) World Meeting, Los Angeles CA</a></li>
+  <li>June 28 - July 7 — <a href="https://laibson.scholars.harvard.edu/rsfcamp" target="_blank">Russell Sage Foundation (RSF) Summer Institute in Behavioral Economics, Boston MA</a></li>
+  <li>June 18-19 — <a href="https://lindeinstitute.caltech.edu/research/ctess/ctess-events" target="_blank">Caltech Workshop in Theory-Based Experiments (CTESS), Los Angeles CA</a></li>
+  <li>Mar 19-21 — <a href="https://gregcleo.com/files/swet_2026_program.pdf" target="_blank">Southwest Economic Theory Conference (SWET), Loyola Marymount University</a></li>
 </ul>
 
 
