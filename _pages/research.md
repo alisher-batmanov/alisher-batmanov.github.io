@@ -74,6 +74,12 @@ author_profile: true
   background: transparent;
   font-family: inherit;
 }
+.paper-btn.disabled {
+  color: #999 !important;
+  border-color: #ddd;
+  cursor: default;
+  pointer-events: none;
+}
 .paper-btn:hover {
   border-color: #7B0000;
   color: #7B0000 !important;
@@ -181,7 +187,7 @@ My research is primarily in <strong>experimental and behavioral economics</stron
 <div class="research-section-label first-label">Job Market Paper</div>
 
 <div class="paper-block" id="jmp">
-  <div class="paper-title" style="cursor: pointer;" onclick="window.open('/files/Alisher_JMP.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Fragile Learning From Others" <span style="font-size: 0.85em;">[PDF]</span></div>
+  <div class="paper-title" style="cursor: pointer;" onclick="window.open('/files/Alisher_JMP.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Fragile Learning From Others"</div>
   <div class="paper-buttons">
     <span class="paper-btn" id="btn-mm-abs" onclick="toggleSection('mm-abstract','btn-mm-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
     <span class="paper-btn" id="btn-mm-pres" onclick="toggleSection('mm-pres','btn-mm-pres')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="3" width="20" height="14" rx="2"/><line x1="8" y1="21" x2="16" y2="21"/><line x1="12" y1="17" x2="12" y2="21"/></svg> Presentations</span>
@@ -207,7 +213,7 @@ My research is primarily in <strong>experimental and behavioral economics</stron
 <div class="research-section-label">Published Papers</div>
 
 <div class="paper-block">
-  <div class="paper-title" style="cursor: pointer;" onclick="window.open('/files/Batmanov_et_al_2026_JDE_WP.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Beliefs, Information Sharing, and Mental Health Care Use Among University Students" <span style="font-size: 0.85em;">[PDF]</span></div>
+  <div class="paper-title" style="cursor: pointer;" onclick="window.open('/files/Batmanov_et_al_2026_JDE_WP.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Beliefs, Information Sharing, and Mental Health Care Use Among University Students"</div>
   <div class="paper-authors">Alisher Batmanov, <a href="https://sites.google.com/view/idagri/home?authuser=0" target="_blank">Idaliya Grigoryeva</a>, <a href="https://www.bruno-calderon.com" target="_blank">Bruno Calderon</a>, <a href="https://robertoglz.github.io" target="_blank">Roberto Gonz&aacute;lez</a> and <a href="https://research.tec.mx/vivo-tec/display/PID_316616" target="_blank">Alejandro Guardiola</a></div>
   <div class="paper-journal">Journal of Development Economics (2026)</div>
   <div class="paper-buttons">
@@ -229,12 +235,13 @@ My research is primarily in <strong>experimental and behavioral economics</stron
     <a class="paper-btn" href="https://www.sciencedirect.com/science/article/pii/S030438782500197X" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Journal article</a>
     <a class="paper-btn" href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JHYAVQ" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Replication package</a>
     <a class="paper-btn" href="https://x.com/Alisher_BV/status/2048283104641732832?s=20" target="_blank"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> Twitter thread</a>
+    <span class="paper-btn disabled"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg> VoxDev article (soon!)</span>
   </div>
 </div>
 
 
 <div class="paper-block">
-  <div class="paper-title" style="cursor: pointer;" onclick="window.open('https://www.econstor.eu/bitstream/10419/338965/1/I4R-DP287.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Reproducibility and Robustness of Economics and Political Science Research" <span style="font-size: 0.85em;">[PDF]</span></div>
+  <div class="paper-title" style="cursor: pointer;" onclick="window.open('https://www.econstor.eu/bitstream/10419/338965/1/I4R-DP287.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Reproducibility and Robustness of Economics and Political Science Research"</div>
   <div class="paper-authors">Meta paper with many co-authors</div>
   <div class="paper-journal">Nature (2026)</div>
   <div class="paper-buttons">
@@ -254,7 +261,7 @@ My research is primarily in <strong>experimental and behavioral economics</stron
 <div class="research-section-label">Working Papers</div>
 
 <div class="paper-block">
-  <div class="paper-title" style="cursor: pointer;" onclick="window.open('/files/BG_working_paper.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Information versus Interpretation: Evidence from an Experiment on Persuasion" <span style="font-size: 0.85em;">[PDF]</span></div>
+  <div class="paper-title" style="cursor: pointer;" onclick="window.open('/files/BG_working_paper.pdf','_blank');" onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">"Information versus Interpretation: Evidence from an Experiment on Persuasion"</div>
   <div class="paper-authors">Alisher Batmanov and <a href="https://sites.google.com/view/bridgetgalaty" target="_blank">Bridget Galaty</a></div>
   <div class="paper-buttons">
     <span class="paper-btn" id="btn-narr-abs" onclick="toggleSection('narr-abstract','btn-narr-abs')"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg> Abstract</span>
