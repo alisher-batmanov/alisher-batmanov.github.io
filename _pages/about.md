@@ -21,7 +21,7 @@ I am a sixth-year Ph.D. candidate in Economics at the University of California S
 </div>
 
 <div class="jm-line" style="margin-bottom: 1.2em; line-height: 1.7;">
-<strong style="color: #7B0000;">I am on the 2026-2027 Academic Job Market.</strong>
+<strong style="color: #7B0000;">I am on the 2026-2027 Job Market.</strong>
 </div>
 
 <div class="btn-row-stack-mobile" style="margin-top: 0.8em; margin-bottom: 1em; display: flex; flex-wrap: wrap; gap: 8px;">
